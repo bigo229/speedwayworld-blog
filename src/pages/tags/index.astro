@@ -1,0 +1,66 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const allTags = [...new Set(posts.flatMap((p) => p.data.tags))].sort();
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Tags - ${SITE_TITLE}`} description={`Browse all tags on ${SITE_TITLE}.`} />
+		<style>
+			.container {
+				max-width: 960px;
+				margin: 0 auto;
+				padding: 2rem 1rem;
+			}
+			.tag-cloud {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5rem;
+				margin-top: 1rem;
+			}
+			.tag-cloud a {
+				display: inline-block;
+				padding: 0.4rem 0.9rem;
+				background: var(--text-lighter);
+				border-radius: 4px;
+				font-size: 0.9rem;
+				color: var(--text);
+				text-decoration: none;
+			}
+			.tag-cloud a:hover {
+				background: var(--accent);
+				color: #fff;
+			}
+			.back-link {
+				display: inline-block;
+				margin-bottom: 1rem;
+				color: var(--accent);
+				text-decoration: none;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="container">
+				<a href="/blog" class="back-link">&larr; Back to all posts</a>
+				<h1>Tags</h1>
+				<div class="tag-cloud">
+					{allTags.map((tag) => (
+						<a href={`/tags/${tag}`}>{tag}</a>
+					))}
+				</div>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

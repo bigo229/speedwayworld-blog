@@ -1,0 +1,312 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import FormattedDate from '../components/FormattedDate.astro';
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+
+const POSTS_PER_PAGE = 10;
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const totalPages = Math.max(1, Math.ceil(allPosts.length / POSTS_PER_PAGE));
+const currentPage = Number(Astro.url.searchParams.get('page') || 1);
+const safePage = Math.min(Math.max(1, currentPage), totalPages);
+const posts = allPosts.slice((safePage - 1) * POSTS_PER_PAGE, safePage * POSTS_PER_PAGE);
+const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags))].sort();
+
+function groupByMonth(posts) {
+	const map = new Map();
+	for (const post of posts) {
+		const d = post.data.pubDate;
+		const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+		map.set(key, (map.get(key) || 0) + 1);
+	}
+	return Array.from(map.entries())
+		.sort((a, b) => b[0].localeCompare(a[0]))
+		.map(([key, count]) => {
+			const [year, month] = key.split('-');
+			const date = new Date(Number(year), Number(month) - 1);
+			const label = date.toLocaleString('default', { month: 'long', year: 'numeric' });
+			return { key, label, count, year, month };
+		});
+}
+const archives = groupByMonth(allPosts);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.hero {
+				position: relative;
+				padding: 5rem 1rem 4rem;
+				text-align: center;
+				color: #fff;
+				min-height: 320px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				margin-top: 0;
+			}
+			.hero-bg {
+				position: absolute;
+				inset: 0;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				z-index: 0;
+			}
+			.hero-content {
+				position: relative;
+				z-index: 1;
+				padding: 2rem;
+			}
+			.hero h1 {
+				font-size: clamp(2rem, 5vw, 3.5rem);
+				margin: 0 0 0.5rem;
+				font-family: var(--font-display);
+				color: #fff;
+				text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+			}
+			.hero p {
+				font-size: 1.2rem;
+				opacity: 0.95;
+				max-width: 600px;
+				margin: 0 auto;
+				color: #fff;
+				text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+			}
+			.main-layout {
+				display: flex;
+				gap: 2rem;
+				max-width: 1200px;
+				margin: 0 auto;
+				padding: 2rem 1rem;
+			}
+			.main-content {
+				flex: 1;
+				min-width: 0;
+			}
+			.sidebar {
+				flex: 0 0 280px;
+				max-width: 280px;
+			}
+			.post-card {
+				background: #fff;
+				border-radius: 8px;
+				overflow: hidden;
+				box-shadow: 0 2px 8px rgba(var(--black), 0.08);
+				margin-bottom: 1.5rem;
+			}
+			.post-card a {
+				text-decoration: none;
+				color: inherit;
+				display: block;
+			}
+			.post-card img {
+				width: 100%;
+				height: 200px;
+				object-fit: cover;
+			}
+			.post-card .content {
+				padding: 1rem;
+			}
+			.post-card h3 {
+				font-size: 1.1rem;
+				margin: 0 0 0.5rem;
+			}
+			.post-card .meta {
+				font-size: 0.85rem;
+				color: var(--text-light);
+			}
+			.sidebar-widget {
+				background: #fff;
+				border-radius: 8px;
+				padding: 1.2rem;
+				margin-bottom: 1.5rem;
+				box-shadow: 0 2px 8px rgba(var(--black), 0.06);
+			}
+			.sidebar-widget h4 {
+				margin: 0 0 0.75rem;
+				font-size: 1rem;
+			}
+			.search-form input {
+				width: 100%;
+				padding: 0.6rem;
+				border: 1px solid var(--text-lighter);
+				border-radius: 4px;
+				font-size: 0.95rem;
+			}
+			.tag-list {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.4rem;
+			}
+			.tag-list a {
+				display: inline-block;
+				padding: 0.25rem 0.6rem;
+				background: var(--text-lighter);
+				border-radius: 4px;
+				font-size: 0.8rem;
+				color: var(--text);
+				text-decoration: none;
+			}
+			.tag-list a:hover {
+				background: var(--accent);
+				color: #fff;
+			}
+			.archive-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			.archive-list li {
+				margin-bottom: 0.5rem;
+			}
+			.archive-list a {
+				color: var(--text);
+				text-decoration: none;
+				font-size: 0.9rem;
+				display: flex;
+				justify-content: space-between;
+			}
+			.archive-list a:hover {
+				color: var(--accent);
+			}
+			.pagination {
+				display: flex;
+				justify-content: center;
+				gap: 0.4rem;
+				margin-top: 2rem;
+				flex-wrap: wrap;
+			}
+			.pagination a,
+			.pagination span {
+				padding: 0.5rem 0.8rem;
+				border-radius: 4px;
+				text-decoration: none;
+				color: var(--text);
+				font-size: 0.9rem;
+			}
+			.pagination a:hover {
+				background: var(--text-lighter);
+				color: var(--accent);
+			}
+			.pagination .current {
+				background: var(--accent);
+				color: #fff;
+			}
+			@media (max-width: 840px) {
+				.main-layout {
+					flex-direction: column;
+				}
+				.sidebar {
+					flex: none;
+					max-width: 100%;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<div class="hero">
+			<img
+				src="/images/hero-header.jpg"
+				alt=""
+				class="hero-bg"
+			/>
+			<div class="hero-content">
+				<h1>My <strong>Speedway</strong>world Blog</h1>
+				<p>the latest speedway world news!!</p>
+			</div>
+		</div>
+		<div class="main-layout">
+			<main class="main-content">
+				{posts.map((post) => (
+					<article class="post-card">
+						<a href={`/blog/${post.id}/`}>
+							{post.data.heroImage && (
+								<img src={post.data.heroImage} alt={post.data.title} />
+							)}
+							<div class="content">
+								<h3>{post.data.title}</h3>
+								<p class="meta">
+									<FormattedDate date={post.data.pubDate} />
+									{post.data.tags.length > 0 && ` • ${post.data.tags.join(', ')}`}
+								</p>
+							</div>
+						</a>
+					</article>
+				))}
+				<nav class="pagination" aria-label="Pagination">
+					{safePage > 1 && (
+						<a href={`/?page=${safePage - 1}`}>&laquo; Prev</a>
+					)}
+					{safePage > 2 && (
+						<a href={`/?page=1`}>1</a>
+					)}
+					{safePage > 3 && <span>...</span>}
+					{Array.from({ length: totalPages }, (_, i) => i + 1)
+						.filter((p) => Math.abs(p - safePage) <= 1 || p === 1 || p === totalPages)
+						.map((p, idx, arr) => {
+							const showEllipsisBefore = idx > 0 && arr[idx - 1] !== p - 1;
+							return (
+								<>
+									{showEllipsisBefore && <span>...</span>}
+									{p === safePage ? (
+										<span class="current">{p}</span>
+									) : (
+										<a href={`/?page=${p}`}>{p}</a>
+									)}
+								</>
+							);
+						})}
+					{safePage < totalPages && (
+						<a href={`/?page=${safePage + 1}`}>Next &raquo;</a>
+					)}
+				</nav>
+			</main>
+			<aside class="sidebar">
+				<div class="sidebar-widget">
+					<h4>Search</h4>
+					<form class="search-form" action="/search" method="get">
+						<input
+							type="search"
+							name="q"
+							placeholder="Search posts..."
+							aria-label="Search posts"
+							required
+							minlength="3"
+						/>
+					</form>
+				</div>
+				<div class="sidebar-widget">
+					<h4>Popular Tags</h4>
+					<div class="tag-list">
+						{allTags.map((tag) => (
+							<a href={`/tags/${tag}`}>{tag}</a>
+						))}
+					</div>
+				</div>
+				<div class="sidebar-widget">
+					<h4>Archives</h4>
+					<ul class="archive-list">
+						{archives.map((a) => (
+							<li>
+								<a href={`/archives/${a.year}/${a.month}`}>
+									<span>{a.label}</span>
+									<span style="color: var(--text-light); font-size: 0.8rem;">({a.count})</span>
+								</a>
+							</li>
+						))}
+					</ul>
+				</div>
+			</aside>
+		</div>
+		<Footer />
+	</body>
+</html>

@@ -1,0 +1,57 @@
+---
+import { redirect } from 'astro:middleware';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="robots" content="noindex" />
+		<title>Content Manager</title>
+		<script>
+			window.CMS_MANUAL_INIT = true;
+		</script>
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	</head>
+	<body>
+		<script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
+		<script>
+			initCMS({
+				config: {
+					load_config_file: false,
+					backend: {
+						name: "github",
+						repo: "owner/repo",
+						branch: "main",
+						base_url: "http://localhost:4321",
+						auth_scope: "repo",
+						proxy_url: "/admin/api"
+					},
+					media_folder: "public/images/blog",
+					public_folder: "/images/blog",
+					collections: [
+						{
+							name: "blog",
+							label: "Blog Posts",
+							folder: "src/content/blog",
+							create: true,
+							delete: true,
+							slug: "{{slug}}",
+							fields: [
+								{ label: "Title", name: "title", widget: "string" },
+								{ label: "Description", name: "description", widget: "text" },
+								{ label: "Publish Date", name: "pubDate", widget: "datetime" },
+								{ label: "Updated Date", name: "updatedDate", widget: "datetime", required: false },
+								{ label: "Hero Image", name: "heroImage", widget: "image", required: false },
+								{ label: "Author", name: "author", widget: "string", default: "SpeedwayWorld WebTeam" },
+								{ label: "Tags", name: "tags", widget: "list", required: false },
+								{ label: "Category", name: "category", widget: "string", required: false }
+							]
+						}
+					]
+				}
+			});
+		</script>
+	</body>
+</html>
