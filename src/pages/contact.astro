@@ -24,18 +24,21 @@
 </layout>
 
 <script>
-  const form = document.getElementById('contact-form') as HTMLFormElement;
-  const statusMessage = document.getElementById('status-message');
+  // This function sets up the form listener
+  function setupForm() {
+    const form = document.getElementById('contact-form') as HTMLFormElement;
+    const statusMessage = document.getElementById('status-message');
 
-  if (form) {
+    if (!form) return;
+
     form.addEventListener('submit', async (e) => {
-      e.preventDefault(); // Stop the default page redirect/reload
+      e.preventDefault(); // 1. STOPS the page from going straight to Formspree
+      console.log('Form submission intercepted successfully!');
 
-      // Extract form data
       const data = new FormData(form);
 
       try {
-        // Send the data to Formspree asynchronously
+        // 2. Sends data to Formspree silently in the background
         const response = await fetch(form.action, {
           method: form.method,
           body: data,
@@ -45,23 +48,28 @@
         });
 
         if (response.ok) {
-          // Show the success/countdown message to the user
+          // 3. Show countdown message
           if (statusMessage) statusMessage.style.display = 'block';
           
-          // Disable the button to prevent multiple submissions
           const submitBtn = form.querySelector('button[type="submit"]') as HTMLButtonElement;
           if (submitBtn) submitBtn.disabled = true;
 
-          // Wait 2 seconds (2000ms) then redirect to the thanks page
+          // 4. Redirect after 2 seconds
           setTimeout(() => {
             window.location.href = '/thanks';
           }, 2000);
         } else {
-          alert('Oops! There was a problem submitting your form. Please try again.');
+          alert('Oops! There was a problem submitting your form.');
         }
       } catch (error) {
-        alert('Oops! There was a connectivity problem. Please try again.');
+        alert('Network error. Please try again.');
       }
     });
   }
+
+  // Runs on initial load OR on Astro page transitions
+  document.addEventListener('astro:page-load', setupForm);
+  
+  // Fallback for standard page loads
+  setupForm();
 </script>
