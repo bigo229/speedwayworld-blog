@@ -12,6 +12,28 @@ import Footer from '../components/Footer.astro';
   
   <style is:global>
     @import "../styles/global.css";
+
+    /* Smooth hover effect for the submit button */
+    .submit-btn {
+      padding: 0.75rem 1.5rem; 
+      background-color: #0070f3; 
+      color: white; 
+      border: none; 
+      border-radius: 4px; 
+      font-size: 1rem; 
+      cursor: pointer; 
+      font-weight: 600; 
+      transition: background-color 0.2s ease-in-out;
+    }
+
+    .submit-btn:hover {
+      background-color: #0051b3; /* Richer blue shade on hover */
+    }
+
+    .submit-btn:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
   </style>
 </head>
 <body>
@@ -23,26 +45,28 @@ import Footer from '../components/Footer.astro';
       Have a question or feedback? Drop us a message using the form below.
     </p>
     
-    <form id="contact-form" action="https://formspree.io/f/maeybjkv" method="POST" style="display: flex; flex-direction: column; gap: 1.5rem;">
-      <!-- Added Name Field -->
+    <form id="contact-form" action="https://formspree.io" method="POST" style="display: flex; flex-direction: column; gap: 1.5rem;">
+      <!-- Name Field (Required) -->
       <div>
         <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Full Name</label>
         <input id="name" type="text" name="name" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;" />
       </div>
 
+      <!-- Email Field (Required) -->
       <div>
         <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Email Address</label>
         <input id="email" type="email" name="email" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;" />
       </div>
       
+      <!-- Message Field (Required) -->
       <div>
         <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Message</label>
         <textarea id="message" name="message" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; min-height: 150px; font-size: 1rem; font-family: inherit;"></textarea>
       </div>
       
-      <!-- Submit Button (Updated to Light Blue) -->
+      <!-- Submit Button Wrapper -->
       <div>
-        <button type="submit" style="padding: 0.75rem 1.5rem; background-color: #0070f3; color: white; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer; font-weight: 600; transition: background-color 0.2s ease;">Submit Message</button>
+        <button type="submit" class="submit-btn">Submit Message</button>
       </div>
     </form>
 
