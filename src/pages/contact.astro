@@ -1,9 +1,7 @@
 ---
 // src/pages/contact.astro
 import BaseHead from '../components/BaseHead.astro';
-
-// Import your navigation and footer components here!
-import Header from '../components/Header.astro'; 
+import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 ---
 
@@ -11,34 +9,44 @@ import Footer from '../components/Footer.astro';
 <html lang="en">
 <head>
   <BaseHead title="Contact Us" description="Get in touch with us." />
+  
+  <!-- This imports the global template styles so the headers and footers aren't plain -->
+  <style is:global>
+    @import "../styles/global.css";
+  </style>
 </head>
 <body>
-  <!-- 1. Add your Header/Nav at the top of the body -->
+  <!-- Your standard layout navigation bar -->
   <Header />
 
-  <main style="padding: 2rem; max-width: 600px; margin: 0 auto; min-height: 70vh;">
+  <main style="padding: 2rem; max-width: 720px; margin: 0 auto; min-height: 60vh;">
     <h1>Contact Us</h1>
+    <p style="margin-bottom: 2rem; color: rgb(var(--gray));">
+      Have a question or feedback? Drop us a message using the form below.
+    </p>
     
-    <form id="contact-form" action="https://formspree.io/f/maeybjkv" method="POST">
-      <div style="margin-bottom: 1rem;">
-        <label for="email" style="display: block; margin-bottom: 0.5rem;">Email Address</label>
-        <input id="email" type="email" name="email" required style="width: 100%; padding: 0.5rem;" />
+    <form id="contact-form" action="https://formspree.io" method="POST" style="display: flex; flex-direction: column; gap: 1.5rem;">
+      <div>
+        <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Email Address</label>
+        <input id="email" type="email" name="email" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;" />
       </div>
       
-      <div style="margin-bottom: 1rem;">
-        <label for="message" style="display: block; margin-bottom: 0.5rem;">Message</label>
-        <textarea id="message" name="message" required style="width: 100%; padding: 0.5rem; min-height: 100px;"></textarea>
+      <div>
+        <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Message</label>
+        <textarea id="message" name="message" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; min-height: 150px; font-size: 1rem; font-family: inherit;"></textarea>
       </div>
       
-      <button type="submit" style="padding: 0.5rem 1rem; cursor: pointer;">Submit</button>
+      <div>
+        <button type="submit" style="padding: 0.75rem 1.5rem; background-color: rgb(var(--black, 0, 0, 0)); color: white; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer; font-weight: 600;">Submit Message</button>
+      </div>
     </form>
 
-    <p id="status-message" style="display: none; color: green; font-weight: bold; margin-top: 1rem;">
-      Thank you! Redirecting you in 2 seconds...
+    <p id="status-message" style="display: none; color: green; font-weight: bold; margin-top: 1.5rem; padding: 1rem; background-color: #e6f4ea; border-radius: 4px;">
+      Thank you! Redirecting you to the confirmation page in 2 seconds...
     </p>
   </main>
 
-  <!-- 2. Add your Footer at the bottom of the body -->
+  <!-- Your standard layout footer block -->
   <Footer />
 </body>
 </html>
@@ -51,7 +59,7 @@ import Footer from '../components/Footer.astro';
     if (!form) return;
 
     form.addEventListener('submit', async (e) => {
-      e.preventDefault();
+      e.preventDefault(); // Stop Formspree from taking over the window immediately
       
       const data = new FormData(form);
 
@@ -70,6 +78,7 @@ import Footer from '../components/Footer.astro';
           const submitBtn = form.querySelector('button[type="submit"]');
           if (submitBtn) submitBtn.disabled = true;
 
+          // Perform the 2 second delay redirection natively
           setTimeout(() => {
             window.location.href = '/thanks';
           }, 2000);
@@ -82,6 +91,7 @@ import Footer from '../components/Footer.astro';
     });
   }
 
+  // Bind listener safe for hard loads or background script caching layers
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', setupForm);
   } else {
