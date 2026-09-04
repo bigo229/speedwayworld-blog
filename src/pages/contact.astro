@@ -24,7 +24,6 @@
 </layout>
 
 <script>
-  // This function sets up the form listener
   function setupForm() {
     const form = document.getElementById('contact-form') as HTMLFormElement;
     const statusMessage = document.getElementById('status-message');
@@ -32,13 +31,12 @@
     if (!form) return;
 
     form.addEventListener('submit', async (e) => {
-      e.preventDefault(); // 1. STOPS the page from going straight to Formspree
+      e.preventDefault(); // This will reliably intercept now
       console.log('Form submission intercepted successfully!');
 
       const data = new FormData(form);
 
       try {
-        // 2. Sends data to Formspree silently in the background
         const response = await fetch(form.action, {
           method: form.method,
           body: data,
@@ -48,13 +46,11 @@
         });
 
         if (response.ok) {
-          // 3. Show countdown message
           if (statusMessage) statusMessage.style.display = 'block';
           
           const submitBtn = form.querySelector('button[type="submit"]') as HTMLButtonElement;
           if (submitBtn) submitBtn.disabled = true;
 
-          // 4. Redirect after 2 seconds
           setTimeout(() => {
             window.location.href = '/thanks';
           }, 2000);
@@ -67,9 +63,7 @@
     });
   }
 
-  // Runs on initial load OR on Astro page transitions
+  // Astro's 'astro:page-load' handles both standard loads and transitions.
+  // Do NOT add a standalone setupForm() call below it.
   document.addEventListener('astro:page-load', setupForm);
-  
-  // Fallback for standard page loads
-  setupForm();
 </script>
