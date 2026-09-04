@@ -10,13 +10,11 @@ import Footer from '../components/Footer.astro';
 <head>
   <BaseHead title="Contact Us" description="Get in touch with us." />
   
-  <!-- This imports the global template styles so the headers and footers aren't plain -->
   <style is:global>
     @import "../styles/global.css";
   </style>
 </head>
 <body>
-  <!-- Your standard layout navigation bar -->
   <Header />
 
   <main style="padding: 2rem; max-width: 720px; margin: 0 auto; min-height: 60vh;">
@@ -25,7 +23,13 @@ import Footer from '../components/Footer.astro';
       Have a question or feedback? Drop us a message using the form below.
     </p>
     
-    <form id="contact-form" action="https://formspree.io/f/maeybjkv" method="POST" style="display: flex; flex-direction: column; gap: 1.5rem;">
+    <form id="contact-form" action="https://formspree.io" method="POST" style="display: flex; flex-direction: column; gap: 1.5rem;">
+      <!-- Added Name Field -->
+      <div>
+        <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Full Name</label>
+        <input id="name" type="text" name="name" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;" />
+      </div>
+
       <div>
         <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Email Address</label>
         <input id="email" type="email" name="email" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;" />
@@ -36,8 +40,9 @@ import Footer from '../components/Footer.astro';
         <textarea id="message" name="message" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; min-height: 150px; font-size: 1rem; font-family: inherit;"></textarea>
       </div>
       
+      <!-- Submit Button (Updated to Light Blue) -->
       <div>
-        <button type="submit" style="padding: 0.75rem 1.5rem; background-color: rgb(var(--black, 0, 0, 0)); color: white; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer; font-weight: 600;">Submit Message</button>
+        <button type="submit" style="padding: 0.75rem 1.5rem; background-color: #0070f3; color: white; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer; font-weight: 600; transition: background-color 0.2s ease;">Submit Message</button>
       </div>
     </form>
 
@@ -46,7 +51,6 @@ import Footer from '../components/Footer.astro';
     </p>
   </main>
 
-  <!-- Your standard layout footer block -->
   <Footer />
 </body>
 </html>
@@ -59,7 +63,7 @@ import Footer from '../components/Footer.astro';
     if (!form) return;
 
     form.addEventListener('submit', async (e) => {
-      e.preventDefault(); // Stop Formspree from taking over the window immediately
+      e.preventDefault(); 
       
       const data = new FormData(form);
 
@@ -78,7 +82,6 @@ import Footer from '../components/Footer.astro';
           const submitBtn = form.querySelector('button[type="submit"]');
           if (submitBtn) submitBtn.disabled = true;
 
-          // Perform the 2 second delay redirection natively
           setTimeout(() => {
             window.location.href = '/thanks';
           }, 2000);
@@ -91,7 +94,6 @@ import Footer from '../components/Footer.astro';
     });
   }
 
-  // Bind listener safe for hard loads or background script caching layers
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', setupForm);
   } else {
