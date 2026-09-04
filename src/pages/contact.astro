@@ -1,18 +1,18 @@
 ---
+// src/pages/contact.astro
 import BaseHead from '../components/BaseHead.astro';
 ---
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Wire up your existing BaseHead component here -->
   <BaseHead title="Contact Us" description="Get in touch with us." />
 </head>
 <body>
   <main style="padding: 2rem; max-width: 600px; margin: 0 auto;">
     <h1>Contact Us</h1>
     
-    <form id="contact-form" action="https://formspree.io" method="POST">
+    <form id="contact-form" action="https://formspree.io/f/maeybjkv" method="POST">
       <div style="margin-bottom: 1rem;">
         <label for="email" style="display: block; margin-bottom: 0.5rem;">Email Address</label>
         <input id="email" type="email" name="email" required style="width: 100%; padding: 0.5rem;" />
@@ -41,7 +41,7 @@ import BaseHead from '../components/BaseHead.astro';
     if (!form) return;
 
     form.addEventListener('submit', async (e) => {
-      e.preventDefault(); // Prevents the default Formspree redirect
+      e.preventDefault(); // Stop Formspree redirect
       
       const data = new FormData(form);
 
@@ -72,7 +72,6 @@ import BaseHead from '../components/BaseHead.astro';
     });
   }
 
-  // Ensures script runs regardless of how the page is loaded
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', setupForm);
   } else {
