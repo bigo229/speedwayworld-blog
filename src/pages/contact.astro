@@ -15,6 +15,10 @@ import Footer from '../components/Footer.astro';
 
     /* Smooth hover effect for the submit button */
     .submit-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
       padding: 0.75rem 1.5rem; 
       background-color: #0070f3; 
       color: white; 
@@ -33,6 +37,23 @@ import Footer from '../components/Footer.astro';
     .submit-btn:disabled {
       background-color: #cccccc;
       cursor: not-allowed;
+    }
+
+    /* CSS Loading Spinner */
+    .spinner {
+      display: none; /* Hidden by default */
+      width: 18px;
+      height: 18px;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      border-radius: 50%;
+      border-top-color: white;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
     }
   </style>
 </head>
@@ -66,7 +87,10 @@ import Footer from '../components/Footer.astro';
       
       <!-- Submit Button Wrapper -->
       <div>
-        <button type="submit" class="submit-btn">Submit Message</button>
+        <button type="submit" class="submit-btn" id="submit-btn">
+          <span class="spinner" id="btn-spinner"></span>
+          <span id="btn-text">Submit Message</span>
+        </button>
       </div>
     </form>
 
@@ -83,12 +107,20 @@ import Footer from '../components/Footer.astro';
   function setupForm() {
     const form = document.getElementById('contact-form');
     const statusMessage = document.getElementById('status-message');
+    const submitBtn = document.getElementById('submit-btn');
+    const btnSpinner = document.getElementById('btn-spinner');
+    const btnText = document.getElementById('btn-text');
 
     if (!form) return;
 
     form.addEventListener('submit', async (e) => {
       e.preventDefault(); 
       
+      // Update UI state to loading
+      if (submitBtn) submitBtn.disabled = true;
+      if (btnSpinner) btnSpinner.style.display = 'inline-block';
+      if (btnText) btnText.textContent = 'Sending...';
+
       const data = new FormData(form);
 
       try {
@@ -101,21 +133,29 @@ import Footer from '../components/Footer.astro';
         });
 
         if (response.ok) {
+          // Hide spinner on success
+          if (btnSpinner) btnSpinner.style.display = 'none';
+          if (btnText) btnText.textContent = 'Sent!';
           if (statusMessage) statusMessage.style.display = 'block';
-          
-          const submitBtn = form.querySelector('button[type="submit"]');
-          if (submitBtn) submitBtn.disabled = true;
 
           setTimeout(() => {
             window.location.href = '/thanks';
           }, 2000);
         } else {
           alert('Oops! There was a problem submitting your form.');
+          resetButton();
         }
       } catch (error) {
         alert('Network error. Please try again.');
+        resetButton();
       }
     });
+
+    function resetButton() {
+      if (submitBtn) submitBtn.disabled = false;
+      if (btnSpinner) btnSpinner.style.display = 'none';
+      if (btnText) btnText.textContent = 'Submit Message';
+    }
   }
 
   if (document.readyState === 'loading') {
