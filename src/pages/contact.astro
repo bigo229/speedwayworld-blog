@@ -13,6 +13,28 @@ import Footer from '../components/Footer.astro';
   <style is:global>
     @import "../styles/global.css";
 
+    /* Base Form Styling */
+    .form-input {
+      width: 100%; 
+      padding: 0.75rem; 
+      border: 1px solid #ccc; 
+      border-radius: 4px; 
+      font-size: 1rem;
+      outline: none;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    /* Subtle Visual Validation Cues (Only triggers after user edits) */
+    .form-input:user-valid {
+      border-color: #28a745;
+      box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.1);
+    }
+
+    .form-input:user-invalid {
+      border-color: #dc3545;
+      box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.1);
+    }
+
     /* Smooth hover effect for the submit button */
     .submit-btn {
       display: inline-flex;
@@ -31,7 +53,7 @@ import Footer from '../components/Footer.astro';
     }
 
     .submit-btn:hover {
-      background-color: #0051b3; /* Richer blue shade on hover */
+      background-color: #0051b3; 
     }
 
     .submit-btn:disabled {
@@ -41,7 +63,7 @@ import Footer from '../components/Footer.astro';
 
     /* CSS Loading Spinner */
     .spinner {
-      display: none; /* Hidden by default */
+      display: none; 
       width: 18px;
       height: 18px;
       border: 2px solid rgba(255, 255, 255, 0.3);
@@ -70,19 +92,19 @@ import Footer from '../components/Footer.astro';
       <!-- Name Field (Required) -->
       <div>
         <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Full Name</label>
-        <input id="name" type="text" name="name" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;" />
+        <input id="name" type="text" name="name" class="form-input" required />
       </div>
 
       <!-- Email Field (Required) -->
       <div>
         <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Email Address</label>
-        <input id="email" type="email" name="email" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;" />
+        <input id="email" type="email" name="email" class="form-input" required />
       </div>
       
       <!-- Message Field (Required) -->
       <div>
         <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Message</label>
-        <textarea id="message" name="message" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; min-height: 150px; font-size: 1rem; font-family: inherit;"></textarea>
+        <textarea id="message" name="message" class="form-input" required style="min-height: 150px; font-family: inherit;"></textarea>
       </div>
       
       <!-- Submit Button Wrapper -->
@@ -116,7 +138,6 @@ import Footer from '../components/Footer.astro';
     form.addEventListener('submit', async (e) => {
       e.preventDefault(); 
       
-      // Update UI state to loading
       if (submitBtn) submitBtn.disabled = true;
       if (btnSpinner) btnSpinner.style.display = 'inline-block';
       if (btnText) btnText.textContent = 'Sending...';
@@ -133,7 +154,6 @@ import Footer from '../components/Footer.astro';
         });
 
         if (response.ok) {
-          // Hide spinner on success
           if (btnSpinner) btnSpinner.style.display = 'none';
           if (btnText) btnText.textContent = 'Sent!';
           if (statusMessage) statusMessage.style.display = 'block';
