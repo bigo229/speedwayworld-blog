@@ -12,6 +12,8 @@
     "astro": "astro"
   },
   "dependencies": {
+    "astro": "*",
+    "@astrojs/cloudflare": "*"
     "@astrojs/mdx": "^8.0.0",
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.4",
