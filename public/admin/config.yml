@@ -2,7 +2,7 @@ backend:
   name: github
   repo: owner/repo
   branch: main
-  base_url: https://speedwayworld.x10.bz
+  base_url: https://speedwayworld-blog.bigo229.workers.dev
   auth_scope: repo
   proxy_url: /admin/api
 
