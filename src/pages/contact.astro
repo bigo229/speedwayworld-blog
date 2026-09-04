@@ -1,12 +1,12 @@
 ---
 // src/pages/contact.astro
+import Layout from '../layouts/Layout.astro'; // Ensure this import matches your project structure!
 ---
 
-<layout title="Contact Us">
+<Layout title="Contact Us">
   <main>
     <h1>Contact Us</h1>
     
-    <!-- Replace FORMSPREE_ID with your actual Formspree form ID -->
     <form id="contact-form" action="https://formspree.io/f/maeybjkv" method="POST">
       <label for="email">Email Address</label>
       <input id="email" type="email" name="email" required />
@@ -21,19 +21,18 @@
       Thank you! Redirecting you in 2 seconds...
     </p>
   </main>
-</layout>
+</Layout>
 
-<script>
+<script is:inline>
   function setupForm() {
-    const form = document.getElementById('contact-form') as HTMLFormElement;
+    const form = document.getElementById('contact-form');
     const statusMessage = document.getElementById('status-message');
 
     if (!form) return;
 
     form.addEventListener('submit', async (e) => {
-      e.preventDefault(); // This will reliably intercept now
-      console.log('Form submission intercepted successfully!');
-
+      e.preventDefault(); // This stops the direct Formspree submission redirect
+      
       const data = new FormData(form);
 
       try {
@@ -48,7 +47,7 @@
         if (response.ok) {
           if (statusMessage) statusMessage.style.display = 'block';
           
-          const submitBtn = form.querySelector('button[type="submit"]') as HTMLButtonElement;
+          const submitBtn = form.querySelector('button[type="submit"]');
           if (submitBtn) submitBtn.disabled = true;
 
           setTimeout(() => {
@@ -63,7 +62,13 @@
     });
   }
 
-  // Astro's 'astro:page-load' handles both standard loads and transitions.
-  // Do NOT add a standalone setupForm() call below it.
+  // Runs on Astro view transitions
   document.addEventListener('astro:page-load', setupForm);
+  
+  // Runs on standard hard refresh / page load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupForm);
+  } else {
+    setupForm();
+  }
 </script>
