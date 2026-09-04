@@ -1,27 +1,38 @@
 ---
 // src/pages/contact.astro
-import Layout from '../layouts/Layout.astro'; // Ensure this import matches your project structure!
+import BaseHead from '../components/BaseHead.astro';
 ---
 
-<Layout title="Contact Us">
-  <main>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Wire up your existing BaseHead component here -->
+  <BaseHead title="Contact Us" description="Get in touch with us." />
+</head>
+<body>
+  <main style="padding: 2rem; max-width: 600px; margin: 0 auto;">
     <h1>Contact Us</h1>
     
-    <form id="contact-form" action="https://formspree.io/f/maeybjkv" method="POST">
-      <label for="email">Email Address</label>
-      <input id="email" type="email" name="email" required />
+    <form id="contact-form" action="https://formspree.io" method="POST">
+      <div style="margin-bottom: 1rem;">
+        <label for="email" style="display: block; margin-bottom: 0.5rem;">Email Address</label>
+        <input id="email" type="email" name="email" required style="width: 100%; padding: 0.5rem;" />
+      </div>
       
-      <label for="message">Message</label>
-      <textarea id="message" name="message" required></textarea>
+      <div style="margin-bottom: 1rem;">
+        <label for="message" style="display: block; margin-bottom: 0.5rem;">Message</label>
+        <textarea id="message" name="message" required style="width: 100%; padding: 0.5rem; min-height: 100px;"></textarea>
+      </div>
       
-      <button type="submit">Submit</button>
+      <button type="submit" style="padding: 0.5rem 1rem; cursor: pointer;">Submit</button>
     </form>
 
-    <p id="status-message" style="display: none; color: green; font-weight: bold;">
+    <p id="status-message" style="display: none; color: green; font-weight: bold; margin-top: 1rem;">
       Thank you! Redirecting you in 2 seconds...
     </p>
   </main>
-</Layout>
+</body>
+</html>
 
 <script is:inline>
   function setupForm() {
@@ -31,7 +42,7 @@ import Layout from '../layouts/Layout.astro'; // Ensure this import matches your
     if (!form) return;
 
     form.addEventListener('submit', async (e) => {
-      e.preventDefault(); // This stops the direct Formspree submission redirect
+      e.preventDefault(); // Prevents the default Formspree redirect
       
       const data = new FormData(form);
 
@@ -62,10 +73,7 @@ import Layout from '../layouts/Layout.astro'; // Ensure this import matches your
     });
   }
 
-  // Runs on Astro view transitions
-  document.addEventListener('astro:page-load', setupForm);
-  
-  // Runs on standard hard refresh / page load
+  // Ensures script runs regardless of how the page is loaded
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', setupForm);
   } else {
