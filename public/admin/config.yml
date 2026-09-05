@@ -1,13 +1,11 @@
-# Add this at the very top of your configuration file
 site_url: https://speedwayworld-blog.bigo229.workers.dev
 
 backend:
   name: github
   repo: bigo229/speedwayworld-blog
   branch: main
-  site_domain: https://speedwayworld-blog.bigo229.workers.dev
   base_url: https://speedwayworld-blog.bigo229.workers.dev
-  auth_endpoint: auth  
+  auth_endpoint: api/auth  # 👈 Update this to point back to the api path
   
 media_folder: public/images/blog
 public_folder: /images/blog
