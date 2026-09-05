@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: owner/repo
+  repo: bigo229/speedwayworld-blog
   branch: main
   base_url: https://speedwayworld-blog.bigo229.workers.dev
   auth_scope: repo
