@@ -4,9 +4,9 @@ export default defineConfig({
   branch: "main",
   clientId: null, // Left null for local / token-based setups
   token: null,    
-  build: {
-    outputFolder: "admin",
+   build: {
     publicFolder: "public",
+    outputFolder: "admin", 
   },
   media: {
     tina: {
