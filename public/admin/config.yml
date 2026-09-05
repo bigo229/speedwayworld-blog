@@ -4,7 +4,7 @@ backend:
   branch: main
   site_domain: https://speedwayworld-blog.bigo229.workers.dev
   base_url: https://speedwayworld-blog.bigo229.workers.dev
-  auth_endpoint: api/auth
+  auth_endpoint: /api/auth  # 👈 Added a leading slash to target the Cloudflare Pages Function
   
 media_folder: public/images/blog
 public_folder: /images/blog
