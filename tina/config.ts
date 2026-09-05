@@ -30,7 +30,7 @@ export default defineConfig({
           { type: "string", name: "author", label: "Author" },
           { type: "string", name: "tags", label: "Tags", list: true },
           { type: "string", name: "category", label: "Category" },
-          { type: "rich-text", name: "body", label: "Body", isBody: true },
+          { type: "string", name: "body", label: "Body", isBody: true, ui: { component: "textarea" } },
         ],
       },
     ],
