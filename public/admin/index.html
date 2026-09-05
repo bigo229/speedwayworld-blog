@@ -9,7 +9,7 @@
     <link rel="cms-config-url" type="text/yaml" href="/admin/config.yml" />
   </head>
   <body>
-    <!-- Sveltia CMS Script -->
-    <script src="https://unpkg.com"></script>
+    <!-- Fixed: Added data-cfasync="false" to prevent Cloudflare from breaking the script execution -->
+    <script data-cfasync="false" src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
   </body>
 </html>
