@@ -31,6 +31,7 @@ export default defineConfig({
           { type: "string", name: "tags", label: "Tags", list: true },
           { type: "string", name: "category", label: "Category" },
           { type: "string", name: "body", label: "Body", isBody: true, ui: { component: "textarea" } },
+
         ],
       },
     ],
