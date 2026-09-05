@@ -1,0 +1,6 @@
+name = "speedwayworld-blog"
+compatibility_date = "2026-09-05" # Keeps runtime engines stable
+
+[vars]
+GITHUB_CLIENT_ID = "Ov23liKHoL66zhA0Awa9"
+# DO NOT put your Client Secret here if your repository is public!
