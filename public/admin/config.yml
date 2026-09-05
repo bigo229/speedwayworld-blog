@@ -4,8 +4,7 @@ backend:
   name: github
   repo: bigo229/speedwayworld-blog
   branch: main
-  local_backend: true # 👈 This forces local folder editing support!
-  
+    
 media_folder: public/images/blog
 public_folder: /images/blog
 
