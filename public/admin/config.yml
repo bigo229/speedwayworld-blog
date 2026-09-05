@@ -4,8 +4,8 @@ backend:
   name: github
   repo: bigo229/speedwayworld-blog
   branch: main
-  base_url: https://speedwayworld-blog.bigo229.workers.dev
-  auth_endpoint: /api/auth  
+  base_url: https://vercel.app
+  auth_endpoint: auth  
   
 media_folder: public/images/blog
 public_folder: /images/blog
