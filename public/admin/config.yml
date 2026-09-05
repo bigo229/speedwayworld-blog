@@ -2,11 +2,10 @@ backend:
   name: github
   repo: bigo229/speedwayworld-blog
   branch: main
+  site_domain: https://speedwayworld-blog.bigo229.workers.dev
   base_url: https://speedwayworld-blog.bigo229.workers.dev
   auth_endpoint: api/auth
-  auth_scope: repo
-  proxy_url: /admin/api
-
+  
 media_folder: public/images/blog
 public_folder: /images/blog
 
