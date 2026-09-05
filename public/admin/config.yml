@@ -1,3 +1,6 @@
+# Add this at the very top of your configuration file
+site_url: https://speedwayworld-blog.bigo229.workers.dev
+
 backend:
   name: github
   repo: bigo229/speedwayworld-blog
