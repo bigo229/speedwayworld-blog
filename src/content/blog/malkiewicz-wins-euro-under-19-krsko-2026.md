@@ -3,7 +3,7 @@ title: "MALKIEWICZ WINS EUROPEAN UNDER-19s IN KRSKO"
 description: "A short, crisp summary of the speedway news or race update."
 pubDate: 2026-09-05
 updatedDate: 
-heroImage: "/images/blog/26SGP2LodzMeeting_Malkiewicz1-large-scaled.jpg
+heroImage: "/images/blog/26SGP2LodzMeeting_Malkiewicz1-large-scaled.jpg"
 author: "SpeedwayWorld WebTeam"
 tags: ["news", "racing"]
 category: "Updates"
