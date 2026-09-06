@@ -1,0 +1,26 @@
+site_url: https://workers.dev
+
+backend:
+  name: github
+  repo: bigo229/speedwayworld-blog
+  branch: main
+
+media_folder: public/images/blog
+public_folder: /images/blog
+
+collections:
+  - name: blog
+    label: Blog Posts
+    folder: src/content/blog
+    create: true
+    delete: true
+    slug: '{{slug}}'
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: text }
+      - { label: Publish Date, name: pubDate, widget: datetime }
+      - { label: Updated Date, name: updatedDate, widget: datetime, required: false }
+      - { label: Hero Image, name: heroImage, widget: image, required: false }
+      - { label: Author, name: author, widget: string, default: 'SpeedwayWorld WebTeam' }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Category, name: category, widget: string, required: false }
