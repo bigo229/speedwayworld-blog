@@ -21,7 +21,7 @@ Polish Under-21 champion Maksymilian Pawelczak was heading for the podium after 
 British duo Luke Harrison and Cooper Rushen put in strong showing, finishing on nine and eight points in sixth and seventh place respectively.
 
 SGP2 star Will Cairns finished 13th with five points, while Sweden’s Rasmus Karlsson was 14th on four and local hero Sven Cerjak managed two points as he finished 16th on his home track.
-<br>
+
 Courtesy of [FIMSPEEDWAY.COM](https://fimspeedway.com/news/max-man-malkiewicz-wins-european-under-19s-in-krsko)
-<br>
+
 Photo Courtesy of [FIMSPEEDWAY.COM](https://eventrack-1.ams3.digitaloceanspaces.com/staging/630808/conversions/26SGP2LodzMeeting_Malkiewicz1-large.jpg)
