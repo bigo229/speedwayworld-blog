@@ -1,13 +1,16 @@
 ---
-title: "Results: Monday, March 24, 2025 - Birmingham Brummies v Leicester Lions 33 - 57"
-pubDate: "2025-03-25"
-description: "LEICESTER raced to an emphatic 5733 win at Birmingham to take full control of their Premiership KO Cup quarter-final tie.Skipper Max Fricke scored a 132 for the Lions who"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER raced to an emphatic 5733 win at Birmingham to take full control
+  of their Premiership KO Cup quarter-final tie.Skipper Max Fricke scored a 132 for
+  the Lions who
+heroImage: /images/blog/results-monday-march-24-2025-birmingham-brummies-v-leicester-lions-33-57/action25_bir_lei2_PM-scaled.jpg
+pubDate: '2025-03-25'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/results-monday-march-24-2025-birmingham-brummies-v-leicester-lions-33-57/action25_bir_lei2_PM-scaled.jpg"
+- news
+- SGB
+title: 'Results: Monday, March 24, 2025 - Birmingham Brummies v Leicester Lions 33
+  - 57'
 ---
 
 **LEICESTER raced to an emphatic 57-33 win at Birmingham to take full control of their Premiership KO Cup quarter-final tie.**
@@ -30,8 +33,23 @@ Rew impressed for the Brummies with nine points, but the home heat leaders were 
 >
 > “We’ve got seven new guys, none of them are used to racing here week in, week out and let’s be fair, Leicester are a good team, they’re solid and probably out of all the teams in the league, they’re probably going to be the best ones that come to Birmingham.”
 
-BIRMINGHAM 33: Keynan Rew 9, Jonas Jeppesen 5, Matej Zagar 5, Jason Edwards 5, Tobiasz Musielak 4, Antti Vuolas 3+3, Michael Jepsen Jensen 2+1.
-LEICESTER 57: Max Fricke 13+2, Ryan Douglas 11, Drew Kemp 9+2, Kyle Howarth 9+1, Luke Becker 7+1, Sam Masters 7, Sam Hagon 1+1.
+### 🏁 Birmingham 33
+* **Keynan Rew**: 9
+* **Jonas Jeppesen**: 5
+* **Matej Zagar**: 5
+* **Jason Edwards**: 5
+* **Tobiasz Musielak**: 4
+* **Antti Vuolas**: 3+3
+* Michael Jepsen Jensen 2+1.
+
+### 🏁 Leicester 57
+* **Max Fricke**: 13+2
+* **Ryan Douglas**: 11
+* **Drew Kemp**: 9+2
+* **Kyle Howarth**: 9+1
+* **Luke Becker**: 7+1
+* **Sam Masters**: 7
+* Sam Hagon 1+1.
 
 **OFFICIAL REFEREE SCORECARD
 Available [here](https://britishspeedway.co.uk/25results/birmingham_24.03.25_res.pdf)**

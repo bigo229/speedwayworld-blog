@@ -1,13 +1,15 @@
 ---
-title: "LOUIS STEPPING AWAY"
-pubDate: "2025-11-23"
-description: ".IPSWICH promoter Chris Louis has vowed to leave the club “in safe hands” after announcing his decision to step down ahead of the 2026 season.Louis and team manager Ritchie Hawkins"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .IPSWICH promoter Chris Louis has vowed to leave the club “in safe hands”
+  after announcing his decision to step down ahead of the 2026 season.Louis and team
+  manager Ritchie Hawkins
+heroImage: /images/blog/louis-stepping-away/ec5c352b46f56cfd4e1f5c549417cceefa48add7-louischris24-scaled.jpg
+pubDate: '2025-11-23'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/louis-stepping-away/ec5c352b46f56cfd4e1f5c549417cceefa48add7-louischris24-scaled.jpg"
+- news
+- SGB
+title: Louis Stepping Away
 ---
 
 **IPSWICH promoter Chris Louis has vowed to leave the club “in safe hands” after announcing his decision to step down ahead of the 2026 season.**

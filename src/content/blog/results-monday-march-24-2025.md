@@ -1,13 +1,14 @@
 ---
-title: "Results: Monday, March 24, 2025 - Belle Vue Aces v Ipswich Witches 40 - 50"
-pubDate: "2025-03-25"
-description: "IPSWICH sent out a major warning to the rest of the ROWE Motor Oil Premiership with a stunning 5040 win at league champions Belle Vue in the first leg of their"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: IPSWICH sent out a major warning to the rest of the ROWE Motor Oil Premiership
+  with a stunning 5040 win at league champions Belle Vue in the first leg of their
+heroImage: /images/blog/results-monday-march-24-2025/action25_bv_ips2_IC-scaled.jpg
+pubDate: '2025-03-25'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/results-monday-march-24-2025/action25_bv_ips2_IC-scaled.jpg"
+- news
+- SGB
+title: 'Results: Monday, March 24, 2025 - Belle Vue Aces v Ipswich Witches 40 - 50'
 ---
 
 **IPSWICH sent out a major warning to the rest of the ROWE Motor Oil Premiership with a stunning 50-40 win at league champions Belle Vue in the first leg of their KO Cup tie.**
@@ -30,8 +31,23 @@ Kurtz (12) and Dan Bewley (13+1) dominated the Aces’ scoring but the home side
 >
 > “It’s hard to take a loss at home on the back of having so much success at the club. It’s speedway, it’s sport, we’ve just got to bounce back.”
 
-BELLE VUE 40: Dan Bewley 13+1, Brady Kurtz 12, Tate Zischke 5+1, Jaimon Lidsey 5, Zach Cook 3, Jake Mulford 2, Norick Blodorn 0.
-IPSWICH 50: Jason Doyle 9+1, Danny King 8+2, Dan Thompson 8+2, Tom Brennan 8, Emil Sayfutdinov 7+1, Adam Ellis 5+1, Jordan Jenkins 5+1.
+### 🏁 Belle Vue 40
+* **Dan Bewley**: 13+1
+* **Brady Kurtz**: 12
+* **Tate Zischke**: 5+1
+* **Jaimon Lidsey**: 5
+* **Zach Cook**: 3
+* **Jake Mulford**: 2
+* Norick Blodorn 0.
+
+### 🏁 Ipswich 50
+* **Jason Doyle**: 9+1
+* **Danny King**: 8+2
+* **Dan Thompson**: 8+2
+* **Tom Brennan**: 8
+* **Emil Sayfutdinov**: 7+1
+* **Adam Ellis**: 5+1
+* Jordan Jenkins 5+1.
 
 **OFFICIAL REFEREE SCORECARD
 Available [here](https://britishspeedway.co.uk/25results/belle_vue_24.03.25_res.pdf)**

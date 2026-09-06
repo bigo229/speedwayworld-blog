@@ -1,19 +1,23 @@
 ---
-title: "AUSSIES WIN FIM SPEEDWAY OF NATIONS CROWN IN TORUN"
-pubDate: "2025-10-05"
-description: "Australian icon Brady Kurtz feared he had blown his final shot at a 2025 FIM Speedway World Championship gold medal before joining Jack Holder at the front to win an epic"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Australian icon Brady Kurtz feared he had blown his final shot at a 2025
+  FIM Speedway World Championship gold medal before joining Jack Holder at the front
+  to win an epic
+heroImage: /images/blog/aussies-win-fim-speedway-of-nations-crown-in-torun/polska--australia-dania4424-large2-scaled.jpg
+pubDate: '2025-10-05'
 tags:
-  - "news"
-  - "FIM"
-  - "SON"
-category: "British Speedway"
-heroImage: "/images/blog/aussies-win-fim-speedway-of-nations-crown-in-torun/polska--australia-dania4424-large2-scaled.jpg"
+- news
+- FIM
+- SON
+title: Aussies Win Fim Speedway Of Nations Crown In Torun
 ---
 
 **Australian icon Brady Kurtz feared he had blown his final shot at a 2025 FIM Speedway World Championship gold medal before joining Jack Holder at the front to win an epic FIM Speedway of Nations Final in Torun on Saturday.**
 
-The Roos lifted their **second FIM SON world title in three years** – following up [their victory at Danish track Vojens in 2022](https://www.youtube.com/watch?v=WZytctRJPy4&t=5s) - after Holder made a sublime start, with world No.2 Kurtz riding one of the opening laps of the season to round Speedway GP world champion **Bartosz Zmarzlik** and join his partner for a 7-2 victory over Poland in the Grand Final. **Denmark picked up the bronze medals.**
+### 🏁 The Roos Lifted Their **Second Fim Son World Title In Three Years** – Following Up [Their Victory At Danish Track Vojens In 2022](Https
+* //www.youtube.com/watch?v=WZytctRJPy4&t=5s) - after Holder made a sublime start
+* with world No.2 Kurtz riding one of the opening laps of the season to round Speedway GP world champion **Bartosz Zmarzlik** and join his partner for a 7-2 victory over Poland in the Grand Final. **Denmark picked up the bronze medals.**
 
 After [falling a point short of Zmarzlik in the race for Speedway GP World Championship gold this year](https://www.fimspeedway.com/sgp/standings), Kurtz was elated to win his first FIM Speedway World Championships gold medal in the FIM SON. But he thought he had blown it at the start of the Grand Final.
 
@@ -49,7 +53,9 @@ FIM SON top three Australia, Poland and Denmark. PHOTO: Jarek Pabijan
 
 ![FINALJHolderKurtz1060-large-scaled](/user/pages/01.blog/39.aussies-win-fim-speedway-of-nations-crown-in-torun/FINALJHolderKurtz1060-large-scaled.jpg "FINALJHolderKurtz1060-large-scaled")Celebrating SON gold - Aussie stars Brady Kurtz (left) and Jack Holder (right). PHOTO: Taylor Lanning
 
-Australia’s FIM SON title win comes with the added gloss of a [**guaranteed place in the 2026 FIM Speedway World Cup Final**](https://www.fimspeedway.com/news/2026-fim-speedway-world-cup-places-up-for-grabs-at-son-in-torun), which will be staged at **Warsaw’s PGE Narodowy**. Lemon is delighted to see his side confirm their place alongside hosts Poland in the **biggest FIM Speedway world team final for generations.**
+### 🏁 Australia’S Fim Son Title Win Comes With The Added Gloss Of A [**Guaranteed Place In The 2026 Fim Speedway World Cup Final**](Https
+* //www.fimspeedway.com/news/2026-fim-speedway-world-cup-places-up-for-grabs-at-son-in-torun)
+* which will be staged at **Warsaw’s PGE Narodowy**. Lemon is delighted to see his side confirm their place alongside hosts Poland in the **biggest FIM Speedway world team final for generations.**
 
 **He said:**
 
@@ -97,18 +103,39 @@ The Danes missed out on the Grand Final after 2026 Speedway GP qualifier **Leon 
 
 **FIM SPEEDWAY OF NATIONS FINAL SCORES:**
 
-**1\. AUSTRALIA 37:** 1. Brady Kurtz 20, 2. Jack Holder 17, 3. Jason Doyle DNR.
+### 🏁 **1\. Australia 37
+* ** 1. Brady Kurtz 20
+* 2. Jack Holder 17
+* 3. Jason Doyle DNR.
 
-**2\. POLAND 35:** 1. Patryk Dudek 17, 2. Bartosz Zmarzlik 18, 3. Piotr Pawlicki DNR.
+### 🏁 **2\. Poland 35
+* ** 1. Patryk Dudek 17
+* 2. Bartosz Zmarzlik 18
+* 3. Piotr Pawlicki DNR.
 
-**3\. DENMARK 34:** 1. Leon Madsen 18, 2. Michael Jepsen Jensen 16, 3. Mikkel Michelsen DNR.
+### 🏁 **3\. Denmark 34
+* ** 1. Leon Madsen 18
+* 2. Michael Jepsen Jensen 16
+* 3. Mikkel Michelsen DNR.
 
-**4\. SWEDEN 27:** 1. Jacob Thorssell 6, 2. Fredrik Lindgren 21, 3. Timo Lahti DNR.
+### 🏁 **4\. Sweden 27
+* ** 1. Jacob Thorssell 6
+* 2. Fredrik Lindgren 21
+* 3. Timo Lahti DNR.
 
-**5\. GREAT BRITAIN 24:** 1. Robert Lambert 16, 2. Dan Bewley 6, 3. Tom Brennan 2.
+### 🏁 **5\. Great Britain 24
+* ** 1. Robert Lambert 16
+* 2. Dan Bewley 6
+* 3. Tom Brennan 2.
 
-**6\. LATVIA 18:** 1. Andzejs Lebedevs 14, 2. Jevgenijs Kostigovs 0, 3. Daniils Kolodinskis 4.
+### 🏁 **6\. Latvia 18
+* ** 1. Andzejs Lebedevs 14
+* 2. Jevgenijs Kostigovs 0
+* 3. Daniils Kolodinskis 4.
 
-**7\. CZECH REPUBLIC 14:** 1. Vaclav Milik 2, 2. Jan Kvech 12, 3. Adam Bednar 0.
+### 🏁 **7\. Czech Republic 14
+* ** 1. Vaclav Milik 2
+* 2. Jan Kvech 12
+* 3. Adam Bednar 0.
 
 * * *

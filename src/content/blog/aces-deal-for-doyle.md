@@ -1,13 +1,15 @@
 ---
-title: "ACES DEAL FOR DOYLE"
-pubDate: "2026-06-11"
-description: "Aussie racer Jason Doyle admits stepping back from British speedway “didn’t work” as he makes his comeback with the Belle Vue Aces.The 2017 Speedway GP world champion has been"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Aussie racer Jason Doyle admits stepping back from British speedway “didn’t
+  work” as he makes his comeback with the Belle Vue Aces.The 2017 Speedway GP world
+  champion has been
+heroImage: /images/blog/aces-deal-for-doyle/245_Doyle-large-scaled.jpg
+pubDate: '2026-06-11'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/aces-deal-for-doyle/245_Doyle-large-scaled.jpg"
+- news
+- SGB
+title: Aces Deal For Doyle
 ---
 
 **Aussie racer Jason Doyle admits stepping back from British speedway “didn’t work” as he makes his comeback with the Belle Vue Aces.**

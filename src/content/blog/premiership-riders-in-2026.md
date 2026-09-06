@@ -1,13 +1,15 @@
 ---
-title: "PREMIERSHIP RIDERS IN 2026"
-pubDate: "2026-01-22"
-description: ".2026 Premiership Rider Announcements.(Updates will be posted when any changes occur).PLEASE NOTE: The 2026 Premiership will consist of a minimum of five teams. Further team(s) will be added"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: '.2026 Premiership Rider Announcements.(Updates will be posted when any
+  changes occur).PLEASE NOTE: The 2026 Premiership will consist of a minimum of five
+  teams. Further team(s) will be added'
+heroImage: /images/blog/premiership-riders-in-2026/129e6057951f44dba0809c4b7bc94d94bf419553-premiershipannouncents25-scaled.jpg
+pubDate: '2026-01-22'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/premiership-riders-in-2026/129e6057951f44dba0809c4b7bc94d94bf419553-premiershipannouncents25-scaled.jpg"
+- news
+- SGB
+title: Premiership Riders In 2026
 ---
 
 2026 Premiership Rider Announcements

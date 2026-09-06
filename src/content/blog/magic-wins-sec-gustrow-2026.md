@@ -1,15 +1,15 @@
 ---
-title: "MAGIC WINS LATEST SPEEDWAY EUROPEAN CHAMPIONSHIP IN GUSTROW 2026"
-description: "A short, crisp summary of the speedway news or race update."
+author: SpeedwayWorld WebTeam
+category: Updates
+description: MAGIC WINS LATEST SPEEDWAY EUROPEAN CHAMPIONSHIP IN GUSTROW 2026
+heroImage: /images/blog/26SGPWroclawMeeting_JanowskiDoyle2-large-scaled.jpg
 pubDate: 2026-09-05
-updatedDate: 
-heroImage: "/images/blog/26SGPWroclawMeeting_JanowskiDoyle2-large-scaled.jpg"
-author: "SpeedwayWorld WebTeam"
-tags: ["news", "racing"]
-category: "Updates"
+tags:
+- news
+- racing
+title: Magic Wins Latest Speedway European Championship In Gustrow 2026
+updatedDate: null
 ---
-
-## MAGIC WINS LATEST SPEEDWAY EUROPEAN CHAMPIONSHIP IN GUSTROW 2026
 
 **Polish racer Maciej Janowski topped the podium at round two of the Speedway European Championship in Gustrow on Saturday.**
 
@@ -35,7 +35,3 @@ The top six riders from this season’s SEC series are all guaranteed a place in
 -
 Courtesy of [BRITISHSPEEDWAY.CO.UK](https://fimspeedway.com/news/magic-wins-in-gustrow-as-speedway-european-championship-race-tightens-up)
 Photo Courtesy of [BRITISHSPEEDWAY.CO.UK](https://eventrack-1.ams3.digitaloceanspaces.com/staging/630807/conversions/26SGPWroclawMeeting_JanowskiDoyle2-large.jpg)
-
-
-
-

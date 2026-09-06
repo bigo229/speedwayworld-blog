@@ -1,13 +1,15 @@
 ---
-title: "BEWLEY BACK WITH ACES FOR 2026"
-pubDate: "2025-12-26"
-description: "WORLD No.3 Dan Bewley has been named as Belle Vue’s first signing for the 2026 Premiership campaign.The treble British Champion was a titlewinner with the Aces in 2024"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: WORLD No.3 Dan Bewley has been named as Belle Vue’s first signing for
+  the 2026 Premiership campaign.The treble British Champion was a titlewinner with
+  the Aces in 2024
+heroImage: /images/blog/bewley-back-with-aces-for-2026/bewley_dan25_TL-scaled.jpg
+pubDate: '2025-12-26'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/bewley-back-with-aces-for-2026/bewley_dan25_TL-scaled.jpg"
+- news
+- SGB
+title: Bewley Back With Aces For 2026
 ---
 
 **WORLD No.3 Dan Bewley has been named as Belle Vue’s first signing for the 2026 Premiership campaign.**

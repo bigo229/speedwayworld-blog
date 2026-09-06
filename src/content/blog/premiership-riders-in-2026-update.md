@@ -1,13 +1,15 @@
 ---
-title: "PREMIERSHIP RIDERS IN 2026 (Update)"
-pubDate: "2026-03-26"
-description: ".....BELLE VUE.IPSWICH.KING’S LYNN.LEICESTER.SHEFFIELD.NORTHAMPTON.....Dan Bewley.Jason Edwards (RS).Chris Harris.Dan Thompson.Jack Holder....William Cairns (RS).Scott Nicholls.Jan Kvech.Sam Masters.Anders Rowe"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: '.....BELLE VUE.IPSWICH.KING’S LYNN.LEICESTER.SHEFFIELD.NORTHAMPTON.....Dan
+  Bewley.Jason Edwards (RS).Chris Harris.Dan Thompson.Jack Holder....William Cairns
+  (RS).Scott Nicholls.Jan Kvech.Sam Masters.Anders Rowe'
+heroImage: /images/blog/premiership-riders-in-2026-update/premiership_announcents25-scaled.jpg
+pubDate: '2026-03-26'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/premiership-riders-in-2026-update/premiership_announcents25-scaled.jpg"
+- news
+- SGB
+title: PREMIERSHIP RIDERS IN 2026 (Update)
 ---
 
 * * *

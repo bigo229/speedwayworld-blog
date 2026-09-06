@@ -1,14 +1,16 @@
 ---
-title: "DOYLE BACK FOR WITCHES’ TITLE BID"
-pubDate: "2024-11-11"
-description: "Monday, November 11, 2024.IPSWICH have announced former World Champion Jason Doyle will return next season after the longterm injury which wrecked his 2024 campaign.Doyle crashed out at King’s"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Monday, November 11, 2024.IPSWICH have announced former World Champion
+  Jason Doyle will return next season after the longterm injury which wrecked his
+  2024 campaign.Doyle crashed out at King’s
+heroImage: /images/blog/doyle-back-for-witches-title-bid/doyle_jason24_2-scaled.jpg
+pubDate: '2024-11-11'
 tags:
-  - "news"
-  - "SGB"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/doyle-back-for-witches-title-bid/doyle_jason24_2-scaled.jpg"
+- news
+- SGB
+- SGP
+title: Doyle Back For Witches’ Title Bid
 ---
 
 Monday, November 11, 2024

@@ -1,13 +1,15 @@
 ---
-title: "ZAGAR BACK FOR NORTHAMPTON FOXES"
-pubDate: "2026-07-03"
-description: ".NORTHAMPTON will welcome back Slovenian star Matej Zagar for their next ROWE Motor Oil Premiership fixture at King’s Lynn on Monday.The former World No.5 has been sidelined for"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .NORTHAMPTON will welcome back Slovenian star Matej Zagar for their next
+  ROWE Motor Oil Premiership fixture at King’s Lynn on Monday.The former World No.5
+  has been sidelined for
+heroImage: /images/blog/zagar-back-for-northampton-foxes/zagar_matej26_JD-scaled.jpg
+pubDate: '2026-07-03'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/zagar-back-for-northampton-foxes/zagar_matej26_JD-scaled.jpg"
+- news
+- SGB
+title: Zagar Back For Northampton Foxes
 ---
 
 **NORTHAMPTON will welcome back Slovenian star Matej Zagar for their next ROWE Motor Oil Premiership fixture at King’s Lynn on Monday.**

@@ -1,13 +1,15 @@
 ---
-title: "Lynn Pull Off Fricke Deal"
-pubDate: "2025-12-24"
-description: "KING’S Lynn have pulled off the signing of the Premiership’s top rider as Max Fricke joins the club after three years with Leicester. .Fricke makes the switch to the"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: KING’S Lynn have pulled off the signing of the Premiership’s top rider
+  as Max Fricke joins the club after three years with Leicester. .Fricke makes the
+  switch to the
+heroImage: /images/blog/lynn-pull-off-fricke-deal/fricke_max24_1-scaled.jpg
+pubDate: '2025-12-24'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/lynn-pull-off-fricke-deal/fricke_max24_1-scaled.jpg"
+- news
+- SGB
+title: Lynn Pull Off Fricke Deal
 ---
 
 **KING’S Lynn have pulled off the signing of the Premiership’s top rider as Max Fricke joins the club after three years with Leicester.**

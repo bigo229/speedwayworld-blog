@@ -1,13 +1,15 @@
 ---
-title: "NICHOLLS TO MISS START OF 2025 SEASON"
-pubDate: "2024-11-26"
-description: "Seventime British champion Scott Nicholls has confirmed he will not be fit to start the 2025 season as he faces shoulder surgery.Nicholls dislocated his shoulder when he crashed out of"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Seventime British champion Scott Nicholls has confirmed he will not be
+  fit to start the 2025 season as he faces shoulder surgery.Nicholls dislocated his
+  shoulder when he crashed out of
+heroImage: /images/blog/nicholls-to-miss-start-of-2025-season/Nicholls3874-_1_-large-scaled.jpg
+pubDate: '2024-11-26'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/nicholls-to-miss-start-of-2025-season/Nicholls3874-_1_-large-scaled.jpg"
+- news
+- SGB
+title: Nicholls To Miss Start Of 2025 Season
 ---
 
 **Seven-time British champion Scott Nicholls has confirmed he will not be fit to start the 2025 season as he faces shoulder surgery.**

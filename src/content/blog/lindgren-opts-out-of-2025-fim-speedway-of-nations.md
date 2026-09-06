@@ -1,14 +1,16 @@
 ---
-title: "LINDGREN OPTS OUT OF 2025 FIM SPEEDWAY OF NATIONS"
-pubDate: "2025-01-30"
-description: "World No.3 Fredrik Lindgren has confirmed he will not line up for Sweden in the FIM Speedway of Nations this year.Lindgren has led his country to backto-back bronze"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: World No.3 Fredrik Lindgren has confirmed he will not line up for Sweden
+  in the FIM Speedway of Nations this year.Lindgren has led his country to backto-back
+  bronze
+heroImage: /images/blog/lindgren-opts-out-of-2025-fim-speedway-of-nations/LindgrenKvech9474-large-scaled.jpg
+pubDate: '2025-01-30'
 tags:
-  - "news"
-  - "FIM"
-  - "SON"
-category: "British Speedway"
-heroImage: "/images/blog/lindgren-opts-out-of-2025-fim-speedway-of-nations/LindgrenKvech9474-large-scaled.jpg"
+- news
+- FIM
+- SON
+title: Lindgren Opts Out Of 2025 Fim Speedway Of Nations
 ---
 
 **World No.3 Fredrik Lindgren has confirmed he will not line up for Sweden in the FIM Speedway of Nations this year.**

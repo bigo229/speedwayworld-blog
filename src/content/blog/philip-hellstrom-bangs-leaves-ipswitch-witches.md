@@ -1,13 +1,15 @@
 ---
-title: "PHILIP HELLSTROM-BANGS LEAVES IPSWITCH WITCHES"
-pubDate: "2026-07-04"
-description: ".IPSWICH will be making a new signing after announcing Philip HellstromBangs has left his place with the defending ROWE Motor Oil Premiership champions. .The Swede has struggled for results in his"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .IPSWICH will be making a new signing after announcing Philip HellstromBangs
+  has left his place with the defending ROWE Motor Oil Premiership champions. .The
+  Swede has struggled for results in his
+heroImage: /images/blog/philip-hellstrom-bangs-leaves-ipswitch-witches/80b8f9e5af417c7fe4c445af7a70c07e945d12dc-hellstrombangsphilip26sw-scaled.jpg
+pubDate: '2026-07-04'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/philip-hellstrom-bangs-leaves-ipswitch-witches/80b8f9e5af417c7fe4c445af7a70c07e945d12dc-hellstrombangsphilip26sw-scaled.jpg"
+- news
+- SGB
+title: Philip Hellstrom-Bangs Leaves Ipswitch Witches
 ---
 
 **IPSWICH will be making a new signing after announcing Philip Hellstrom-Bangs has left his place with the defending ROWE Motor Oil Premiership champions.**

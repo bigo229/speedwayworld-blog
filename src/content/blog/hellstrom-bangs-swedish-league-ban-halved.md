@@ -1,13 +1,15 @@
 ---
-title: "HELLSTROM-BANGS' SWEDISH LEAGUE BAN HALVED"
-pubDate: "2026-01-20"
-description: "Swedish racer Philip HellstromBangs has seen his Bauhaus Elitserien suspension halved, according to Rospiggarna.A onemonth penalty was originally imposed by Swedish governing body SVEMO, ruling the former SGP2 star out"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Swedish racer Philip HellstromBangs has seen his Bauhaus Elitserien suspension
+  halved, according to Rospiggarna.A onemonth penalty was originally imposed by Swedish
+  governing body SVEMO, ruling the former SGP2 star out
+heroImage: /images/blog/hellstrom-bangs-swedish-league-ban-halved/Hellstrom-Bangs9203-large-scaled.jpg
+pubDate: '2026-01-20'
 tags:
-  - "news"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/hellstrom-bangs-swedish-league-ban-halved/Hellstrom-Bangs9203-large-scaled.jpg"
+- news
+- FIM
+title: Hellstrom-Bangs' Swedish League Ban Halved
 ---
 
 **Swedish racer Philip Hellstrom-Bangs has seen his Bauhaus Elitserien suspension halved, according to Rospiggarna.**

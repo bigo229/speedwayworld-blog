@@ -1,14 +1,16 @@
 ---
-title: "HARRIS: ALWAYS UP FOR A CHALLENGE AS HE SEEKS SPEEDWAY GP COMEBACK"
-pubDate: "2026-07-24"
-description: "British hero Chris Harris insisted “I always relish a challenge” as he stands five good rides away from an astonishing Speedway GP comeback at the FIM SGP Challenge in Terenzano on"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: British hero Chris Harris insisted “I always relish a challenge” as he
+  stands five good rides away from an astonishing Speedway GP comeback at the FIM
+  SGP Challenge in Terenzano on
+heroImage: /images/blog/harris-always-up-for-a-challenge-as-he-seeks-speedway-gp-comeback/harris9819-scaled-1-large-scaled.jpg
+pubDate: '2026-07-24'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/harris-always-up-for-a-challenge-as-he-seeks-speedway-gp-comeback/harris9819-scaled-1-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: 'Harris: Always Up For A Challenge As He Seeks Speedway Gp Comeback'
 ---
 
 **British hero Chris Harris insisted “I always relish a challenge” as he stands five good rides away from an astonishing Speedway GP comeback at the FIM SGP Challenge in Terenzano on Saturday.**

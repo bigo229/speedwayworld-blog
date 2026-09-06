@@ -1,14 +1,16 @@
 ---
-title: "WOFFINDEN WITHDRAWS FROM SPEEDWAY GP 2026"
-pubDate: "2026-03-16"
-description: "Triple Speedway GP world champion Tai Woffinden insists he is working on “returning to the level I know I can reach” after announcing his withdrawal from the 2026 FIM Speedway Grand"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Triple Speedway GP world champion Tai Woffinden insists he is working
+  on “returning to the level I know I can reach” after announcing his withdrawal from
+  the 2026 FIM Speedway Grand
+heroImage: /images/blog/woffinden-withdraws-from-speedway-gp-2026/Woffinden1912-large-scaled.jpg
+pubDate: '2026-03-16'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/woffinden-withdraws-from-speedway-gp-2026/Woffinden1912-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Woffinden Withdraws From Speedway Gp 2026
 ---
 
 **Triple Speedway GP world champion Tai Woffinden insists he is working on “returning to the level I know I can reach” after announcing his withdrawal from the 2026 FIM Speedway Grand Prix series.**

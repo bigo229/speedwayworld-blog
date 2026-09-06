@@ -1,14 +1,16 @@
 ---
-title: "WOFFINDEN HURT IN POLAND"
-pubDate: "2025-03-31"
-description: "TREBLE World Champion Tai Woffinden was airlifted to hospital in Poland after a serious crash during a sparring fixture for his new club Rzeszow.Woffinden, who was due to return to"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: TREBLE World Champion Tai Woffinden was airlifted to hospital in Poland
+  after a serious crash during a sparring fixture for his new club Rzeszow.Woffinden,
+  who was due to return to
+heroImage: /images/blog/woffinden-hurt-in-poland/woffinden_tai25_TL-scaled.jpg
+pubDate: '2025-03-31'
 tags:
-  - "news"
-  - "SGB"
-  - "ekstraliga"
-category: "British Speedway"
-heroImage: "/images/blog/woffinden-hurt-in-poland/woffinden_tai25_TL-scaled.jpg"
+- news
+- SGB
+- ekstraliga
+title: Woffinden Hurt In Poland
 ---
 
 **TREBLE World Champion Tai Woffinden was airlifted to hospital in Poland after a serious crash during a sparring fixture for his new club Rzeszow.**

@@ -1,13 +1,15 @@
 ---
-title: "EMIL SAYS FAREWELL TO UK"
-pubDate: "2025-11-05"
-description: ".IPSWICH star Emil Sayfutdinov has confirmed his intention to step away from British Speedway next season.The former World No.3 has spent the last three years with the Witches and"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .IPSWICH star Emil Sayfutdinov has confirmed his intention to step away
+  from British Speedway next season.The former World No.3 has spent the last three
+  years with the Witches and
+heroImage: /images/blog/emil-says-farewell-to-uk/sayfutdinov_emil25_TL-scaled.jpg
+pubDate: '2025-11-05'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/emil-says-farewell-to-uk/sayfutdinov_emil25_TL-scaled.jpg"
+- news
+- SGB
+title: Emil Says Farewell To Uk
 ---
 
 **IPSWICH star Emil Sayfutdinov has confirmed his intention to step away from British Speedway next season.**

@@ -1,14 +1,16 @@
 ---
-title: "KVECH CALLED UP FOR SPEEDWAY GP OF POLAND 2026"
-pubDate: "2026-07-25"
-description: "Czech charger Jan Kvech steps into the FIM Speedway GP of Poland – Lodz lineup next Saturday after Britain’s Dan Bewley officially withdrew.The Cumbrian continues his recovery from the broken"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Czech charger Jan Kvech steps into the FIM Speedway GP of Poland – Lodz
+  lineup next Saturday after Britain’s Dan Bewley officially withdrew.The Cumbrian
+  continues his recovery from the broken
+heroImage: /images/blog/kvech-called-up-for-speedway-gp-of-poland-2026/243_Jan-Kvech-large-scaled.jpg
+pubDate: '2026-07-25'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/kvech-called-up-for-speedway-gp-of-poland-2026/243_Jan-Kvech-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Kvech Called Up For Speedway Gp Of Poland 2026
 ---
 
 **Czech charger Jan Kvech steps into the FIM Speedway GP of Poland – Lodz line-up next Saturday after Britain’s Dan Bewley officially withdrew.**

@@ -1,13 +1,15 @@
 ---
-title: "BOMBER HARRIS BACK FOR STARS"
-pubDate: "2025-12-19"
-description: "KING’S Lynn have announced the return of Chris Harris for a second successive season with the club next year.Harris becomes the Stars’ first confirmed signing for the 2026 Premiership"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: KING’S Lynn have announced the return of Chris Harris for a second successive
+  season with the club next year.Harris becomes the Stars’ first confirmed signing
+  for the 2026 Premiership
+heroImage: /images/blog/bomber-harris-back-for-stars/harris_chris25_TL-scaled.jpg
+pubDate: '2025-12-19'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/bomber-harris-back-for-stars/harris_chris25_TL-scaled.jpg"
+- news
+- SGB
+title: Bomber Harris Back For Stars
 ---
 
 **KING’S Lynn have announced the return of Chris Harris for a second successive season with the club next year.**

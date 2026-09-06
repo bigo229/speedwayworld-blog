@@ -1,13 +1,15 @@
 ---
-title: "HOLDER BACK AS A “BARGAIN”"
-pubDate: "2026-01-16"
-description: "FORMER World Champion Chris Holder will be back for a third successive full season with Sheffield this year.The 2012 individual titlewinner played a starring role in the Tigers’ Premiership triumph"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: FORMER World Champion Chris Holder will be back for a third successive
+  full season with Sheffield this year.The 2012 individual titlewinner played a starring
+  role in the Tigers’ Premiership triumph
+heroImage: /images/blog/holder-back-as-a-bargain/holder_chris25_TL-scaled.jpg
+pubDate: '2026-01-16'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/holder-back-as-a-bargain/holder_chris25_TL-scaled.jpg"
+- news
+- SGB
+title: Holder Back As A “Bargain”
 ---
 
 **FORMER World Champion Chris Holder will be back for a third successive full season with Sheffield this year.**

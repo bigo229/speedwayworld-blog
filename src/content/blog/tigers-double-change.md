@@ -1,13 +1,15 @@
 ---
-title: "Tigers Double Change"
-pubDate: "2025-08-10"
-description: "SHEFFIELD have made two final team changes ahead of their transfer window closing. .Aussie duo Nick Morris and Jye Etheridge join the Tigers with Lewi Kerr and Justin Sedgmen making way"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD have made two final team changes ahead of their transfer window
+  closing. .Aussie duo Nick Morris and Jye Etheridge join the Tigers with Lewi Kerr
+  and Justin Sedgmen making way
+heroImage: /images/blog/tigers-double-change/etheridge_morris_signings-scaled.jpg
+pubDate: '2025-08-10'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/tigers-double-change/etheridge_morris_signings-scaled.jpg"
+- news
+- SGB
+title: Tigers Double Change
 ---
 
 **SHEFFIELD have made two final team changes ahead of their transfer window closing.**

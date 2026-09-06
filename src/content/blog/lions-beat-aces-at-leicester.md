@@ -1,13 +1,15 @@
 ---
-title: "LIONS BEAT ACES AT LEICESTER"
-pubDate: "2026-07-24"
-description: ".LEICESTER came back from 12 points down to edge out leaders Belle Vue 4644 in a thriller at the Hydrsocand Arena.The ROWE Motor Oil Premiership’s top two fought right"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .LEICESTER came back from 12 points down to edge out leaders Belle Vue
+  4644 in a thriller at the Hydrsocand Arena.The ROWE Motor Oil Premiership’s top
+  two fought right
+heroImage: /images/blog/lions-beat-aces-at-leicester/74060b1329046380cfe6fd6638ab4e4cbe3d2726-action26leibv6md-scaled.jpg
+pubDate: '2026-07-24'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/lions-beat-aces-at-leicester/74060b1329046380cfe6fd6638ab4e4cbe3d2726-action26leibv6md-scaled.jpg"
+- news
+- SGB
+title: Lions Beat Aces At Leicester
 ---
 
 **LEICESTER came back from 12 points down to edge out leaders Belle Vue 46-44 in a thriller at the Hydrsocand Arena.**

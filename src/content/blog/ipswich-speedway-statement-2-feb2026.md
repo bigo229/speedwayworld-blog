@@ -1,13 +1,15 @@
 ---
-title: "IPSWICH SPEEDWAY STATEMENT 2 - FEB2026"
-pubDate: "2026-02-28"
-description: "ROWE Motor Oil Premiership champions Ipswich Witches are set for an exciting new era with the fans at its heart after Mayfield, parent company of the FIM Speedway World Championships, completed"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: ROWE Motor Oil Premiership champions Ipswich Witches are set for an exciting
+  new era with the fans at its heart after Mayfield, parent company of the FIM Speedway
+  World Championships, completed
+heroImage: /images/blog/ipswich-speedway-statement-2-feb2026/ipswich_foxhall_crowd25-scaled.jpg
+pubDate: '2026-02-28'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/ipswich-speedway-statement-2-feb2026/ipswich_foxhall_crowd25-scaled.jpg"
+- news
+- SGB
+title: Ipswich Speedway Statement 2 - Feb2026
 ---
 
 **ROWE Motor Oil Premiership champions Ipswich Witches are set for an exciting new era with the fans at its heart after Mayfield, parent company of the FIM Speedway World Championships, completed its takeover of the club.**

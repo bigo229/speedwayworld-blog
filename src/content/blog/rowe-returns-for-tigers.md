@@ -1,13 +1,15 @@
 ---
-title: "ROWE RETURNS FOR TIGERS"
-pubDate: "2025-12-31"
-description: "SHEFFIELD have secured the services of Anders Rowe for a second successive season.The 23year-old enjoyed a fine first campaign with the Tigers where he added almost a point-and"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD have secured the services of Anders Rowe for a second successive
+  season.The 23year-old enjoyed a fine first campaign with the Tigers where he added
+  almost a point-and
+heroImage: /images/blog/rowe-returns-for-tigers/rowe_anders25_TL-scaled.jpg
+pubDate: '2025-12-31'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/rowe-returns-for-tigers/rowe_anders25_TL-scaled.jpg"
+- news
+- SGB
+title: Rowe Returns For Tigers
 ---
 
 **SHEFFIELD have secured the services of Anders Rowe for a second successive season.**

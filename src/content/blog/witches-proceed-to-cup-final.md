@@ -1,13 +1,15 @@
 ---
-title: "WITCHES PROCEED TO CUP FINAL"
-pubDate: "2026-04-24"
-description: ".IPSWICH booked their place in the Premiership KO Cup Final with a hardfought 47-43 home win over newcomers Northampton.The Witches have won all three of their southern section group"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .IPSWICH booked their place in the Premiership KO Cup Final with a hardfought
+  47-43 home win over newcomers Northampton.The Witches have won all three of their
+  southern section group
+heroImage: /images/blog/witches-proceed-to-cup-final/b66695beae16afb18eb91d454e27bd23b32c46e6-action26ipsnor1jh-scaled.jpg
+pubDate: '2026-04-24'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/witches-proceed-to-cup-final/b66695beae16afb18eb91d454e27bd23b32c46e6-action26ipsnor1jh-scaled.jpg"
+- news
+- SGB
+title: Witches Proceed To Cup Final
 ---
 
 **IPSWICH booked their place in the Premiership KO Cup Final with a hard-fought 47-43 home win over newcomers Northampton.**

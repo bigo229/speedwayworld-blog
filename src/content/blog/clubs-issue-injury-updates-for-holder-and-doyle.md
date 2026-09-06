@@ -1,14 +1,16 @@
 ---
-title: "CLUBS ISSUE INJURY UPDATES FOR HOLDER & DOYLE"
-pubDate: "2026-06-21"
-description: "Aussie duo Jack Holder and Jason Doyle face a spell on the sidelines following a crash at the DEWALT FIM Speedway GP of Poland – Wroclaw on Saturday.Both riders were involved"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Aussie duo Jack Holder and Jason Doyle face a spell on the sidelines
+  following a crash at the DEWALT FIM Speedway GP of Poland – Wroclaw on Saturday.Both
+  riders were involved
+heroImage: /images/blog/clubs-issue-injury-updates-for-holder-and-doyle/26SGPWroclawMeeting_DoyleJHolderCrash11-large-scaled.jpg
+pubDate: '2026-06-21'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/clubs-issue-injury-updates-for-holder-and-doyle/26SGPWroclawMeeting_DoyleJHolderCrash11-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Clubs Issue Injury Updates For Holder & Doyle
 ---
 
 **Aussie duo Jack Holder and Jason Doyle face a spell on the sidelines following a crash at the DEWALT FIM Speedway GP of Poland – Wroclaw on Saturday.**

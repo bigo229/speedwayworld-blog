@@ -1,13 +1,15 @@
 ---
-title: "STARS RETAIN KVECH FOR 2026"
-pubDate: "2025-12-23"
-description: "CZECH Republic racer Jan Kvech has been announced as King’s Lynn’s second signing for the 2026 Premiership campaign.Kvech, who has been a Grand Prix regular in the last"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: CZECH Republic racer Jan Kvech has been announced as King’s Lynn’s second
+  signing for the 2026 Premiership campaign.Kvech, who has been a Grand Prix regular
+  in the last
+heroImage: /images/blog/stars-retain-kvech-for-2026/kvech_jan25_TL-scaled.jpg
+pubDate: '2025-12-23'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/stars-retain-kvech-for-2026/kvech_jan25_TL-scaled.jpg"
+- news
+- SGB
+title: Stars Retain Kvech For 2026
 ---
 
 **CZECH Republic racer Jan Kvech has been announced as King’s Lynn’s second signing for the 2026 Premiership campaign.**

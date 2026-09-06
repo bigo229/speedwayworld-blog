@@ -1,12 +1,15 @@
 ---
-title: "Kevin Malkiewicz Wins 2026 European Under-19 Speedway Championship"
-description: "SGP2 star Kevin Malkiewicz scores a 15-point maximum in Krsko to claim the 2026 European Under-19 Speedway Championship title ahead of Bartosz Banbor."
+author: SpeedwayWorld WebTeam
+category: Updates
+description: SGP2 star Kevin Malkiewicz scores a 15-point maximum in Krsko to claim
+  the 2026 European Under-19 Speedway Championship title ahead of Bartosz Banbor.
+heroImage: /images/blog/26SGP2LodzMeeting_Malkiewicz1-large-scaled.jpg
 pubDate: 2026-09-05
+tags:
+- news
+- racing
+title: Kevin Malkiewicz Wins 2026 European Under-19 Speedway Championship
 updatedDate: 2026-09-06
-heroImage: "/images/blog/26SGP2LodzMeeting_Malkiewicz1-large-scaled.jpg"
-author: "SpeedwayWorld WebTeam"
-tags: ["news", "racing"]
-category: "Updates"
 ---
 
 **SGP2 star Kevin Malkiewicz raced to a sensational 15-point maximum to secure the 2026 European Under-19 Championship title at the historic Slovenian circuit in Krsko on Saturday.**

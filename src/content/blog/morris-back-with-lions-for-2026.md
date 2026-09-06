@@ -1,13 +1,15 @@
 ---
-title: "MORRIS BACK WITH LIONS FOR 2026"
-pubDate: "2026-01-08"
-description: "LEICESTER have announced Nick Morris will return to the club after a stint with Premiership rivals Sheffield last season.Morris had ridden for the Lions in both senior tiers, stepping up"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER have announced Nick Morris will return to the club after a
+  stint with Premiership rivals Sheffield last season.Morris had ridden for the Lions
+  in both senior tiers, stepping up
+heroImage: /images/blog/morris-back-with-lions-for-2026/morris_nick23-scaled.jpg
+pubDate: '2026-01-08'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/morris-back-with-lions-for-2026/morris_nick23-scaled.jpg"
+- news
+- SGB
+title: Morris Back With Lions For 2026
 ---
 
 **LEICESTER have announced Nick Morris will return to the club after a stint with Premiership rivals Sheffield last season.**

@@ -1,13 +1,15 @@
 ---
-title: "ZMARZLIK SEALS AN HISTORIC SIXTH SPEEDWAY GP WORLD CHAMPIONSHIP"
-pubDate: "2025-09-14"
-description: "Zmarzlik celebrates.Polish hero Bartosz Zmarzlik was elated to hold his nerve in the most highstakes race of his career so far to become a record-equalling six-time Speedway GP"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Zmarzlik celebrates.Polish hero Bartosz Zmarzlik was elated to hold his
+  nerve in the most highstakes race of his career so far to become a record-equalling
+  six-time Speedway GP
+heroImage: /images/blog/zmarzlik-seals-an-historic-sixth-speedway-gp-world-championship/ZmarzlikCelebrates5444-large-scaled.jpg
+pubDate: '2025-09-14'
 tags:
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/zmarzlik-seals-an-historic-sixth-speedway-gp-world-championship/ZmarzlikCelebrates5444-large-scaled.jpg"
+- FIM
+- SGP
+title: Zmarzlik Seals An Historic Sixth Speedway Gp World Championship
 ---
 
 Zmarzlik celebrates

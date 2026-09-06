@@ -1,15 +1,17 @@
 ---
-title: "REW MAKES BRUMMIES MOVE"
-pubDate: "2024-12-01"
-description: "Former SGP2 star Keynan Rew has completed a move to British Rowe Motor Oil Premiership side Birmingham for 2025.Rew, who inspired Australia to FIM Speedway of Nations – SON2 bronze in"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Former SGP2 star Keynan Rew has completed a move to British Rowe Motor
+  Oil Premiership side Birmingham for 2025.Rew, who inspired Australia to FIM Speedway
+  of Nations – SON2 bronze in
+heroImage: /images/blog/rew-makes-brummies-move/RewKaulinsPearsonJuhno2883-large-scaled.jpg
+pubDate: '2024-12-01'
 tags:
-  - "news"
-  - "SGB"
-  - "FIM"
-  - "ekstraliga"
-category: "British Speedway"
-heroImage: "/images/blog/rew-makes-brummies-move/RewKaulinsPearsonJuhno2883-large-scaled.jpg"
+- news
+- SGB
+- FIM
+- ekstraliga
+title: Rew Makes Brummies Move
 ---
 
 **Former SGP2 star Keynan Rew has completed a move to British Rowe Motor Oil Premiership side Birmingham for 2025.**

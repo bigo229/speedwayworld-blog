@@ -1,13 +1,15 @@
 ---
-title: "MASTERS TAKES LIONS CAPTAINCY"
-pubDate: "2025-12-23"
-description: "LEICESTER have confirmed Sam Masters will return for a third season with the club in 2026, and will also take over as captain.Masters moved from the West to East Midlands"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER have confirmed Sam Masters will return for a third season with
+  the club in 2026, and will also take over as captain.Masters moved from the West
+  to East Midlands
+heroImage: /images/blog/masters-takes-lions-captaincy/masters_sam25_TL-scaled.jpg
+pubDate: '2025-12-23'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/masters-takes-lions-captaincy/masters_sam25_TL-scaled.jpg"
+- news
+- SGB
+title: Masters Takes Lions Captaincy
 ---
 
 **LEICESTER have confirmed Sam Masters will return for a third season with the club in 2026, and will also take over as captain.**

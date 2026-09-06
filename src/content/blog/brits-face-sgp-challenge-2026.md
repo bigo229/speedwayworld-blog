@@ -1,14 +1,16 @@
 ---
-title: "BRITS FACE SGP CHALLENGE 2026"
-pubDate: "2026-07-25"
-description: "SGP QUALIFIER 2026.KING’S Lynn and Glasgow skipper Chris Harris is one of three British riders competing in Saturday’s Grand Prix Challenge in Italy.Harris and Anders Rowe of"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SGP QUALIFIER 2026.KING’S Lynn and Glasgow skipper Chris Harris is one
+  of three British riders competing in Saturday’s Grand Prix Challenge in Italy.Harris
+  and Anders Rowe of
+heroImage: /images/blog/brits-face-sgp-challenge-2026/ce4892cd11799e4326b2ba1547e0c6e986aee1b9-sgpqualifier263ia-scaled.jpg
+pubDate: '2026-07-25'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/brits-face-sgp-challenge-2026/ce4892cd11799e4326b2ba1547e0c6e986aee1b9-sgpqualifier263ia-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Brits Face Sgp Challenge 2026
 ---
 
 SGP QUALIFIER 2026

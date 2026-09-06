@@ -1,13 +1,15 @@
 ---
-title: "Bartosz Zmarzlik nominated in the Przegląd Sportowy poll"
-pubDate: "2024-11-14"
-description: "The current Individual World Champion Bartosz Zmarzlik will once again compete for the title of Sportsman of the Year in the annual “Przegląd Sportowy” poll.The Pole, who this past season"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: The current Individual World Champion Bartosz Zmarzlik will once again
+  compete for the title of Sportsman of the Year in the annual “Przegląd Sportowy”
+  poll.The Pole, who this past season
+heroImage: /images/blog/bartosz-zmarzlik-nominated-in-the-przeglad-sportowy-poll/608_SoN-1536x1025.jpg
+pubDate: '2024-11-14'
 tags:
-  - "news"
-  - "ekstraliga"
-category: "British Speedway"
-heroImage: "/images/blog/bartosz-zmarzlik-nominated-in-the-przeglad-sportowy-poll/608_SoN-1536x1025.jpg"
+- news
+- ekstraliga
+title: Bartosz Zmarzlik nominated in the Przegląd Sportowy poll
 ---
 
 **The current Individual World Champion Bartosz Zmarzlik will once again compete for the title of Sportsman of the Year in the annual “Przegląd Sportowy” poll.**

@@ -1,13 +1,15 @@
 ---
-title: "BRITISH SPEEDWAY ROUND-UP #3 2026"
-pubDate: "2026-04-21"
-description: "PIC OF THE WEEK….HERE’S the latest news and fixtures from around the tracks up and down the country.KING’S Lynn defeated newcomers Northampton 5040 at the Adrian Flux"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: PIC OF THE WEEK….HERE’S the latest news and fixtures from around the
+  tracks up and down the country.KING’S Lynn defeated newcomers Northampton 5040 at
+  the Adrian Flux
+heroImage: /images/blog/british-speedway-round-up-3-2026/action26_kl_nor6_DL-scaled.jpg
+pubDate: '2026-04-21'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/british-speedway-round-up-3-2026/action26_kl_nor6_DL-scaled.jpg"
+- news
+- SGB
+title: 'British Speedway Round-Up #3 2026'
 ---
 
 **PIC OF THE WEEK…**
@@ -193,10 +195,16 @@ PREMIERSHIP KO CUP (NORTH): Leicester (49) v Sheffield (41) 7.30
 PREMIERSHIP KO CUP (SOUTH): Ipswich v Northampton 7.30
 
 FRIDAY APRIL 24:
-MAXICAB KO CUP Q/F 2nd leg : Edinburgh (39) v Redcar (51) 7.30, 1st leg: Glasgow v Plymouth 7.30
+
+### 🏁 Maxicab Ko Cup Q/F 2Nd Leg
+* Edinburgh (39) v Redcar (51) 7.30
+* 1st leg: Glasgow v Plymouth 7.30
 
 SATURDAY APRIL 25:
-MAXICAB KO CUP Q/F 2nd leg: Plymouth v Glasgow 7pm, 1st leg: Berwick v Workington 7pm
+
+### 🏁 Maxicab Ko Cup Q/F 2Nd Leg
+* Plymouth v Glasgow 7pm
+* 1st leg: Berwick v Workington 7pm
 
 SUNDAY APRIL 26:
 MAXICAB KO CUP Q/F 2nd leg: Workington v Berwick 3pm
@@ -213,7 +221,10 @@ THURSDAY APRIL 30:
 PREMIERSHIP KO CUP (SOUTH): Northampton v Ipswich 7.30
 
 FRIDAY MAY 1:
-BSN SERIES: Edinburgh v Berwick 7.30, Scunthorpe (41) v Workington (49) 7.30
+
+### 🏁 Bsn Series
+* Edinburgh v Berwick 7.30
+* Scunthorpe (41) v Workington (49) 7.30
 WSRA NATIONAL DEVELOPMENT LEAGUE: Middlesbrough v Oxford 7.30
 
 SATURDAY MAY 2:
@@ -224,6 +235,10 @@ BSN SERIES: Glasgow (45) v Edinburgh (45) 3pm
 BRITISH YOUTH CHAMPIONSHIP Buxton 3pm
 
 MONDAY MAY 4:
-ROWE MOTOR OIL PREMIERSHIP R1: Belle Vue v Northampton 12pm, Ipswich v King’s Lynn 2.15, Leicester v Northampton 7.30
+
+### 🏁 Rowe Motor Oil Premiership R1
+* Belle Vue v Northampton 12pm
+* Ipswich v King’s Lynn 2.15
+* Leicester v Northampton 7.30
 
 * * *

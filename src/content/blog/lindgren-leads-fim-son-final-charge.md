@@ -1,14 +1,16 @@
 ---
-title: "LINDGREN LEADS FIM SON FINAL CHARGE"
-pubDate: "2025-10-01"
-description: "Winners Sweden on Podium.Swedish skipper Fredrik Lindgren says he has “unfinished business” after inspiring his country into the 2025 FIM Speedway of Nations Final with victory at SemiFinal 1 in"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Winners Sweden on Podium.Swedish skipper Fredrik Lindgren says he has
+  “unfinished business” after inspiring his country into the 2025 FIM Speedway of
+  Nations Final with victory at SemiFinal 1 in
+heroImage: /images/blog/lindgren-leads-fim-son-final-charge/szwecja210843-large-scaled.jpg
+pubDate: '2025-10-01'
 tags:
-  - "news"
-  - "FIM"
-  - "SON"
-category: "British Speedway"
-heroImage: "/images/blog/lindgren-leads-fim-son-final-charge/szwecja210843-large-scaled.jpg"
+- news
+- FIM
+- SON
+title: Lindgren Leads Fim Son Final Charge
 ---
 
 Winners Sweden on Podium
@@ -95,24 +97,46 @@ There is more good news for Sweden and Great Britain as Final qualification mean
 
 The top four teams in **Wednesday’s FIM SON Semi-Final 2, featuring Argentina, Australia, Czech Republic, Denmark, Finland, France and Ukraine** also earn at least FIM SWC Semi-Final spots for 2026, with the **FIM SON world champions advancing straight to the FIM SWC Final at Warsaw’s PGE Narodowy**, where they will be **joined by hosts Poland**. If the Poles win the FIM SON, Saturday’s runners-up will qualify for the FIM SWC Final.
 
-**Tickets for Wednesday’s FIM SON Semi-Final, plus SON2 on Friday and the FIM SON Final this Saturday are still available online. Secure your spot at Torun’s Marian Rose Motoarena** [**HERE**](https://kstorun.kupbilety.pl/) **now.**
+### 🏁 **Tickets For Wednesday’S Fim Son Semi-Final, Plus Son2 On Friday And The Fim Son Final This Saturday Are Still Available Online. Secure Your Spot At Torun’S Marian Rose Motoarena** [**Here**](Https
+* //kstorun.kupbilety.pl/) **now.**
 
 * * *
 
 **FIM SPEEDWAY OF NATIONS SEMI-FINAL 1 SCORES:**
 
-**1\. SWEDEN 40:** 1. Jacob Thorssell 14, 2. Fredrik Lindgren 18, 3. Timo Lahti 8.
+### 🏁 **1\. Sweden 40
+* ** 1. Jacob Thorssell 14
+* 2. Fredrik Lindgren 18
+* 3. Timo Lahti 8.
 
-**2\. GREAT BRITAIN 37:** 1. Robert Lambert 15, 2. Dan Bewley 22, 3. Tom Brennan DNR.
+### 🏁 **2\. Great Britain 37
+* ** 1. Robert Lambert 15
+* 2. Dan Bewley 22
+* 3. Tom Brennan DNR.
 
-**3\. LATVIA 30:** 1. Andzejs Lebedevs 20, 2. Jevgenijs Kostigovs 2, 3. Daniils Kolodinskis 8.
+### 🏁 **3\. Latvia 30
+* ** 1. Andzejs Lebedevs 20
+* 2. Jevgenijs Kostigovs 2
+* 3. Daniils Kolodinskis 8.
 
-**4\. GERMANY 26:** 1. Norick Blodorn 9, 2. Kai Huckenbeck 17, 3. Valentin Grobauer DNR.
+### 🏁 **4\. Germany 26
+* ** 1. Norick Blodorn 9
+* 2. Kai Huckenbeck 17
+* 3. Valentin Grobauer DNR.
 
-**5\. NORWAY 26:** 1. Mathias Pollestad 19, 2. Glenn Moi DNR, 3. Lasse Fredriksen 7.
+### 🏁 **5\. Norway 26
+* ** 1. Mathias Pollestad 19
+* 2. Glenn Moi DNR
+* 3. Lasse Fredriksen 7.
 
-**6\. SLOVENIA 16:** 1. Matic Ivacic 5, 2. Anze Grmek 11, 3. Luka Omerzel DNR.
+### 🏁 **6\. Slovenia 16
+* ** 1. Matic Ivacic 5
+* 2. Anze Grmek 11
+* 3. Luka Omerzel DNR.
 
-**7\. ITALY 14:** 1. Nicolas Covatti 12, 2. Nicolas Vicentin 2, 3. Nicolo Percotti 0.
+### 🏁 **7\. Italy 14
+* ** 1. Nicolas Covatti 12
+* 2. Nicolas Vicentin 2
+* 3. Nicolo Percotti 0.
 
 * * *

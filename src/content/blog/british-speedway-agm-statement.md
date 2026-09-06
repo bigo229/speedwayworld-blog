@@ -1,13 +1,15 @@
 ---
-title: "BRITISH SPEEDWAY AGM STATEMENT"
-pubDate: "2024-11-14"
-description: "Thursday, November 14, 2024.BRITISH Speedway Promoters’ Ltd is pleased to confirm all clubs will return to contest the 2025 season.The sport’s AGM has been completed where rules, regulations"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Thursday, November 14, 2024.BRITISH Speedway Promoters’ Ltd is pleased
+  to confirm all clubs will return to contest the 2025 season.The sport’s AGM has
+  been completed where rules, regulations
+heroImage: /images/blog/british-speedway-agm-statement/british_speedway-scaled.jpg
+pubDate: '2024-11-14'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/british-speedway-agm-statement/british_speedway-scaled.jpg"
+- news
+- SGB
+title: British Speedway Agm Statement
 ---
 
 Thursday, November 14, 2024

@@ -1,13 +1,15 @@
 ---
-title: "BLODORN IS AN ACE AGAIN FOR 2026"
-pubDate: "2026-01-09"
-description: "GERMAN international star Norick Blodorn will be back with Belle Vue in the Premiership this season.The 21year-old has already spent four years with the Aces and he was a"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: GERMAN international star Norick Blodorn will be back with Belle Vue
+  in the Premiership this season.The 21year-old has already spent four years with
+  the Aces and he was a
+heroImage: /images/blog/blodorn-is-an-ace-again-for-2026/blodorn_norick25_TL-scaled.jpg
+pubDate: '2026-01-09'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/blodorn-is-an-ace-again-for-2026/blodorn_norick25_TL-scaled.jpg"
+- news
+- SGB
+title: Blodorn Is An Ace Again For 2026
 ---
 
 **GERMAN international star Norick Blodorn will be back with Belle Vue in the Premiership this season.**

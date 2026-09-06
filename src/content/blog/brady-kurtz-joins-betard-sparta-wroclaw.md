@@ -1,13 +1,15 @@
 ---
-title: "Brady Kurtz joins BETARD SPARTA Wrocław"
-pubDate: "2024-11-14"
-description: "The silver medalists of the PGE Ekstraliga 2024 have introduced a new player for the next season. The BETARD SPARTA team will be strengthened by Brady Kurtz, who was a leading"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: The silver medalists of the PGE Ekstraliga 2024 have introduced a new
+  player for the next season. The BETARD SPARTA team will be strengthened by Brady
+  Kurtz, who was a leading
+heroImage: /images/blog/brady-kurtz-joins-betard-sparta-wroclaw/wts09037jpg-1200x800.jpg
+pubDate: '2024-11-14'
 tags:
-  - "news"
-  - "ekstraliga"
-category: "British Speedway"
-heroImage: "/images/blog/brady-kurtz-joins-betard-sparta-wroclaw/wts09037jpg-1200x800.jpg"
+- news
+- ekstraliga
+title: Brady Kurtz joins BETARD SPARTA Wrocław
 ---
 
 **The silver medalists of the PGE Ekstraliga 2024 have introduced a new player for the next season. The BETARD SPARTA team will be strengthened by Brady Kurtz, who was a leading figure in the METALKAS 2. Ekstraliga this year.**

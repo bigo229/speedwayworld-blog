@@ -1,14 +1,16 @@
 ---
-title: "LAMBERT SAILS INTO FIM SGP CHALLENGE 2026"
-pubDate: "2026-05-30"
-description: "Great Britain racer Robert Lambert took an important step towards securing his Speedway GP spot for 2027 after booking his place in the FIM SGP Challenge.Lambert won the qualifier at"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Great Britain racer Robert Lambert took an important step towards securing
+  his Speedway GP spot for 2027 after booking his place in the FIM SGP Challenge.Lambert
+  won the qualifier at
+heroImage: /images/blog/lambert-sails-into-fim-sgp-challenge-2026/26SGPPraguePractice_Lambert3-large-scaled.jpg
+pubDate: '2026-05-30'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/lambert-sails-into-fim-sgp-challenge-2026/26SGPPraguePractice_Lambert3-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Lambert Sails Into Fim Sgp Challenge 2026
 ---
 
 **Great Britain racer Robert Lambert took an important step towards securing his Speedway GP spot for 2027 after booking his place in the FIM SGP Challenge.**

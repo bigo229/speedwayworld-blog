@@ -1,13 +1,15 @@
 ---
-title: "KURTZ BACK TO LEAD ACES FOR 2026"
-pubDate: "2026-02-06"
-description: "WORLD No.2 Brady Kurtz will be back to lead Belle Vue in their chase for ROWE Motor Oil Premiership honours this season.The Australian enjoyed a stellar 2025 campaign, going"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: WORLD No.2 Brady Kurtz will be back to lead Belle Vue in their chase
+  for ROWE Motor Oil Premiership honours this season.The Australian enjoyed a stellar
+  2025 campaign, going
+heroImage: /images/blog/kurtz-back-to-lead-aces-for-2026/kurtz_brady25_TL-scaled.jpg
+pubDate: '2026-02-06'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/kurtz-back-to-lead-aces-for-2026/kurtz_brady25_TL-scaled.jpg"
+- news
+- SGB
+title: Kurtz Back To Lead Aces For 2026
 ---
 
 **WORLD No.2 Brady Kurtz will be back to lead Belle Vue in their chase for ROWE Motor Oil Premiership honours this season.**

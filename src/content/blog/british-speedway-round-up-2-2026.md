@@ -1,13 +1,15 @@
 ---
-title: "BRITISH SPEEDWAY ROUND-UP #2 2026"
-pubDate: "2026-04-14"
-description: "PIC OF THE WEEK….HERE’S the latest news and fixtures from around the tracks up and down the country.FORMER Glasgow star Dan Thompson salvaged a draw for his new"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: PIC OF THE WEEK….HERE’S the latest news and fixtures from around the
+  tracks up and down the country.FORMER Glasgow star Dan Thompson salvaged a draw
+  for his new
+heroImage: /images/blog/british-speedway-round-up-2-2026/action26_edi_gla4_SF-scaled.jpg
+pubDate: '2026-04-14'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/british-speedway-round-up-2-2026/action26_edi_gla4_SF-scaled.jpg"
+- news
+- SGB
+title: 'British Speedway Round-Up #2 2026'
 ---
 
 **PIC OF THE WEEK…**
@@ -195,7 +197,10 @@ MAXICAB KO CUP Q/F 1st leg: Redcar v Edinburgh 7.30
 BSN SERIES: Glasgow v Berwick 7.30
 
 SATURDAY APRIL 18:
-BSN SERIES: Berwick v Glasgow 7pm, Workington v Scunthorpe 3pm
+
+### 🏁 Bsn Series
+* Berwick v Glasgow 7pm
+* Workington v Scunthorpe 3pm
 
 SUNDAY APRIL 19:
 WSRA NATIONAL DEVELOPMENT LEAGUE: Leicester v Middlesbrough 3pm
@@ -213,10 +218,16 @@ PREMIERSHIP KO CUP (NORTH): Leicester v Sheffield 7.30
 PREMIERSHIP KO CUP (SOUTH): Ipswich v Northampton 7.30
 
 FRIDAY APRIL 24:
-MAXICAB KO CUP Q/F 2nd leg : Edinburgh v Redcar 7.30, 1st leg: Glasgow v Plymouth 7.30
+
+### 🏁 Maxicab Ko Cup Q/F 2Nd Leg
+* Edinburgh v Redcar 7.30
+* 1st leg: Glasgow v Plymouth 7.30
 
 SATURDAY APRIL 25:
-MAXICAB KO CUP Q/F 2nd leg: Plymouth v Glasgow 7pm, 1st leg: Workington v Berwick 3pm
+
+### 🏁 Maxicab Ko Cup Q/F 2Nd Leg
+* Plymouth v Glasgow 7pm
+* 1st leg: Workington v Berwick 3pm
 
 SUNDAY APRIL 26:
 WSRA NATIONAL DEVELOPMENT LEAGUE: Oxford v Middlesbrough 3pm

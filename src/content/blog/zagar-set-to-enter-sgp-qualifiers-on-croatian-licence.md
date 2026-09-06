@@ -1,15 +1,17 @@
 ---
-title: "ZAGAR SET TO ENTER SGP QUALIFIERS ON CROATIAN LICENCE"
-pubDate: "2024-12-04"
-description: "Former Speedway GP star Matej Zagar has his sights set on an FIM Speedway Grand Prix comeback for 2026 as he enters the 2025 SGP qualifying rounds on a Croatian licence"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Former Speedway GP star Matej Zagar has his sights set on an FIM Speedway
+  Grand Prix comeback for 2026 as he enters the 2025 SGP qualifying rounds on a Croatian
+  licence
+heroImage: /images/blog/zagar-set-to-enter-sgp-qualifiers-on-croatian-licence/zagar_matej_sgp18-scaled.jpg
+pubDate: '2024-12-04'
 tags:
-  - "news"
-  - "SGB"
-  - "SGP"
-  - "ekstraliga"
-category: "British Speedway"
-heroImage: "/images/blog/zagar-set-to-enter-sgp-qualifiers-on-croatian-licence/zagar_matej_sgp18-scaled.jpg"
+- news
+- SGB
+- SGP
+- ekstraliga
+title: Zagar Set To Enter Sgp Qualifiers On Croatian Licence
 ---
 
 **Former Speedway GP star Matej Zagar has his sights set on an FIM Speedway Grand Prix comeback for 2026 as he enters the 2025 SGP qualifying rounds on a Croatian licence.**

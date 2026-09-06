@@ -1,13 +1,15 @@
 ---
-title: "KEMP BACK LIONS NOW COMPLETE"
-pubDate: "2026-01-22"
-description: "LEICESTER have completed their lineup for the 2026 Premiership by announcing the return of former treble British Under-19 Champion Drew Kemp. .The 23year-old has been associated with the Lions"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER have completed their lineup for the 2026 Premiership by announcing
+  the return of former treble British Under-19 Champion Drew Kemp. .The 23year-old
+  has been associated with the Lions
+heroImage: /images/blog/kemp-back-lions-now-complete/kemp_drew25_TL-scaled.jpg
+pubDate: '2026-01-22'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/kemp-back-lions-now-complete/kemp_drew25_TL-scaled.jpg"
+- news
+- SGB
+title: Kemp Back Lions Now Complete
 ---
 
 **LEICESTER have completed their line-up for the 2026 Premiership by announcing the return of former treble British Under-19 Champion Drew Kemp.**

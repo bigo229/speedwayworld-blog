@@ -1,14 +1,16 @@
 ---
-title: "BEWLEY & KUBERA WILL MISS MANCHESTER SGP 2026 DOUBLE-HEADER"
-pubDate: "2026-05-28"
-description: "Great Britain racer Dan Bewley and Polish star Dominik Kubera have both officially withdrawn from the ATPI FIM Speedway GP of Great Britain – Manchester doubleheader on June 5 and 6.Belle"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Great Britain racer Dan Bewley and Polish star Dominik Kubera have both
+  officially withdrawn from the ATPI FIM Speedway GP of Great Britain – Manchester
+  doubleheader on June 5 and 6.Belle
+heroImage: /images/blog/bewley-and-kubera-will-miss-manchester-sgp-2026-double-header/630_MK_Bewley_-Kubera_-Fricke_-Blodorn-large-scaled.jpg
+pubDate: '2026-05-28'
 tags:
-  - "news"
-  - "SGB"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/bewley-and-kubera-will-miss-manchester-sgp-2026-double-header/630_MK_Bewley_-Kubera_-Fricke_-Blodorn-large-scaled.jpg"
+- news
+- SGB
+- FIM
+title: Bewley & Kubera Will Miss Manchester Sgp 2026 Double-Header
 ---
 
 **Great Britain racer Dan Bewley and Polish star Dominik Kubera have both officially withdrawn from the ATPI FIM Speedway GP of Great Britain – Manchester double-header on June 5 and 6.**

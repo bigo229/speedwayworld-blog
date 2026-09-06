@@ -1,13 +1,15 @@
 ---
-title: "HOWARTH RETURNS TO LIONS IN 2026"
-pubDate: "2026-01-15"
-description: "LEICESTER have announced the signing of Kyle Howarth who returns for a second successive season with the 2025 Premiership runnersup.Howarth made the move to the Hydroscand Arena, Beaumont Park after"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER have announced the signing of Kyle Howarth who returns for
+  a second successive season with the 2025 Premiership runnersup.Howarth made the
+  move to the Hydroscand Arena, Beaumont Park after
+heroImage: /images/blog/howarth-returns-to-lions-in-2026/howarth_kyle25_TL-scaled.jpg
+pubDate: '2026-01-15'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/howarth-returns-to-lions-in-2026/howarth_kyle25_TL-scaled.jpg"
+- news
+- SGB
+title: Howarth Returns To Lions In 2026
 ---
 
 **LEICESTER have announced the signing of Kyle Howarth who returns for a second successive season with the 2025 Premiership runners-up.**

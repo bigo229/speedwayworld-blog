@@ -1,14 +1,16 @@
 ---
-title: "DANISH STAR THOMSEN WINS 2026 SPEEDWAY GP OF SWEDEN IN MALILLA"
-pubDate: "2026-07-12"
-description: "Danish racer Anders Thomsen says he feared his FIM Speedway Grand Prix days were behind him after storming to a sensational 2026 BST FIM Speedway GP of Sweden – Malilla victory on"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Danish racer Anders Thomsen says he feared his FIM Speedway Grand Prix
+  days were behind him after storming to a sensational 2026 BST FIM Speedway GP of
+  Sweden – Malilla victory on
+heroImage: /images/blog/danish-star-thomsen-wins-2026-speedway-gp-of-sweden-in-malilla/Photo-11-07-2026_-21-52-45-large-scaled.jpg
+pubDate: '2026-07-12'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/danish-star-thomsen-wins-2026-speedway-gp-of-sweden-in-malilla/Photo-11-07-2026_-21-52-45-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Danish Star Thomsen Wins 2026 Speedway Gp Of Sweden In Malilla
 ---
 
 **Danish racer Anders Thomsen says he feared his FIM Speedway Grand Prix days were behind him after storming to a sensational 2026 BST FIM Speedway GP of Sweden – Malilla victory on Saturday.**

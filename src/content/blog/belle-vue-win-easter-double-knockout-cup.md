@@ -1,13 +1,15 @@
 ---
-title: "BELLE VUE WIN  EASTER DOUBLE KNOCKOUT CUP"
-pubDate: "2026-04-07"
-description: "BELLE Vue star Dan Bewley delivered a sensational unbeaten Easter Monday performance as the Aces outscored Leicester in their Knockout Cup double.Bewley collected a 15point maximum in an impressive 57"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BELLE Vue star Dan Bewley delivered a sensational unbeaten Easter Monday
+  performance as the Aces outscored Leicester in their Knockout Cup double.Bewley
+  collected a 15point maximum in an impressive 57
+heroImage: /images/blog/belle-vue-win-easter-double-knockout-cup/action26_bv_lei4_IC-scaled.jpg
+pubDate: '2026-04-07'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/belle-vue-win-easter-double-knockout-cup/action26_bv_lei4_IC-scaled.jpg"
+- news
+- SGB
+title: Belle Vue Win  Easter Double Knockout Cup
 ---
 
 **BELLE Vue star Dan Bewley delivered a sensational unbeaten Easter Monday performance as the Aces outscored Leicester in their Knockout Cup double.**

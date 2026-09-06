@@ -1,14 +1,16 @@
 ---
-title: "Kurtz Getting Closer To SGP Title"
-pubDate: "2025-08-10"
-description: "BELLE Vue captain Brady Kurtz will head into Monday’s televised ROWE Motor Oil Premiership clash with Ipswich just three points off the World Championship lead.The inform Aces star is"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BELLE Vue captain Brady Kurtz will head into Monday’s televised ROWE
+  Motor Oil Premiership clash with Ipswich just three points off the World Championship
+  lead.The inform Aces star is
+heroImage: /images/blog/kurtz-getting-closer-to-sgp-title/sgp25_riga-scaled.jpg
+pubDate: '2025-08-10'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/kurtz-getting-closer-to-sgp-title/sgp25_riga-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Kurtz Getting Closer To SGP Title
 ---
 
 **BELLE Vue captain Brady Kurtz will head into Monday’s televised ROWE Motor Oil Premiership clash with Ipswich just three points off the World Championship lead.**

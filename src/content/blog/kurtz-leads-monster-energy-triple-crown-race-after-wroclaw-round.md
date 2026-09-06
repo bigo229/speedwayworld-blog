@@ -1,13 +1,15 @@
 ---
-title: "KURTZ LEADS MONSTER ENERGY TRIPLE CROWN RACE AFTER WROCLAW ROUND"
-pubDate: "2026-06-22"
-description: "The race for the 2026 Monster Energy Triple Crown could not be tighter as Aussie ace Brady Kurtz left the DEWALT FIM Speedway GP of Poland – Wroclaw leading the way on"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: The race for the 2026 Monster Energy Triple Crown could not be tighter
+  as Aussie ace Brady Kurtz left the DEWALT FIM Speedway GP of Poland – Wroclaw leading
+  the way on
+heroImage: /images/blog/kurtz-leads-monster-energy-triple-crown-race-after-wroclaw-round/438_Kurtz_-Fricke_-Kvech_-Kubera-large-scaled.jpg
+pubDate: '2026-06-22'
 tags:
-  - "news"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/kurtz-leads-monster-energy-triple-crown-race-after-wroclaw-round/438_Kurtz_-Fricke_-Kvech_-Kubera-large-scaled.jpg"
+- news
+- FIM
+title: Kurtz Leads Monster Energy Triple Crown Race After Wroclaw Round
 ---
 
 **The race for the 2026 Monster Energy Triple Crown could not be tighter as Aussie ace Brady Kurtz left the DEWALT FIM Speedway GP of Poland – Wroclaw leading the way on Saturday.**

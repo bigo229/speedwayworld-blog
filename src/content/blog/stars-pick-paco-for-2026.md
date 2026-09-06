@@ -1,13 +1,15 @@
 ---
-title: "STARS PICK PACO FOR 2026"
-pubDate: "2025-12-31"
-description: "KING’S Lynn have completed their top six for the 2026 Premiership campaign by signing Paco Castagna.The Italian star raced in the topflight for Birmingham last season and team boss"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: KING’S Lynn have completed their top six for the 2026 Premiership campaign
+  by signing Paco Castagna.The Italian star raced in the topflight for Birmingham
+  last season and team boss
+heroImage: /images/blog/stars-pick-paco-for-2026/castagna_paco24_1_JC-scaled.jpg
+pubDate: '2025-12-31'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/stars-pick-paco-for-2026/castagna_paco24_1_JC-scaled.jpg"
+- news
+- SGB
+title: Stars Pick Paco For 2026
 ---
 
 **KING’S Lynn have completed their top six for the 2026 Premiership campaign by signing Paco Castagna.**

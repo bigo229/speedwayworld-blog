@@ -1,13 +1,15 @@
 ---
-title: "Two Sign For Tigers"
-pubDate: "2025-04-22"
-description: "SHEFFIELD have made a double signing in order to return to a sevenrider team following the serious injuries suffered by Tai Woffinden last month. .Woffinden is out of hospital and is"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD have made a double signing in order to return to a sevenrider
+  team following the serious injuries suffered by Tai Woffinden last month. .Woffinden
+  is out of hospital and is
+heroImage: /images/blog/two-sign-for-tigers/kerr_lewis23_2-scaled.jpg
+pubDate: '2025-04-22'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/two-sign-for-tigers/kerr_lewis23_2-scaled.jpg"
+- news
+- SGB
+title: Two Sign For Tigers
 ---
 
 **SHEFFIELD have made a double signing in order to return to a seven-rider team following the serious injuries suffered by Tai Woffinden last month.**

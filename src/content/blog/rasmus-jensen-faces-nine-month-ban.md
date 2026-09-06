@@ -1,14 +1,16 @@
 ---
-title: "RASMUS JENSEN FACES NINE-MONTH BAN"
-pubDate: "2026-07-03"
-description: "Former Danish champion Rasmus Jensen has received a ninemonth ban from the sport.The suspension was handed down by Denmark’s Motor Union following an altercation with event director Per Wiekhorst"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Former Danish champion Rasmus Jensen has received a ninemonth ban from
+  the sport.The suspension was handed down by Denmark’s Motor Union following an altercation
+  with event director Per Wiekhorst
+heroImage: /images/blog/rasmus-jensen-faces-nine-month-ban/rjensen-bewley-huckenbeck-nilsson201605-large-scaled.jpg
+pubDate: '2026-07-03'
 tags:
-  - "news"
-  - "FIM"
-  - "dmu"
-category: "British Speedway"
-heroImage: "/images/blog/rasmus-jensen-faces-nine-month-ban/rjensen-bewley-huckenbeck-nilsson201605-large-scaled.jpg"
+- news
+- FIM
+- dmu
+title: Rasmus Jensen Faces Nine-Month Ban
 ---
 
 **Former Danish champion Rasmus Jensen has received a nine-month ban from the sport.**

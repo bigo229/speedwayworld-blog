@@ -1,13 +1,15 @@
 ---
-title: "FLINT BACK FOR TIGERS IN 2026"
-pubDate: "2026-01-02"
-description: "SHEFFIELD have announced the return of Leon Flint as their third confirmed signing for the upcoming Premiership campaign.Flint enjoyed a breakout season with the Tigers in 2025, elevating himself into"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD have announced the return of Leon Flint as their third confirmed
+  signing for the upcoming Premiership campaign.Flint enjoyed a breakout season with
+  the Tigers in 2025, elevating himself into
+heroImage: /images/blog/flint-back-for-tigers-in-2026/flint_leon25_PM-scaled.jpg
+pubDate: '2026-01-02'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/flint-back-for-tigers-in-2026/flint_leon25_PM-scaled.jpg"
+- news
+- SGB
+title: Flint Back For Tigers In 2026
 ---
 
 **SHEFFIELD have announced the return of Leon Flint as their third confirmed signing for the upcoming Premiership campaign.**

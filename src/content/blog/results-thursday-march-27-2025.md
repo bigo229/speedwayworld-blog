@@ -1,13 +1,16 @@
 ---
-title: "Results: Thursday, March 27, 2025 - Ipswich Witches v Belle Vue Aces  67 - 23"
-pubDate: "2025-03-28"
-description: "EMIL Sayfutdinov and Tom Brennan were both unbeaten as Ipswich raced to a 6723 demolition of Belle Vue in the second leg of their KO Cup quarter final.The Witches already"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: EMIL Sayfutdinov and Tom Brennan were both unbeaten as Ipswich raced
+  to a 6723 demolition of Belle Vue in the second leg of their KO Cup quarter final.The
+  Witches already
+heroImage: /images/blog/results-thursday-march-27-2025/action25_ips_bv1_JH-scaled.jpg
+pubDate: '2025-03-28'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/results-thursday-march-27-2025/action25_ips_bv1_JH-scaled.jpg"
+- news
+- SGB
+title: 'Results: Thursday, March 27, 2025 - Ipswich Witches v Belle Vue Aces  67 -
+  23'
 ---
 
 **EMIL Sayfutdinov and Tom Brennan were both unbeaten as Ipswich raced to a 67-23 demolition of Belle Vue in the second leg of their KO Cup quarter final.**
@@ -32,8 +35,23 @@ All seven riders from the dominant hosts won at least one race as they recorded 
 >
 > “I’m not going to take anything away from the Witches, they rode extremely well and they’re a very good outfit. We’ve just got to do some soul searching and work out why the performance has been so poor.”
 
-IPSWICH 67: Emil Sayfutdinov 12, Adam Ellis 11, Tom Brennan 10+2, Jason Doyle 9+2, Jordan Jenkins 8+2, Dan Thompson 8, Danny King 7+2.
-BELLE VUE 23: Dan Bewley 7, Jaimon Lidsey 5, Brady Kurtz 5, Jake Mulford 3, Norick Blodorn 2, Tate Zischke 2, Zach Cook 1.
+### 🏁 Ipswich 67
+* **Emil Sayfutdinov**: 12
+* **Adam Ellis**: 11
+* **Tom Brennan**: 10+2
+* **Jason Doyle**: 9+2
+* **Jordan Jenkins**: 8+2
+* **Dan Thompson**: 8
+* Danny King 7+2.
+
+### 🏁 Belle Vue 23
+* **Dan Bewley**: 7
+* **Jaimon Lidsey**: 5
+* **Brady Kurtz**: 5
+* **Jake Mulford**: 3
+* **Norick Blodorn**: 2
+* **Tate Zischke**: 2
+* Zach Cook 1.
 Ipswich win 117-63 on aggregate
 
 **OFFICIAL REFEREE SCORECARD

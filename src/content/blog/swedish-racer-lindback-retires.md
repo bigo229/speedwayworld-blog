@@ -1,12 +1,14 @@
 ---
-title: "SWEDISH RACER LINDBACK RETIRES"
-pubDate: "2024-11-20"
-description: "Former Speedway GP winner Antonio Lindback has announced his retirement from the sport.Brazilborn Lindback, who last raced in the Speedway GP series in 2020, confirmed the news to Swedish broadcaster"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Former Speedway GP winner Antonio Lindback has announced his retirement
+  from the sport.Brazilborn Lindback, who last raced in the Speedway GP series in
+  2020, confirmed the news to Swedish broadcaster
+heroImage: /images/blog/swedish-racer-lindback-retires/Lindback2946-large-scaled.jpg
+pubDate: '2024-11-20'
 tags:
-  - "news"
-category: "British Speedway"
-heroImage: "/images/blog/swedish-racer-lindback-retires/Lindback2946-large-scaled.jpg"
+- news
+title: Swedish Racer Lindback Retires
 ---
 
 **Former Speedway GP winner Antonio Lindback has announced his retirement from the sport.**

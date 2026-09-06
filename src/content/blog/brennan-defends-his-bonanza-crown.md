@@ -1,13 +1,15 @@
 ---
-title: "BRENNAN DEFENDS HIS BONANZA CROWN"
-pubDate: "2026-02-18"
-description: "TOM Brennan will defend his Ben Fund Bonanza title when the event takes place at his former home track Glasgow on Saturday March 28.Brennan won the meeting on its last"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: TOM Brennan will defend his Ben Fund Bonanza title when the event takes
+  place at his former home track Glasgow on Saturday March 28.Brennan won the meeting
+  on its last
+heroImage: /images/blog/brennan-defends-his-bonanza-crown/benfund_bonanza25_4-scaled.jpg
+pubDate: '2026-02-18'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/brennan-defends-his-bonanza-crown/benfund_bonanza25_4-scaled.jpg"
+- news
+- SGB
+title: Brennan Defends His Bonanza Crown
 ---
 
 **TOM Brennan will defend his Ben Fund Bonanza title when the event takes place at his former home track Glasgow on Saturday March 28.**

@@ -1,14 +1,16 @@
 ---
-title: "BECKER BOOKS FIM SGP CHALLENGE SPOT"
-pubDate: "2026-05-25"
-description: "American racer Luke Becker took a big step towards flying the Stars and Stripes in Speedway GP after reaching the FIM SGP Challenge with a 15point maximum at the qualifier in"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: American racer Luke Becker took a big step towards flying the Stars and
+  Stripes in Speedway GP after reaching the FIM SGP Challenge with a 15point maximum
+  at the qualifier in
+heroImage: /images/blog/becker-books-fim-sgp-challenge-spot/113A0485-large-scaled.jpg
+pubDate: '2026-05-25'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/becker-books-fim-sgp-challenge-spot/113A0485-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Becker Books Fim Sgp Challenge Spot
 ---
 
 American racer Luke Becker took a big step towards flying the Stars and Stripes in Speedway GP after reaching the FIM SGP Challenge with a 15-point maximum at the qualifier in Abensberg on Monday afternoon.

@@ -1,13 +1,15 @@
 ---
-title: "SWEDEN, BRITAIN & LATVIA THROUGH TO FIM SON FINAL IN TORUN"
-pubDate: "2025-10-01"
-description: "Sweden, Great Britain and Latvia join hosts Poland in Saturday’s FIM Speedway of Nations Final after claiming the top three spots in SemiFinal 1 at Torun’s Marian Rose Motoarena"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Sweden, Great Britain and Latvia join hosts Poland in Saturday’s FIM
+  Speedway of Nations Final after claiming the top three spots in SemiFinal 1 at Torun’s
+  Marian Rose Motoarena
+heroImage: /images/blog/sweden-britain-and-latvia-through-to-fim-son-final-in-torun/lindgren-huckenbeck200012-large-scaled.jpg
+pubDate: '2025-10-01'
 tags:
-  - "news"
-  - "SON"
-category: "British Speedway"
-heroImage: "/images/blog/sweden-britain-and-latvia-through-to-fim-son-final-in-torun/lindgren-huckenbeck200012-large-scaled.jpg"
+- news
+- SON
+title: Sweden, Britain & Latvia Through To Fim Son Final In Torun
 ---
 
 **Sweden, Great Britain and Latvia join hosts Poland in Saturday’s FIM Speedway of Nations Final after claiming the top three spots in Semi-Final 1 at Torun’s Marian Rose Motoarena on Tuesday.**

@@ -1,13 +1,15 @@
 ---
-title: "ZISCHKE BACK WITH ACES FOR 2026"
-pubDate: "2026-01-26"
-description: "BELLE Vue have confirmed the signing of Australian youngster Tate Zischke for a second full season at the National Speedway Stadium. .Zischke, 20, made his Aces debut in mid2024 but suffered"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BELLE Vue have confirmed the signing of Australian youngster Tate Zischke
+  for a second full season at the National Speedway Stadium. .Zischke, 20, made his
+  Aces debut in mid2024 but suffered
+heroImage: /images/blog/zischke-back-with-aces-for-2026/zischke_tate25_TL-scaled.jpg
+pubDate: '2026-01-26'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/zischke-back-with-aces-for-2026/zischke_tate25_TL-scaled.jpg"
+- news
+- SGB
+title: Zischke Back With Aces For 2026
 ---
 
 **BELLE Vue have confirmed the signing of Australian youngster Tate Zischke for a second full season at the National Speedway Stadium.**

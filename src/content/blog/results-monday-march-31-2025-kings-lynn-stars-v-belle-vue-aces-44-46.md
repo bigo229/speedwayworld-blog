@@ -1,13 +1,16 @@
 ---
-title: "Results: Monday, March 31, 2025 - King’s Lynn Stars v Belle Vue Aces 44 - 46"
-pubDate: "2025-04-01"
-description: "DAN Bewley snatched a dramatic 4644 win for champions Belle Vue at King’s Lynn in a ROWE Motor Oil Premiership opener which went right down to the wire.Bewley came"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: DAN Bewley snatched a dramatic 4644 win for champions Belle Vue at King’s
+  Lynn in a ROWE Motor Oil Premiership opener which went right down to the wire.Bewley
+  came
+heroImage: /images/blog/results-monday-march-31-2025-kings-lynn-stars-v-belle-vue-aces-44-46/action25_kl_bv1_DL-scaled.jpg
+pubDate: '2025-04-01'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/results-monday-march-31-2025-kings-lynn-stars-v-belle-vue-aces-44-46/action25_kl_bv1_DL-scaled.jpg"
+- news
+- SGB
+title: 'Results: Monday, March 31, 2025 - King’s Lynn Stars v Belle Vue Aces 44 -
+  46'
 ---
 
 **DAN Bewley snatched a dramatic 46-44 win for champions Belle Vue at King’s Lynn in a ROWE Motor Oil Premiership opener which went right down to the wire.**
@@ -34,8 +37,23 @@ Free-scoring Harris led the way for the home side with 14+3 from seven rides and
 >
 > “What we have proved tonight is that we’re more than capable of competing with those type of teams, with that set-up of big hitters, so whilst we’re disappointed we move on to the next one.”
 
-KING’S LYNN 44: Chris Harris 14+3, Nicolai Klindt 10, Jan Kvech 8+1, Niels-Kristian Iversen 6+1, Richard Lawson 4+1, Ben Cook 2, Ashton Boughen 0.
-BELLE VUE 46: Brady Kurtz 13, Dan Bewley 10, Jaimon Lidsey 9, Norick Blodorn 4+1, Zach Cook 4+1, Jake Mulford 3+3, Tate Zischke 3+1.
+### 🏁 King’S Lynn 44
+* **Chris Harris**: 14+3
+* **Nicolai Klindt**: 10
+* **Jan Kvech**: 8+1
+* Niels-Kristian Iversen 6+1
+* **Richard Lawson**: 4+1
+* **Ben Cook**: 2
+* Ashton Boughen 0.
+
+### 🏁 Belle Vue 46
+* **Brady Kurtz**: 13
+* **Dan Bewley**: 10
+* **Jaimon Lidsey**: 9
+* **Norick Blodorn**: 4+1
+* **Zach Cook**: 4+1
+* **Jake Mulford**: 3+3
+* Tate Zischke 3+1.
 
 **OFFICIAL REFEREE SCORECARD
 Available [here](https://britishspeedway.co.uk/25results/kings_lynn_31.03.25_res.pdf)**

@@ -1,14 +1,16 @@
 ---
-title: "SQUADS REVEALED FOR FIM SPEEDWAY WORLD CUP OPENER IN LANDSHUT 2026"
-pubDate: "2026-04-14"
-description: "Germans Norick Blodörn &amp; Kai Huckenbeck. .Hosts Germany, Czech Republic, Great Britain and Ukraine have confirmed their squads for WWK Schwaiger &amp; Partner FIM Speedway World Cup SemiFinal 1"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Germans Norick Blodörn &amp; Kai Huckenbeck. .Hosts Germany, Czech Republic,
+  Great Britain and Ukraine have confirmed their squads for WWK Schwaiger &amp; Partner
+  FIM Speedway World Cup SemiFinal 1
+heroImage: /images/blog/squads-revealed-for-fim-speedway-world-cup-opener-in-landshut-2026/bloedorn-huckenbeck-covatti190409-large-scaled.jpg
+pubDate: '2026-04-14'
 tags:
-  - "news"
-  - "FIM"
-  - "SWC"
-category: "British Speedway"
-heroImage: "/images/blog/squads-revealed-for-fim-speedway-world-cup-opener-in-landshut-2026/bloedorn-huckenbeck-covatti190409-large-scaled.jpg"
+- news
+- FIM
+- SWC
+title: Squads Revealed For Fim Speedway World Cup Opener In Landshut 2026
 ---
 
 Germans Norick Blodörn & Kai Huckenbeck.

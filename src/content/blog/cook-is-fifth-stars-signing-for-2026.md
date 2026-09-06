@@ -1,13 +1,15 @@
 ---
-title: "COOK IS FIFTH STARS SIGNING FOR 2026"
-pubDate: "2025-12-29"
-description: "KING’S Lynn have announced the return of Australian star Ben Cook as their fifth signing for the 2026 Premiership season.Cook rode for the Stars this year but suffered an"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: KING’S Lynn have announced the return of Australian star Ben Cook as
+  their fifth signing for the 2026 Premiership season.Cook rode for the Stars this
+  year but suffered an
+heroImage: /images/blog/cook-is-fifth-stars-signing-for-2026/cook_ben25_TL-scaled.jpg
+pubDate: '2025-12-29'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/cook-is-fifth-stars-signing-for-2026/cook_ben25_TL-scaled.jpg"
+- news
+- SGB
+title: Cook Is Fifth Stars Signing For 2026
 ---
 
 **KING’S Lynn have announced the return of Australian star Ben Cook as their fifth signing for the 2026 Premiership season.**

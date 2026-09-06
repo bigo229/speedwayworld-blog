@@ -1,14 +1,16 @@
 ---
-title: "BARKER BACK FOR BONANZA 2026"
-pubDate: "2026-03-25"
-description: "BEN Fund Bonanza everpresent Ben Barker will keep up his record in Saturday’s 16th staging of the event at Glasgow.Three more current Tigers riders – Leon Flint, Sam Hagon and"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BEN Fund Bonanza everpresent Ben Barker will keep up his record in Saturday’s
+  16th staging of the event at Glasgow.Three more current Tigers riders – Leon Flint,
+  Sam Hagon and
+heroImage: /images/blog/barker-back-for-bonanza-2026/barker_ben25_BM-scaled.jpg
+pubDate: '2026-03-25'
 tags:
-  - "news"
-  - "SGB"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/barker-back-for-bonanza-2026/barker_ben25_BM-scaled.jpg"
+- news
+- SGB
+- FIM
+title: Barker Back For Bonanza 2026
 ---
 
 BEN Fund Bonanza ever-present Ben Barker will keep up his record in Saturday’s 16th staging of the event at Glasgow.

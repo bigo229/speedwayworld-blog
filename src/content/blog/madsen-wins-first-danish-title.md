@@ -1,13 +1,15 @@
 ---
-title: "MADSEN WINS FIRST DANISH TITLE"
-pubDate: "2026-06-18"
-description: "Speedway GP star Leon Madsen won his first Danish Championship in Esbjerg on Wednesday night.Madsen secured his spot in the final on 12 points – tying with 2025 champion Michael Jepsen"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Speedway GP star Leon Madsen won his first Danish Championship in Esbjerg
+  on Wednesday night.Madsen secured his spot in the final on 12 points – tying with
+  2025 champion Michael Jepsen
+heroImage: /images/blog/madsen-wins-first-danish-title/538_Madsen-large-scaled.jpg
+pubDate: '2026-06-18'
 tags:
-  - "news"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/madsen-wins-first-danish-title/538_Madsen-large-scaled.jpg"
+- news
+- FIM
+title: Madsen Wins First Danish Title
 ---
 
 **Speedway GP star Leon Madsen won his first Danish Championship in Esbjerg on Wednesday night.**

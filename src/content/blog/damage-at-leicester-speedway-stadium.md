@@ -1,13 +1,15 @@
 ---
-title: "Damage At Leicester Speedway Stadium"
-pubDate: "2026-03-06"
-description: "LEICESTER have launched a GoFundMe effort after the Hydroscand Arena, Beaumont Park was hit by vandalism this week.The stadium was targeted on successive nights with significant damage caused just weeks"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER have launched a GoFundMe effort after the Hydroscand Arena,
+  Beaumont Park was hit by vandalism this week.The stadium was targeted on successive
+  nights with significant damage caused just weeks
+heroImage: /images/blog/damage-at-leicester-speedway-stadium/leicester_track_060326-scaled.jpg
+pubDate: '2026-03-06'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/damage-at-leicester-speedway-stadium/leicester_track_060326-scaled.jpg"
+- news
+- SGB
+title: Damage At Leicester Speedway Stadium
 ---
 
 **LEICESTER have launched a GoFundMe effort after the Hydroscand Arena, Beaumont Park was hit by vandalism this week.**

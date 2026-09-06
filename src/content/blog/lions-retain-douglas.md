@@ -1,13 +1,15 @@
 ---
-title: "LIONS RETAIN DOUGLAS"
-pubDate: "2025-12-31"
-description: "RYAN Douglas has sealed a return to Premiership runnersup Leicester as the club’s third signing for 2026.The Australian, who has represented the Lions at both senior levels, enjoyed his"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: RYAN Douglas has sealed a return to Premiership runnersup Leicester as
+  the club’s third signing for 2026.The Australian, who has represented the Lions
+  at both senior levels, enjoyed his
+heroImage: /images/blog/lions-retain-douglas/douglas_ryan25_TL-scaled.jpg
+pubDate: '2025-12-31'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/lions-retain-douglas/douglas_ryan25_TL-scaled.jpg"
+- news
+- SGB
+title: Lions Retain Douglas
 ---
 
 **RYAN Douglas has sealed a return to Premiership runners-up Leicester as the club’s third signing for 2026.**

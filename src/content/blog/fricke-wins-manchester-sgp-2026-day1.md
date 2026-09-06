@@ -1,14 +1,16 @@
 ---
-title: "FRICKE WINS MANCHESTER SGP 2026 ROUND3 DAY1"
-pubDate: "2026-06-05"
-description: "Winner On Podium.Australian racer Max Fricke admitted “it has been a long time between drinks” after he led lifelong rivals Brady Kurtz and Jack Holder to an iconic Aussie onetwo"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Winner On Podium.Australian racer Max Fricke admitted “it has been a
+  long time between drinks” after he led lifelong rivals Brady Kurtz and Jack Holder
+  to an iconic Aussie onetwo
+heroImage: /images/blog/fricke-wins-manchester-sgp-2026-day1/26SGPManchesterR3Meeting_FINALPodium1-large-scaled.jpg
+pubDate: '2026-06-05'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/fricke-wins-manchester-sgp-2026-day1/26SGPManchesterR3Meeting_FINALPodium1-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Fricke Wins Manchester Sgp 2026 Round3 Day1
 ---
 
 Winner On Podium

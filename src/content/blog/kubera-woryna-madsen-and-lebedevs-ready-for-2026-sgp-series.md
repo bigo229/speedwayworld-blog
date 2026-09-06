@@ -1,14 +1,16 @@
 ---
-title: "KUBERA, WORYNA, MADSEN & LEBEDEVS READY FOR 2026 SGP Series"
-pubDate: "2025-08-10"
-description: "Speedway GP stars Dominik Kubera and Andzejs Lebedevs punched their return tickets for the 2026 FIM Speedway Grand Prix series as Danish ace Leon Madsen secured a comeback and Poland’s"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Speedway GP stars Dominik Kubera and Andzejs Lebedevs punched their return
+  tickets for the 2026 FIM Speedway Grand Prix series as Danish ace Leon Madsen secured
+  a comeback and Poland’s
+heroImage: /images/blog/kubera-woryna-madsen-and-lebedevs-ready-for-2026-sgp-series/Kubera_20leads_20the_20charge_20into_20the_202026_20Speedway_20GP_20series-scaled.jpg
+pubDate: '2025-08-10'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/kubera-woryna-madsen-and-lebedevs-ready-for-2026-sgp-series/Kubera_20leads_20the_20charge_20into_20the_202026_20Speedway_20GP_20series-scaled.jpg"
+- news
+- FIM
+- SGP
+title: KUBERA, WORYNA, MADSEN & LEBEDEVS READY FOR 2026 SGP Series
 ---
 
 **Speedway GP stars Dominik Kubera and Andzejs Lebedevs punched their return tickets for the 2026 FIM Speedway Grand Prix series as Danish ace Leon Madsen secured a comeback and Poland’s Kacper Woryna earned his World Championship debut.**

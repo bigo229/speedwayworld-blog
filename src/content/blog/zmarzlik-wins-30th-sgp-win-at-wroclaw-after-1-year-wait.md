@@ -1,14 +1,16 @@
 ---
-title: "ZMARZLIK CLAIMS 30TH SGP WIN AT WROCLAW  AFTER 1 YEAR WAIT"
-pubDate: "2026-06-21"
-description: "Polish icon Bartosz Zmarzlik was elated to end his yearlong wait for a record-extending 30th FIM Speedway Grand Prix victory in a dramatic DEWALT FIM Speedway GP of Poland – Wroclaw"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Polish icon Bartosz Zmarzlik was elated to end his yearlong wait for
+  a record-extending 30th FIM Speedway Grand Prix victory in a dramatic DEWALT FIM
+  Speedway GP of Poland – Wroclaw
+heroImage: /images/blog/zmarzlik-wins-30th-sgp-win-at-wroclaw-after-1-year-wait/408_Team-Fricke_-Gaszynski_-Duda.JPG-large-scaled.jpg
+pubDate: '2026-06-21'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/zmarzlik-wins-30th-sgp-win-at-wroclaw-after-1-year-wait/408_Team-Fricke_-Gaszynski_-Duda.JPG-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Zmarzlik Claims 30Th Sgp Win At Wroclaw  After 1 Year Wait
 ---
 
 **Polish icon Bartosz Zmarzlik was elated to end his year-long wait for a record-extending 30th FIM Speedway Grand Prix victory in a dramatic DEWALT FIM Speedway GP of Poland – Wroclaw on Saturday evening.**

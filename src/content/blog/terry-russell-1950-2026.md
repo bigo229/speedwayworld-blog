@@ -1,13 +1,15 @@
 ---
-title: "TERRY RUSSELL 1950-2026"
-pubDate: "2026-01-26"
-description: "BRITISH Speedway is deeply saddened to learn of the sudden passing of our former Chairman and President Terry Russell.Terry, who was 75, spent the majority of his working life involved"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BRITISH Speedway is deeply saddened to learn of the sudden passing of
+  our former Chairman and President Terry Russell.Terry, who was 75, spent the majority
+  of his working life involved
+heroImage: /images/blog/terry-russell-1950-2026/russell_terry-scaled.jpg
+pubDate: '2026-01-26'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/terry-russell-1950-2026/russell_terry-scaled.jpg"
+- news
+- SGB
+title: Terry Russell 1950-2026
 ---
 
 **BRITISH Speedway is deeply saddened to learn of the sudden passing of our former Chairman and President Terry Russell.**

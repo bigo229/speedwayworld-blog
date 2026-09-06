@@ -1,13 +1,15 @@
 ---
-title: "REW CLAIMS FIM OCEANIA CROWN IN 2026"
-pubDate: "2026-01-11"
-description: "Former SGP2 star Keynan Rew stormed to FIM Oceania Championship glory to secure his spot in the Speedway GP qualifiers.Rew topped the heat score chart on 13 points from five"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Former SGP2 star Keynan Rew stormed to FIM Oceania Championship glory
+  to secure his spot in the Speedway GP qualifiers.Rew topped the heat score chart
+  on 13 points from five
+heroImage: /images/blog/rew-claims-fim-oceania-crown-in-2026/FIM-OCEANIA-2026-large-scaled.jpg
+pubDate: '2026-01-11'
 tags:
-  - "news"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/rew-claims-fim-oceania-crown-in-2026/FIM-OCEANIA-2026-large-scaled.jpg"
+- news
+- FIM
+title: Rew Claims Fim Oceania Crown In 2026
 ---
 
 **Former SGP2 star Keynan Rew stormed to FIM Oceania Championship glory to secure his spot in the Speedway GP qualifiers.**
@@ -24,11 +26,36 @@ Lidsey took third in the FIM Oceania event after scoring 12 in the heats, before
 
 Becker was the best of the foreign riders, scoring 12 points in the heats to advance straight to the final, which saw him fall as he finished in fourth place. Seven-time British champion Nicholls scored nine, with Flint collecting eight points. Harrison scored six, with former SGP3 bronze medallist Will Cairns registering four.
 
-**FIM OCEANIA CHAMPIONSHIP HEAT SCORES:** 1. Keynan Rew 13, 2. Luke Becker 12, 3. Rohan Tungate 12, 4. Jaimon Lidsey 12, 5. Ben Cook 12, 6. Mitchell McDiarmid 9, 7. Scott Nicholls 9, 8. Leon Flint 8, 9. Justin Sedgmen 8, 10. Luke Harrison 6, 11. Alex Adamson 5, 12. Jordy Loftus 5, 13. Will Cairns 4, 14. Nick Hohlbein 2, 15. Ben Whalley 1, 16. Lachlan Russell 1, 17. Harry Sadler 1.
+### 🏁 **Fim Oceania Championship Heat Scores
+* ** 1. Keynan Rew 13
+* 2. Luke Becker 12
+* 3. Rohan Tungate 12
+* 4. Jaimon Lidsey 12
+* 5. Ben Cook 12
+* 6. Mitchell McDiarmid 9
+* 7. Scott Nicholls 9
+* 8. Leon Flint 8
+* 9. Justin Sedgmen 8
+* 10. Luke Harrison 6
+* 11. Alex Adamson 5
+* 12. Jordy Loftus 5
+* 13. Will Cairns 4
+* 14. Nick Hohlbein 2
+* 15. Ben Whalley 1
+* 16. Lachlan Russell 1
+* 17. Harry Sadler 1.
 
-**SEMI-FINAL 1:** Tungate, Cook, Nicholls, Sedgmen.
+### 🏁 **Semi-Final 1
+* ** Tungate
+* Cook
+* Nicholls
+* Sedgmen.
 
-**SEMI-FINAL 2:** Lidsey, McDiarmid, Harrison, Flint.
+### 🏁 **Semi-Final 2
+* ** Lidsey
+* McDiarmid
+* Harrison
+* Flint.
 
 **FINAL:** Rew, Tungate, Lidsey, Becker (f).
 

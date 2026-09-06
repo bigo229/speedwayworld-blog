@@ -1,13 +1,15 @@
 ---
-title: "ACES IN COMEBACK VICTORY IN SGB PREMIERSHIP OPENER"
-pubDate: "2026-04-21"
-description: "Action 1.Action 2.BELLE Vue fought back from eight points down to overcome Ipswich 5139 in a dramatic ROWE Motor Oil Premiership opener at the National Speedway Stadium.The Witches"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Action 1.Action 2.BELLE Vue fought back from eight points down to overcome
+  Ipswich 5139 in a dramatic ROWE Motor Oil Premiership opener at the National Speedway
+  Stadium.The Witches
+heroImage: /images/blog/aces-in-comeback-victory-in-sgb-premiership-opener/action26_bv_ips1_IC-scaled.jpg
+pubDate: '2026-04-21'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/aces-in-comeback-victory-in-sgb-premiership-opener/action26_bv_ips1_IC-scaled.jpg"
+- news
+- SGB
+title: Aces In Comeback Victory In Sgb Premiership Opener
 ---
 
 Action 1
@@ -48,7 +50,23 @@ Photo credit: IAN CHARLES
 **Results & Scorers**
 
 ROWE MOTOR OIL PREMIERSHIP
-BELLE VUE 51: Brady Kurtz 17, Dan Bewley 10+3, Zach Cook 8, Peter Kildemand 6+1, Norick Blodorn 4+2, Tate Zischke 4+1, Will Cairns 2.
-IPSWICH 39: Tom Brennan 11, Danny King 9+2, Tobiasz Musielak 6+1, Jason Edwards 6+1, Richard Lawson 6, Philip Helstrom-Bangs 1+1, Scott Nicholls 0.
+
+### 🏁 Belle Vue 51
+* **Brady Kurtz**: 17
+* **Dan Bewley**: 10+3
+* **Zach Cook**: 8
+* **Peter Kildemand**: 6+1
+* **Norick Blodorn**: 4+2
+* **Tate Zischke**: 4+1
+* Will Cairns 2.
+
+### 🏁 Ipswich 39
+* **Tom Brennan**: 11
+* **Danny King**: 9+2
+* **Tobiasz Musielak**: 6+1
+* **Jason Edwards**: 6+1
+* **Richard Lawson**: 6
+* Philip Helstrom-Bangs 1+1
+* Scott Nicholls 0.
 
 * * *

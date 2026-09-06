@@ -1,14 +1,16 @@
 ---
-title: "WORYNA WINS LANDSHUT SPEEDWAY GP 2026"
-pubDate: "2026-05-03"
-description: "Polish racer Kacper Woryna admits he has some way to go to match the achievements of legendary grandfather Antoni Woryna after racing to glory on his fulltime Speedway GP debut in"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Polish racer Kacper Woryna admits he has some way to go to match the
+  achievements of legendary grandfather Antoni Woryna after racing to glory on his
+  fulltime Speedway GP debut in
+heroImage: /images/blog/woryna-wins-landshut-speedway-gp-2026/007_20260502_WST_2406-large-scaled.jpg
+pubDate: '2026-05-03'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/woryna-wins-landshut-speedway-gp-2026/007_20260502_WST_2406-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Woryna Wins Landshut Speedway Gp 2026
 ---
 
 **Polish racer Kacper Woryna admits he has some way to go to match the achievements of legendary grandfather Antoni Woryna after racing to glory on his full-time Speedway GP debut in Germany on Saturday night.**

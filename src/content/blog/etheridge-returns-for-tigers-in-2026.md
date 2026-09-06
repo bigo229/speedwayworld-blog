@@ -1,13 +1,15 @@
 ---
-title: "ETHERIDGE RETURNS FOR TIGERS IN 2026"
-pubDate: "2026-01-16"
-description: "JYE Etheridge has become the fifth rider to agree a return to Sheffield for 2026. .He joins Jack and Chris Holder, Anders Rowe and Leon Flint on the list of returnees"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: JYE Etheridge has become the fifth rider to agree a return to Sheffield
+  for 2026. .He joins Jack and Chris Holder, Anders Rowe and Leon Flint on the list
+  of returnees
+heroImage: /images/blog/etheridge-returns-for-tigers-in-2026/etheridge_jye25_2_IC-scaled.jpg
+pubDate: '2026-01-16'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/etheridge-returns-for-tigers-in-2026/etheridge_jye25_2_IC-scaled.jpg"
+- news
+- SGB
+title: Etheridge Returns For Tigers In 2026
 ---
 
 **JYE Etheridge has become the fifth rider to agree a return to Sheffield for 2026.**

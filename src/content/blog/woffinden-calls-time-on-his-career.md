@@ -1,14 +1,16 @@
 ---
-title: "WOFFINDEN CALLS TIME ON HIS CAREER"
-pubDate: "2026-07-11"
-description: "Threetime Speedway GP world champion Tai Woffinden has announced his retirement from the sport after a storied career that saw him cement his spot as Great Britain’s most successful speedway"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Threetime Speedway GP world champion Tai Woffinden has announced his
+  retirement from the sport after a storied career that saw him cement his spot as
+  Great Britain’s most successful speedway
+heroImage: /images/blog/woffinden-calls-time-on-his-career/2018-woffinden6114-_1_-large-scaled.jpg
+pubDate: '2026-07-11'
 tags:
-  - "news"
-  - "SGB"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/woffinden-calls-time-on-his-career/2018-woffinden6114-_1_-large-scaled.jpg"
+- news
+- SGB
+- SGP
+title: Woffinden Calls Time On His Career
 ---
 
 **Three-time Speedway GP world champion Tai Woffinden has announced his retirement from the sport after a storied career that saw him cement his spot as Great Britain’s most successful speedway rider.**

@@ -1,14 +1,16 @@
 ---
-title: "KURTZ WINS MANCHESTER SGP 2026 ROUND4 DAY2"
-pubDate: "2026-06-07"
-description: "Kurtz On Podium.BELLE Vue captain Brady Kurtz leads the World Championship after winning Saturday’s FIM ATPI Speedway Grand Prix of Manchester in one of the series’ alltime great Finals"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Kurtz On Podium.BELLE Vue captain Brady Kurtz leads the World Championship
+  after winning Saturday’s FIM ATPI Speedway Grand Prix of Manchester in one of the
+  series’ alltime great Finals
+heroImage: /images/blog/kurtz-wins-manchester-sgp-2026-round4-day2/sgp26_bellevue2_1_IC-scaled.jpg
+pubDate: '2026-06-07'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/kurtz-wins-manchester-sgp-2026-round4-day2/sgp26_bellevue2_1_IC-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Kurtz Wins Manchester Sgp 2026 Round4 Day2
 ---
 
 Kurtz On Podium

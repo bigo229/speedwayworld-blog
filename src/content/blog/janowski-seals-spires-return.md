@@ -1,14 +1,16 @@
 ---
-title: "JANOWSKI SEALS SPIRES RETURN"
-pubDate: "2024-12-04"
-description: "Multitime FIM Speedway World Cup winner Maciej Janowski is back for a second straight season with British club Oxford Spires.The Polish champion previously appeared in the UK with the Poole"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Multitime FIM Speedway World Cup winner Maciej Janowski is back for a
+  second straight season with British club Oxford Spires.The Polish champion previously
+  appeared in the UK with the Poole
+heroImage: /images/blog/janowski-seals-spires-return/janowski_maciej24_TL-scaled.jpg
+pubDate: '2024-12-04'
 tags:
-  - "news"
-  - "SGB"
-  - "ekstraliga"
-category: "British Speedway"
-heroImage: "/images/blog/janowski-seals-spires-return/janowski_maciej24_TL-scaled.jpg"
+- news
+- SGB
+- ekstraliga
+title: Janowski Seals Spires Return
 ---
 
 **Multi-time FIM Speedway World Cup winner Maciej Janowski is back for a second straight season with British club Oxford Spires.**

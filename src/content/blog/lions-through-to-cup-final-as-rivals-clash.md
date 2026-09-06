@@ -1,13 +1,15 @@
 ---
-title: "LIONS THROUGH TO CUP FINAL AS RIVALS CLASH"
-pubDate: "2026-04-24"
-description: "Howarth Pickering Scuffle 3.PREMIERSHIP KO Cup holders Leicester are through to this season’s Final after overcoming Sheffield 4644 in a fiery clash on Thursday.The Lions needed to avoid"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Howarth Pickering Scuffle 3.PREMIERSHIP KO Cup holders Leicester are
+  through to this season’s Final after overcoming Sheffield 4644 in a fiery clash
+  on Thursday.The Lions needed to avoid
+heroImage: /images/blog/lions-through-to-cup-final-as-rivals-clash/action26_lei_she6_MD-scaled.jpg
+pubDate: '2026-04-24'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/lions-through-to-cup-final-as-rivals-clash/action26_lei_she6_MD-scaled.jpg"
+- news
+- SGB
+title: Lions Through To Cup Final As Rivals Clash
 ---
 
 Howarth - Pickering Scuffle 3

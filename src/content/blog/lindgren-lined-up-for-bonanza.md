@@ -1,14 +1,16 @@
 ---
-title: "LINDGREN LINED UP FOR BONANZA"
-pubDate: "2025-02-13"
-description: "GRAND Prix star Fredrik Lindgren will race in the Ben Fund Bonanza for the fourth time when he appears at Oxford on Sunday March 23.The Wolverhampton legend, who also had"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: GRAND Prix star Fredrik Lindgren will race in the Ben Fund Bonanza for
+  the fourth time when he appears at Oxford on Sunday March 23.The Wolverhampton legend,
+  who also had
+heroImage: /images/blog/lindgren-lined-up-for-bonanza/lindgren_fredrik_sgp22.jpg
+pubDate: '2025-02-13'
 tags:
-  - "news"
-  - "SGB"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/lindgren-lined-up-for-bonanza/lindgren_fredrik_sgp22.jpg"
+- news
+- SGB
+- FIM
+title: Lindgren Lined Up For Bonanza
 ---
 
 **GRAND Prix star Fredrik Lindgren will race in the Ben Fund Bonanza for the fourth time when he appears at Oxford on Sunday March 23.**

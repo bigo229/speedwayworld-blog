@@ -1,14 +1,16 @@
 ---
-title: "SPEEDWAY EUROPEAN CHAMPIONSHIP DATES CONFIRMED FOR 2026"
-pubDate: "2025-12-29"
-description: "The calendar for the fourround 2026 Speedway European Championship series has been revealed.Polish club Zielona Gora stages the opening round on July 18, with German venue Gustrow hosting round two"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: The calendar for the fourround 2026 Speedway European Championship series
+  has been revealed.Polish club Zielona Gora stages the opening round on July 18,
+  with German venue Gustrow hosting round two
+heroImage: /images/blog/speedway-european-championship-dates-confirmed-for-2026/SEC-2025-scaled.jpg
+pubDate: '2025-12-29'
 tags:
-  - "news"
-  - "FIM"
-  - "SEC"
-category: "British Speedway"
-heroImage: "/images/blog/speedway-european-championship-dates-confirmed-for-2026/SEC-2025-scaled.jpg"
+- news
+- FIM
+- SEC
+title: Speedway European Championship Dates Confirmed For 2026
 ---
 
 **The calendar for the four-round 2026 Speedway European Championship series has been revealed.**

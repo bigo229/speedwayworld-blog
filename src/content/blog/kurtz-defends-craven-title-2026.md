@@ -1,13 +1,15 @@
 ---
-title: "KURTZ DEFENDS CRAVEN TITLE 2026"
-pubDate: "2026-02-16"
-description: "BELLE Vue skipper Brady Kurtz will defend the Peter Craven Memorial Trophy against a starstudded field at the National Speedway Stadium on Monday March 16. .The Aces have revealed the initial"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BELLE Vue skipper Brady Kurtz will defend the Peter Craven Memorial Trophy
+  against a starstudded field at the National Speedway Stadium on Monday March 16.
+  .The Aces have revealed the initial
+heroImage: /images/blog/kurtz-defends-craven-title-2026/action25_bv_craven2-scaled.jpg
+pubDate: '2026-02-16'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/kurtz-defends-craven-title-2026/action25_bv_craven2-scaled.jpg"
+- news
+- SGB
+title: Kurtz Defends Craven Title 2026
 ---
 
 **BELLE Vue skipper Brady Kurtz will defend the Peter Craven Memorial Trophy against a star-studded field at the National Speedway Stadium on Monday March 16.**

@@ -1,13 +1,15 @@
 ---
-title: "Witches proceed into Premiership Grand Final"
-pubDate: "2025-09-12"
-description: ".ROWE Motor Oil Premiership.IPSWICH charged into the ROWE Motor Oil Premiership Grand Final with an emphatic 5931 second leg win over Belle Vue at Foxhall.The Witches took just four"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .ROWE Motor Oil Premiership.IPSWICH charged into the ROWE Motor Oil Premiership
+  Grand Final with an emphatic 5931 second leg win over Belle Vue at Foxhall.The Witches
+  took just four
+heroImage: /images/blog/witches-proceed-into-premiership-grand-final/action25_ips_bv8_JH-scaled.jpg
+pubDate: '2025-09-12'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/witches-proceed-into-premiership-grand-final/action25_ips_bv8_JH-scaled.jpg"
+- news
+- SGB
+title: Witches proceed into Premiership Grand Final
 ---
 
 ROWE Motor Oil Premiership

@@ -1,14 +1,16 @@
 ---
-title: "THOMSEN CRASHES OUT OF EURO TEAM SEMI'S 2026"
-pubDate: "2026-04-18"
-description: "THOMSEN CRASHES OUT OF EURO TEAM SEMI'S.Speedway GP first substitute star Anders Thomsen is undergoing checks after suffering injuries at the European Team Championship SemiFinals in Pardubice this"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: THOMSEN CRASHES OUT OF EURO TEAM SEMI'S.Speedway GP first substitute
+  star Anders Thomsen is undergoing checks after suffering injuries at the European
+  Team Championship SemiFinals in Pardubice this
+heroImage: /images/blog/thomsen-crashes-out-of-euro-team-semis-2026/Thomsen0946-large-scaled.jpg
+pubDate: '2026-04-18'
 tags:
-  - "news"
-  - "FIM"
-  - "SEC"
-category: "British Speedway"
-heroImage: "/images/blog/thomsen-crashes-out-of-euro-team-semis-2026/Thomsen0946-large-scaled.jpg"
+- news
+- FIM
+- SEC
+title: Thomsen Crashes Out Of Euro Team Semi'S 2026
 ---
 
 THOMSEN CRASHES OUT OF EURO TEAM SEMI'S

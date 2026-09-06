@@ -1,13 +1,15 @@
 ---
-title: "IPSWICH ARE PREMIERSHIP CHAMPIONS 2025"
-pubDate: "2025-10-10"
-description: "Podium Celebrations.Podium Celebrations 2.ROWE Motor Oil Premiership.IPSWICH are celebrating league title glory for the first time in 27 years having been crowned ROWE Motor Oil Premiership champions. .The"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Podium Celebrations.Podium Celebrations 2.ROWE Motor Oil Premiership.IPSWICH
+  are celebrating league title glory for the first time in 27 years having been crowned
+  ROWE Motor Oil Premiership champions. .The
+heroImage: /images/blog/ipswich-are-premiership-champions-2025/4110e871742cfae8ce1c9f11540485da7ae8c704-ipswichchampions25-scaled.jpg
+pubDate: '2025-10-10'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/ipswich-are-premiership-champions-2025/4110e871742cfae8ce1c9f11540485da7ae8c704-ipswichchampions25-scaled.jpg"
+- news
+- SGB
+title: Ipswich Are Premiership Champions 2025
 ---
 
 Podium Celebrations
@@ -41,8 +43,24 @@ Witches manager Ritchie Hawkins said:
 * * *
 
 ROWE MOTOR OIL PREMIERSHIP GRAND FINAL, 2nd leg
-IPSWICH 46: Jason Doyle 10, Emil Sayfutdinov 9+2, Tom Brennan 7+1, Keynan Rew 7+1, Danny King 6+1, Dan Thompson 5+2, Jason Edwards 2.
-LEICESTER 43: Max Fricke 13, Ryan Douglas 9, Sam Masters 7, Luke Becker 5+2, Drew Kemp 5+1, Kyle Howarth 4, Joe Thmpson 0.
+
+### 🏁 Ipswich 46
+* **Jason Doyle**: 10
+* **Emil Sayfutdinov**: 9+2
+* **Tom Brennan**: 7+1
+* **Keynan Rew**: 7+1
+* **Danny King**: 6+1
+* **Dan Thompson**: 5+2
+* Jason Edwards 2.
+
+### 🏁 Leicester 43
+* **Max Fricke**: 13
+* **Ryan Douglas**: 9
+* **Sam Masters**: 7
+* **Luke Becker**: 5+2
+* **Drew Kemp**: 5+1
+* **Kyle Howarth**: 4
+* Joe Thmpson 0.
 Ipswich win 93-86 on aggregate
 Ipswich are 2025 ROWE Motor Oil Premiership Champions
 

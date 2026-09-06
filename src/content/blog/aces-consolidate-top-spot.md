@@ -1,13 +1,15 @@
 ---
-title: "ACES CONSOLIDATE TOP SPOT"
-pubDate: "2026-06-30"
-description: "Belle Vue.ROWE Motor Oil Premiership.BELLE Vue added three more points at the top of the ROWE Motor Oil Premiership with a 5337 win over King’s Lynn to take"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Belle Vue.ROWE Motor Oil Premiership.BELLE Vue added three more points
+  at the top of the ROWE Motor Oil Premiership with a 5337 win over King’s Lynn to
+  take
+heroImage: /images/blog/aces-consolidate-top-spot/action26_bv_kl2_IC-scaled.jpg
+pubDate: '2026-06-30'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/aces-consolidate-top-spot/action26_bv_kl2_IC-scaled.jpg"
+- news
+- SGB
+title: Aces Consolidate Top Spot
 ---
 
 Belle Vue

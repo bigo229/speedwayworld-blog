@@ -1,12 +1,14 @@
 ---
-title: "MUSIELAK NAMED AS BRUMMIES NO.1"
-pubDate: "2024-11-20"
-description: "Polish star Tobiasz Musielak will spearhead Birmingham’s bid for Rowe Motor Oil Premiership success in 2025.Musielak has been part of three league titlewinning sides in the UK – twice with"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Polish star Tobiasz Musielak will spearhead Birmingham’s bid for Rowe
+  Motor Oil Premiership success in 2025.Musielak has been part of three league titlewinning
+  sides in the UK – twice with
+heroImage: /images/blog/musielak-named-as-brummies-no-1/MusielakRiss_3-large-scaled.jpg
+pubDate: '2024-11-20'
 tags:
-  - "news"
-category: "British Speedway"
-heroImage: "/images/blog/musielak-named-as-brummies-no-1/MusielakRiss_3-large-scaled.jpg"
+- news
+title: Musielak Named As Brummies No.1
 ---
 
 **Polish star Tobiasz Musielak will spearhead Birmingham’s bid for Rowe Motor Oil Premiership success in 2025.**

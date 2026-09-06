@@ -1,13 +1,15 @@
 ---
-title: "SCHLEIN STEPS AWAY FROM BERWICK"
-pubDate: "2024-12-11"
-description: "RORY Schlein has announced he will not be racing next season – having previously agreed to return to Berwick.The former British Champion has recovered from the neck and shoulder injuries which"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: RORY Schlein has announced he will not be racing next season – having
+  previously agreed to return to Berwick.The former British Champion has recovered
+  from the neck and shoulder injuries which
+heroImage: /images/blog/schlein-steps-away-from-berwick/schlein_rory24-scaled.jpg
+pubDate: '2024-12-11'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/schlein-steps-away-from-berwick/schlein_rory24-scaled.jpg"
+- news
+- SGB
+title: Schlein Steps Away From Berwick
 ---
 
 **RORY Schlein has announced he will not be racing next season – having previously agreed to return to Berwick.**

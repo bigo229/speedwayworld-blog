@@ -1,13 +1,15 @@
 ---
-title: "AUSSIE WINS FOR HOLDER & LIDSEY"
-pubDate: "2025-12-28"
-description: "Speedway GP star Jack Holder warmed up for next month’s Australian Championship series with victory at the Darcy Ward Invitational in Sydney on Boxing Day.Holder topped the podium after"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Speedway GP star Jack Holder warmed up for next month’s Australian Championship
+  series with victory at the Darcy Ward Invitational in Sydney on Boxing Day.Holder
+  topped the podium after
+heroImage: /images/blog/aussie-wins-for-holder-and-lidsey/JHolderDoyle3262-large-scaled.jpg
+pubDate: '2025-12-28'
 tags:
-  - "news"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/aussie-wins-for-holder-and-lidsey/JHolderDoyle3262-large-scaled.jpg"
+- news
+- FIM
+title: Aussie Wins For Holder & Lidsey
 ---
 
 **Speedway GP star Jack Holder warmed up for next month’s Australian Championship series with victory at the Darcy Ward Invitational in Sydney on Boxing Day.**

@@ -1,13 +1,15 @@
 ---
-title: "WITCHES SALE LATEST UPDATE"
-pubDate: "2026-02-12"
-description: "OUTGOING Ipswich owner Chris Louis has confirmed a new stadium lease has been signed with landlords Spedeworth, and the sale of the club can now be completed.Louis says the defending"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: OUTGOING Ipswich owner Chris Louis has confirmed a new stadium lease
+  has been signed with landlords Spedeworth, and the sale of the club can now be completed.Louis
+  says the defending
+heroImage: /images/blog/witches-sale-latest-update/action25_ips_lei12_JH-scaled.jpg
+pubDate: '2026-02-12'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/witches-sale-latest-update/action25_ips_lei12_JH-scaled.jpg"
+- news
+- SGB
+title: Witches Sale Latest Update
 ---
 
 **OUTGOING Ipswich owner Chris Louis has confirmed a new stadium lease has been signed with landlords Spedeworth, and the sale of the club can now be completed.**

@@ -1,13 +1,15 @@
 ---
-title: "ZAGAR ZOOMS INTO BRUM"
-pubDate: "2024-11-22"
-description: "BIRMINGHAM have brought former Grand Prix winner Matej Zagar back into British league racing for the first time since 2022.Slovenian star Zagar won the league title with Belle Vue the"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BIRMINGHAM have brought former Grand Prix winner Matej Zagar back into
+  British league racing for the first time since 2022.Slovenian star Zagar won the
+  league title with Belle Vue the
+heroImage: /images/blog/zagar-zooms-into-brum/zagar_matej_sgp18-scaled.jpg
+pubDate: '2024-11-22'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/zagar-zooms-into-brum/zagar_matej_sgp18-scaled.jpg"
+- news
+- SGB
+title: Zagar Zooms Into Brum
 ---
 
 **BIRMINGHAM have brought former Grand Prix winner Matej Zagar back into British league racing for the first time since 2022.**

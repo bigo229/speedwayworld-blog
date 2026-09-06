@@ -1,13 +1,15 @@
 ---
-title: "New Regulations for the 2025 Polish Season"
-pubDate: "2024-11-14"
-description: "The Polish Motor Association website has published new regulations to be in effect for 2025. The most important changes include a new competition system and the institution of a guest.Updated"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: The Polish Motor Association website has published new regulations to
+  be in effect for 2025. The most important changes include a new competition system
+  and the institution of a guest.Updated
+heroImage: /images/blog/new-regulations-for-the-2025-polish-season/175_ZIEGRU-1200x800.jpg
+pubDate: '2024-11-14'
 tags:
-  - "news"
-  - "ekstraliga"
-category: "British Speedway"
-heroImage: "/images/blog/new-regulations-for-the-2025-polish-season/175_ZIEGRU-1200x800.jpg"
+- news
+- ekstraliga
+title: New Regulations for the 2025 Polish Season
 ---
 
 **The Polish Motor Association website has published new regulations to be in effect for 2025. The most important changes include a new competition system and the institution of a guest.**

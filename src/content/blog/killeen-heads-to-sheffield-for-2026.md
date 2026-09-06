@@ -1,13 +1,15 @@
 ---
-title: "KILLEEN HEADS TO SHEFFIELD FOR 2026"
-pubDate: "2026-01-08"
-description: "SHEFFIELD promoter Damien Bates is backing their new Rising Star Luke Killeen to follow in the footsteps of Leon Flint this season.Flint enjoyed a hugely successful campaign at Owlerton in"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD promoter Damien Bates is backing their new Rising Star Luke
+  Killeen to follow in the footsteps of Leon Flint this season.Flint enjoyed a hugely
+  successful campaign at Owlerton in
+heroImage: /images/blog/killeen-heads-to-sheffield-for-2026/killeen_luke25_sgp2_1-scaled.jpg
+pubDate: '2026-01-08'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/killeen-heads-to-sheffield-for-2026/killeen_luke25_sgp2_1-scaled.jpg"
+- news
+- SGB
+title: Killeen Heads To Sheffield For 2026
 ---
 
 **SHEFFIELD promoter Damien Bates is backing their new Rising Star Luke Killeen to follow in the footsteps of Leon Flint this season.**

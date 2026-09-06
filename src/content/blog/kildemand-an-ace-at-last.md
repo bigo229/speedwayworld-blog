@@ -1,13 +1,15 @@
 ---
-title: "KILDEMAND AN ACE AT LAST!"
-pubDate: "2026-01-12"
-description: "BELLE Vue have swooped for Danish racer Peter Kildemand – in a move which has been six years in the making! .Kildemand had agreed to join the Aces for the 2020 season"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BELLE Vue have swooped for Danish racer Peter Kildemand – in a move which
+  has been six years in the making! .Kildemand had agreed to join the Aces for the
+  2020 season
+heroImage: /images/blog/kildemand-an-ace-at-last/kildemand_peter25_TL-scaled.jpg
+pubDate: '2026-01-12'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/kildemand-an-ace-at-last/kildemand_peter25_TL-scaled.jpg"
+- news
+- SGB
+title: Kildemand An Ace At Last!
 ---
 
 **BELLE Vue have swooped for Danish racer Peter Kildemand – in a move which has been six years in the making!**

@@ -1,14 +1,16 @@
 ---
-title: "FIM WOMEN'S SPEEDWAY ACADEMY & GOLD TROPHY HEAD FOR CROATIA IN 2025"
-pubDate: "2024-11-14"
-description: "The 2025 FIM Women’s Speedway Academy and FIM Women’s Speedway Gold Trophy will be staged at former FIM Speedway GP of Croatia venue Donji Kraljevec from July 1012.Applications"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: The 2025 FIM Women’s Speedway Academy and FIM Women’s Speedway Gold Trophy
+  will be staged at former FIM Speedway GP of Croatia venue Donji Kraljevec from July
+  1012.Applications
+heroImage: /images/blog/fim-womens-speedway-academy-and-gold-trophy-head-for-croatia-in-2025/WSA_9560-large-scaled.jpg
+pubDate: '2024-11-14'
 tags:
-  - "news"
-  - "FIM"
-  - "WSA"
-category: "British Speedway"
-heroImage: "/images/blog/fim-womens-speedway-academy-and-gold-trophy-head-for-croatia-in-2025/WSA_9560-large-scaled.jpg"
+- news
+- FIM
+- WSA
+title: Fim Women'S Speedway Academy & Gold Trophy Head For Croatia In 2025
 ---
 
 **The 2025 FIM Women’s Speedway Academy and FIM Women’s Speedway Gold Trophy will be staged at former FIM Speedway GP of Croatia venue Donji Kraljevec from July 10-12.**

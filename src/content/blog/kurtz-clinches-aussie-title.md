@@ -1,14 +1,16 @@
 ---
-title: "KURTZ CLINCHES AUSSIE TITLE"
-pubDate: "2025-01-14"
-description: "BELLE Vue captain Brady Kurtz was crowned Australian Champion with second place in Round 3 of the series at AlburyWodonga on Wednesday.Kurtz already held a convincing lead at what was"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BELLE Vue captain Brady Kurtz was crowned Australian Champion with second
+  place in Round 3 of the series at AlburyWodonga on Wednesday.Kurtz already held
+  a convincing lead at what was
+heroImage: /images/blog/kurtz-clinches-aussie-title/australian_champs25_3-scaled.jpg
+pubDate: '2025-01-14'
 tags:
-  - "news"
-  - "SGB"
-  - "FIM"
-category: "British Speedway"
-heroImage: "/images/blog/kurtz-clinches-aussie-title/australian_champs25_3-scaled.jpg"
+- news
+- SGB
+- FIM
+title: Kurtz Clinches Aussie Title
 ---
 
 **BELLE Vue captain Brady Kurtz was crowned Australian Champion with second place in Round 3 of the series at Albury-Wodonga on Wednesday.**

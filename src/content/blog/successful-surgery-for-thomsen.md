@@ -1,13 +1,15 @@
 ---
-title: "SUCCESSFUL SURGERY FOR THOMSEN"
-pubDate: "2024-11-14"
-description: "Speedway GP star Anders Thomsen confirmed his hand surgery went “really well” after returning to Denmark to begin his rehabilitation.Thomsen went under the knife in Spanish capital Madrid on Monday"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Speedway GP star Anders Thomsen confirmed his hand surgery went “really
+  well” after returning to Denmark to begin his rehabilitation.Thomsen went under
+  the knife in Spanish capital Madrid on Monday
+heroImage: /images/blog/successful-surgery-for-thomsen/091_MK_SGPvojens_Thomsen-large-scaled.jpg
+pubDate: '2024-11-14'
 tags:
-  - "news"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/successful-surgery-for-thomsen/091_MK_SGPvojens_Thomsen-large-scaled.jpg"
+- news
+- SGP
+title: Successful Surgery For Thomsen
 ---
 
 **Speedway GP star Anders Thomsen confirmed his hand surgery went “really well” after returning to Denmark to begin his rehabilitation.**

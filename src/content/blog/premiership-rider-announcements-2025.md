@@ -1,16 +1,16 @@
 ---
-title: "PREMIERSHIP RIDER ANNOUNCEMENTS 2025"
-pubDate: "2025-01-20"
-description: ".PREMIERSHIP RIDER ANNOUNCEMENTS 2025.........BELLE VUE.BIRMINGHAM.IPSWICH.KING’S LYNN...Jake Mulford (RS).Jason Edwards (RS).Jordan Jenkins (RS).Ashton Boughen (RS)...Dan Bewley.Tobiasz Musielak.Emil Sayfutdinov.Jan Kvech"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: .PREMIERSHIP RIDER ANNOUNCEMENTS 2025.........BELLE VUE.BIRMINGHAM.IPSWICH.KING’S
+  LYNN...Jake Mulford (RS).Jason Edwards (RS).Jordan Jenkins (RS).Ashton Boughen (RS)...Dan
+  Bewley.Tobiasz Musielak.Emil Sayfutdinov.Jan Kvech
+heroImage: /images/blog/premiership-rider-announcements-2025/premiership_announcents25-scaled.jpg
+pubDate: '2025-01-20'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/premiership-rider-announcements-2025/premiership_announcents25-scaled.jpg"
+- news
+- SGB
+title: Premiership Rider Announcements 2025
 ---
-
-### **PREMIERSHIP RIDER ANNOUNCEMENTS 2025**
 
 **BELLE VUE**
 

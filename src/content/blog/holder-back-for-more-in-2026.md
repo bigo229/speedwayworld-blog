@@ -1,13 +1,15 @@
 ---
-title: "HOLDER BACK FOR MORE IN 2026"
-pubDate: "2025-12-24"
-description: "SHEFFIELD have announced the signing of World No.5 Jack Holder who returns for a sixth successive season at Owlerton.Holder, who has been in the top six in the Grand"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD have announced the signing of World No.5 Jack Holder who returns
+  for a sixth successive season at Owlerton.Holder, who has been in the top six in
+  the Grand
+heroImage: /images/blog/holder-back-for-more-in-2026/holder_jack25_TL-scaled.jpg
+pubDate: '2025-12-24'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/holder-back-for-more-in-2026/holder_jack25_TL-scaled.jpg"
+- news
+- SGB
+title: Holder Back For More In 2026
 ---
 
 **SHEFFIELD have announced the signing of World No.5 Jack Holder who returns for a sixth successive season at Owlerton.**

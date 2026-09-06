@@ -1,14 +1,16 @@
 ---
-title: "AUSSIES HAVE EYES ON SATURDAY IN TORUN AFTER FIM SON SEMI-FINAL 2 VICTORY"
-pubDate: "2025-10-03"
-description: "Aussies on Podium.Australian ace Jack Holder insisted “we’ll save the best for Saturday” after leading the Roos through to the FIM Speedway of Nations Final with victory in SemiFinal"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Aussies on Podium.Australian ace Jack Holder insisted “we’ll save the
+  best for Saturday” after leading the Roos through to the FIM Speedway of Nations
+  Final with victory in SemiFinal
+heroImage: /images/blog/aussies-have-eyes-on-saturday-in-torun-after-fim-son-semi-final-2-victory/b7f029bb21eae18edb3d287522ee2b3ca9848456-australia5406-large-scaled.jpg
+pubDate: '2025-10-03'
 tags:
-  - "news"
-  - "FIM"
-  - "SON"
-category: "British Speedway"
-heroImage: "/images/blog/aussies-have-eyes-on-saturday-in-torun-after-fim-son-semi-final-2-victory/b7f029bb21eae18edb3d287522ee2b3ca9848456-australia5406-large-scaled.jpg"
+- news
+- FIM
+- SON
+title: Aussies Have Eyes On Saturday In Torun After Fim Son Semi-Final 2 Victory
 ---
 
 Aussies on Podium
@@ -99,19 +101,40 @@ The **FIM SON then climaxes with Saturday’s senior Final** as **Poland** bids 
 
 **2025 FIM SPEEDWAY OF NATIONS SEMI-FINAL 2 SCORES:**
 
-**1\. AUSTRALIA 41:** 1. Brady Kurtz 14, 2. Jack Holder 18, 3. Jason Doyle 9.
+### 🏁 **1\. Australia 41
+* ** 1. Brady Kurtz 14
+* 2. Jack Holder 18
+* 3. Jason Doyle 9.
 
-**2.** **DENMARK 37:** 1. Leon Madsen 15, 2. Michael Jepsen Jensen 16, 3. Mikkel Michelsen 6.
+### 🏁 **2.** **Denmark 37
+* ** 1. Leon Madsen 15
+* 2. Michael Jepsen Jensen 16
+* 3. Mikkel Michelsen 6.
 
-**\*3. CZECH REPUBLIC 27:** 1. Vaclav Milik 3, 2. Jan Kvech 16, 3. Adam Bubba Bednar 8.
+### 🏁 **\*3. Czech Republic 27
+* ** 1. Vaclav Milik 3
+* 2. Jan Kvech 16
+* 3. Adam Bubba Bednar 8.
 
-**\*4. UKRAINE 32:** 1. Nazar Parnitskyi 21, 2. Marko Levishyn 11, 3. Roman Kapustin DNR.
+### 🏁 **\*4. Ukraine 32
+* ** 1. Nazar Parnitskyi 21
+* 2. Marko Levishyn 11
+* 3. Roman Kapustin DNR.
 
-**5\. FRANCE 22:** 1. Dimitri Berge 16, 2. David Bellego 6, 3. Mathias Tresarrieu 0.
+### 🏁 **5\. France 22
+* ** 1. Dimitri Berge 16
+* 2. David Bellego 6
+* 3. Mathias Tresarrieu 0.
 
-**6\. FINLAND 18:** 1. Jesse Mustonen 3, 2. Antti Vuolas 15, 3. Tero Aarnio 0.
+### 🏁 **6\. Finland 18
+* ** 1. Jesse Mustonen 3
+* 2. Antti Vuolas 15
+* 3. Tero Aarnio 0.
 
-**7\. ARGENTINA 12:** 1. Fernando Garcia 2, 2. Cristian Zubillaga 8, 3. Facundo Albin 2.
+### 🏁 **7\. Argentina 12
+* ** 1. Fernando Garcia 2
+* 2. Cristian Zubillaga 8
+* 3. Facundo Albin 2.
 
 \* After Final Qualifier
 

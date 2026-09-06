@@ -1,13 +1,15 @@
 ---
-title: "SQUADS NAMED FOR SWC SEMI-FINAL IN RIGA"
-pubDate: "2026-07-23"
-description: "The national squads for 2026 11.lv FIM Speedway World Cup SemiFinal 2 – Riga on Friday, August 7 have been confirmed.Hosts Latvia face off with former SWC winners Denmark and"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: The national squads for 2026 11.lv FIM Speedway World Cup SemiFinal 2
+  – Riga on Friday, August 7 have been confirmed.Hosts Latvia face off with former
+  SWC winners Denmark and
+heroImage: /images/blog/squads-named-for-swc-semi-final-in-riga/JepsenJensenMadsenVuolas4691-large-scaled.jpg
+pubDate: '2026-07-23'
 tags:
-  - "news"
-  - "SWC"
-category: "British Speedway"
-heroImage: "/images/blog/squads-named-for-swc-semi-final-in-riga/JepsenJensenMadsenVuolas4691-large-scaled.jpg"
+- news
+- SWC
+title: Squads Named For Swc Semi-Final In Riga
 ---
 
 **The national squads for [2026](https://fimspeedway.com/rounds/2026-11lv-fim-speedway-world-cup-semi-final-2-riga) [11.lv](http://11.lv/) [FIM Speedway World Cup Semi-Final 2 – Riga](https://fimspeedway.com/rounds/2026-11lv-fim-speedway-world-cup-semi-final-2-riga) on Friday, August 7 have been confirmed.**

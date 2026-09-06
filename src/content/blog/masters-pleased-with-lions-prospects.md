@@ -1,13 +1,15 @@
 ---
-title: "MASTERS PLEASED WITH LIONS’ PROSPECTS"
-pubDate: "2025-03-10"
-description: "LEICESTER star Sam Masters says the pieces should be in place for another strong season at the Hydroscand Arena, Beaumont Park this season.Masters was part of the Lions side which"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER star Sam Masters says the pieces should be in place for another
+  strong season at the Hydroscand Arena, Beaumont Park this season.Masters was part
+  of the Lions side which
+heroImage: /images/blog/masters-pleased-with-lions-prospects/masters_sam24_TL-scaled.jpg
+pubDate: '2025-03-10'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/masters-pleased-with-lions-prospects/masters_sam24_TL-scaled.jpg"
+- news
+- SGB
+title: Masters Pleased With Lions’ Prospects
 ---
 
 **LEICESTER star Sam Masters says the pieces should be in place for another strong season at the Hydroscand Arena, Beaumont Park this season.**

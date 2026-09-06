@@ -1,14 +1,16 @@
 ---
-title: "SGP 2026 LINEUP CONFIRMED"
-pubDate: "2025-10-06"
-description: "Three multitime FIM Speedway World Championship gold medallists complete the 2026 FIM Speedway Grand Prix line-up.Aussie icons Max Fricke and Jason Doyle and Great Britain’s most successful speedway"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Three multitime FIM Speedway World Championship gold medallists complete
+  the 2026 FIM Speedway Grand Prix line-up.Aussie icons Max Fricke and Jason Doyle
+  and Great Britain’s most successful speedway
+heroImage: /images/blog/gp-2026-lineup-confirmed/2026-wildcards-16z9-Cropped-large-scaled.jpg
+pubDate: '2025-10-06'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/gp-2026-lineup-confirmed/2026-wildcards-16z9-Cropped-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Sgp 2026 Lineup Confirmed
 ---
 
 **Three multi-time FIM Speedway World Championship gold medallists complete the 2026 FIM Speedway Grand Prix line-up.**

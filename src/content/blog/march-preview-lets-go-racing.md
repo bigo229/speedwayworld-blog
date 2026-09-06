@@ -1,13 +1,15 @@
 ---
-title: "MARCH PREVIEW: LET’S GO RACING!"
-pubDate: "2025-03-10"
-description: "THE 2025 British Speedway season roars into action later this month with four very special events scheduled to open proceedings, prior to the start of team competition.King’s Lynn’s"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: THE 2025 British Speedway season roars into action later this month with
+  four very special events scheduled to open proceedings, prior to the start of team
+  competition.King’s Lynn’s
+heroImage: /images/blog/march-preview-lets-go-racing/action24_bv_lei6-scaled.jpg
+pubDate: '2025-03-10'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/march-preview-lets-go-racing/action24_bv_lei6-scaled.jpg"
+- news
+- SGB
+title: 'March Preview: Let’S Go Racing!'
 ---
 
 **THE 2025 British Speedway season roars into action later this month with four very special events scheduled to open proceedings, prior to the start of team competition.**
@@ -43,10 +45,18 @@ SUNDAY MARCH 23:
 BEN FUND BONANZA: Oxford 6pm
 
 MONDAY MARCH 24:
-PREMIERSHIP KO CUP Q/F 1st leg: Belle Vue v Ipswich 7.30, Birmingham v Leicester 7.30, King’s Lynn v Oxford 7.30
+
+### 🏁 Premiership Ko Cup Q/F 1St Leg
+* Belle Vue v Ipswich 7.30
+* Birmingham v Leicester 7.30
+* King’s Lynn v Oxford 7.30
 
 THURSDAY MARCH 27:
-PREMIERSHIP KO CUP Q/F 2nd leg: Ipswich v Belle Vue 7.30, Leicester v Birmingham 7.30, Oxford v King’s Lynn 7.30
+
+### 🏁 Premiership Ko Cup Q/F 2Nd Leg
+* Ipswich v Belle Vue 7.30
+* Leicester v Birmingham 7.30
+* Oxford v King’s Lynn 7.30
 
 MONDAY MARCH 31:
 ROWE MOTOR OIL PREMIERSHIP R1: King’s Lynn v Belle Vue 7.30

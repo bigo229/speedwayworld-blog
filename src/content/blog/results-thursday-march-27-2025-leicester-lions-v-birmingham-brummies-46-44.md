@@ -1,13 +1,16 @@
 ---
-title: "Results: Thursday, March 27, 2025 - Leicester Lions v Birmingham Brummies 46 - 44"
-pubDate: "2025-03-28"
-description: "LEICESTER were taken to a lastheat decider by much-improved Birmingham in the second leg of their KO Cup quarter-final at the Hydroscand Arena, Beaumont Park.The Lions were always"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: LEICESTER were taken to a lastheat decider by much-improved Birmingham
+  in the second leg of their KO Cup quarter-final at the Hydroscand Arena, Beaumont
+  Park.The Lions were always
+heroImage: /images/blog/results-thursday-march-27-2025-leicester-lions-v-birmingham-brummies-46-44/action25_lei_bir1_RB-scaled.jpg
+pubDate: '2025-03-28'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/results-thursday-march-27-2025-leicester-lions-v-birmingham-brummies-46-44/action25_lei_bir1_RB-scaled.jpg"
+- news
+- SGB
+title: 'Results: Thursday, March 27, 2025 - Leicester Lions v Birmingham Brummies
+  46 - 44'
 ---
 
 **LEICESTER were taken to a last-heat decider by much-improved Birmingham in the second leg of their KO Cup quarter-final at the Hydroscand Arena, Beaumont Park.**
@@ -30,8 +33,23 @@ Masters top-scored with 10 and Fricke added 9+2 as the Lions set up a semi-final
 >
 > “We were disappointed to lose the lead after Heat 13 – but this is speedway. We’ve shown that we can really fight with the other guys though and that’s how it should be.”
 
-LEICESTER 46: Sam Masters 10, Max Fricke 9+2, Drew Kemp 7+2, Luke Becker 7+1, Kyle Howarth 6+3, Ryan Douglas 6, Sam Hagon 1+1.
-BIRMINGHAM 44: Tobiasz Musielak 12, Michael Jepsen Jensen 10, Matej Zagar 9, Keynan Rew 7+3, Jason Edwards 2+2, Jonas Jeppesen 2, Antti Vuolas 2.
+### 🏁 Leicester 46
+* **Sam Masters**: 10
+* **Max Fricke**: 9+2
+* **Drew Kemp**: 7+2
+* **Luke Becker**: 7+1
+* **Kyle Howarth**: 6+3
+* **Ryan Douglas**: 6
+* Sam Hagon 1+1.
+
+### 🏁 Birmingham 44
+* **Tobiasz Musielak**: 12
+* **Michael Jepsen Jensen**: 10
+* **Matej Zagar**: 9
+* **Keynan Rew**: 7+3
+* **Jason Edwards**: 2+2
+* **Jonas Jeppesen**: 2
+* Antti Vuolas 2.
 Leicester win 103-77 on aggregate
 
 **OFFICIAL REFEREE SCORECARD

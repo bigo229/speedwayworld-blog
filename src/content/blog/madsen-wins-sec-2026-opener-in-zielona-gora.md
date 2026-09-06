@@ -1,14 +1,16 @@
 ---
-title: "MADSEN WINS SEC 2026 OPENER IN ZIELONA GORA"
-pubDate: "2026-07-19"
-description: "Danish star Leon Madsen launched his bid for a third Speedway European Championship with victory at round one in Zielona Gora on Saturday.The Speedway GP regular topped the podium on"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Danish star Leon Madsen launched his bid for a third Speedway European
+  Championship with victory at round one in Zielona Gora on Saturday.The Speedway
+  GP regular topped the podium on
+heroImage: /images/blog/madsen-wins-sec-2026-opener-in-zielona-gora/madsen202522-large-scaled.jpg
+pubDate: '2026-07-19'
 tags:
-  - "news"
-  - "FIM"
-  - "SEC"
-category: "British Speedway"
-heroImage: "/images/blog/madsen-wins-sec-2026-opener-in-zielona-gora/madsen202522-large-scaled.jpg"
+- news
+- FIM
+- SEC
+title: Madsen Wins Sec 2026 Opener In Zielona Gora
 ---
 
 **Danish star Leon Madsen launched his bid for a third Speedway European Championship with victory at round one in Zielona Gora on Saturday.**

@@ -1,13 +1,15 @@
 ---
-title: "DATE SET FOR BRITISH FINAL 2026"
-pubDate: "2026-03-10"
-description: "BELLE VUE will stage the British Final on Saturday August 15 (7pm) as the country’s top stars battle for the prestigious national crown.A weekend date has been secured for"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: BELLE VUE will stage the British Final on Saturday August 15 (7pm) as
+  the country’s top stars battle for the prestigious national crown.A weekend date
+  has been secured for
+heroImage: /images/blog/date-set-for-british-final-2026/britishfinal25_10-scaled.jpg
+pubDate: '2026-03-10'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/date-set-for-british-final-2026/britishfinal25_10-scaled.jpg"
+- news
+- SGB
+title: Date Set For British Final 2026
 ---
 
 **BELLE VUE will stage the British Final on Saturday August 15 (7pm) as the country’s top stars battle for the prestigious national crown.**

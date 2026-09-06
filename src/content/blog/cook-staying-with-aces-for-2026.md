@@ -1,13 +1,15 @@
 ---
-title: "COOK STAYING WITH ACES FOR 2026"
-pubDate: "2026-01-16"
-description: "ZACH Cook has sealed a return to Belle Vue after a successful first season in Aces colours last year.The 26year-old Australian pushed his Premiership average up to 6.20"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: ZACH Cook has sealed a return to Belle Vue after a successful first season
+  in Aces colours last year.The 26year-old Australian pushed his Premiership average
+  up to 6.20
+heroImage: /images/blog/cook-staying-with-aces-for-2026/cook_zach25_TL-scaled.jpg
+pubDate: '2026-01-16'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/cook-staying-with-aces-for-2026/cook_zach25_TL-scaled.jpg"
+- news
+- SGB
+title: Cook Staying With Aces For 2026
 ---
 
 **ZACH Cook has sealed a return to Belle Vue after a successful first season in Aces colours last year.**

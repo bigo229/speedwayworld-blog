@@ -1,14 +1,16 @@
 ---
-title: "MADSEN  PERFORMS A POWERFUL PRAGUE SGP 2026 WIN"
-pubDate: "2026-05-24"
-description: "Danish racer Leon Madsen was delighted to defy the “worst start of my career” to a season as he stormed to FIM Speedway GP of Czech Republic – Prague glory on Saturday"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Danish racer Leon Madsen was delighted to defy the “worst start of my
+  career” to a season as he stormed to FIM Speedway GP of Czech Republic – Prague
+  glory on Saturday
+heroImage: /images/blog/madsen-performs-a-powerful-prague-sgp-2026-win/003_20260523_WST_9001-large-scaled.jpg
+pubDate: '2026-05-24'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/madsen-performs-a-powerful-prague-sgp-2026-win/003_20260523_WST_9001-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Madsen  Performs A Powerful Prague Sgp 2026 Win
 ---
 
 **Danish racer Leon Madsen was delighted to defy the “worst start of my career” to a season as he stormed to FIM Speedway GP of Czech Republic – Prague glory on Saturday night.**

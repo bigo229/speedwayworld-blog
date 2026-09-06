@@ -1,13 +1,15 @@
 ---
-title: "HOLDER COLLARBONE BLOW"
-pubDate: "2025-12-11"
-description: "SHEFFIELD star Chris Holder faces a race against time to be fit for the Australian Championship after a recent crash in AlburyWodonga.The former World Champion suffered a broken collarbone, three"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD star Chris Holder faces a race against time to be fit for the
+  Australian Championship after a recent crash in AlburyWodonga.The former World Champion
+  suffered a broken collarbone, three
+heroImage: /images/blog/holder-collarbone-blow/holder_chris25_TL-scaled.jpg
+pubDate: '2025-12-11'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/holder-collarbone-blow/holder_chris25_TL-scaled.jpg"
+- news
+- SGB
+title: Holder Collarbone Blow
 ---
 
 **SHEFFIELD star Chris Holder faces a race against time to be fit for the Australian Championship after a recent crash in Albury-Wodonga.**

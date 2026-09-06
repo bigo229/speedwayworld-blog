@@ -1,14 +1,16 @@
 ---
-title: "RIGA REVAMP FOR 2026 COMPLETE"
-pubDate: "2026-07-15"
-description: "Bikernieki Speedway track has received an impressive makeover as it celebrates its 50th anniversary with the DEWALT FIM Speedway GP of Latvia – Riga on Saturday, August 8.With 11.lv FIM"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Bikernieki Speedway track has received an impressive makeover as it celebrates
+  its 50th anniversary with the DEWALT FIM Speedway GP of Latvia – Riga on Saturday,
+  August 8.With 11.lv FIM
+heroImage: /images/blog/riga-revamp-for-2026-complete/2026-07-15-F3-Bikernieki-speedway-track-SGP-Latvia-large-scaled.jpg
+pubDate: '2026-07-15'
 tags:
-  - "news"
-  - "FIM"
-  - "SGP"
-category: "British Speedway"
-heroImage: "/images/blog/riga-revamp-for-2026-complete/2026-07-15-F3-Bikernieki-speedway-track-SGP-Latvia-large-scaled.jpg"
+- news
+- FIM
+- SGP
+title: Riga Revamp For 2026 Complete
 ---
 
 **Bikernieki Speedway track has received an impressive makeover as it celebrates its 50th anniversary with the DEWALT FIM Speedway GP of Latvia – Riga on Saturday, August 8.**

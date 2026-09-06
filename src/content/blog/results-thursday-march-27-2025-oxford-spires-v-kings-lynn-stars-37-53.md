@@ -1,13 +1,15 @@
 ---
-title: "Results: Thursday, March 27, 2025 - Oxford Spires v King's Lynn Stars 37 - 53"
-pubDate: "2025-03-28"
-description: "KING’S Lynn set up a local derby KO Cup semifinal showdown with Ipswich by winning 53-37 at Oxford to repeat their margin of victory from the first leg.Testimonial"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: KING’S Lynn set up a local derby KO Cup semifinal showdown with Ipswich
+  by winning 53-37 at Oxford to repeat their margin of victory from the first leg.Testimonial
+heroImage: /images/blog/results-thursday-march-27-2025-oxford-spires-v-kings-lynn-stars-37-53/action25_oxf_kl4_SE-scaled.jpg
+pubDate: '2025-03-28'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/results-thursday-march-27-2025-oxford-spires-v-kings-lynn-stars-37-53/action25_oxf_kl4_SE-scaled.jpg"
+- news
+- SGB
+title: 'Results: Thursday, March 27, 2025 - Oxford Spires v King''s Lynn Stars 37
+  - 53'
 ---
 
 **KING’S Lynn set up a local derby KO Cup semi-final showdown with Ipswich by winning 53-37 at Oxford to repeat their margin of victory from the first leg.**
@@ -26,8 +28,23 @@ The hosts weren’t helped by the withdrawal of new signing Peter Kildemand afte
 >
 > “We knew realistically the tie was ours to lose, but we said we wanted to try and win tonight and keep the run going. That’s what we wanted to concentrate on, and if we could do that there would be no worries anyway, so that’s what we did and it worked out okay, and we’re really happy.”
 
-OXFORD 37: Maciej Janowski 9+1, Francis Gusts 9+1, Charles Wright 8, Erik Riss 7+1, Rohan Tungate 4, Luke Killeen 0, Peter Kildemand 0.
-KING’S LYNN 53: Niels-Kristian Iversen 14, Chris Harris 11+1, Richard Lawson 9, Jan Kvech 7+3, Ben Cook 5+2, Ashton Boughen 4+1, Nicolai Klindt 3+1.
+### 🏁 Oxford 37
+* **Maciej Janowski**: 9+1
+* **Francis Gusts**: 9+1
+* **Charles Wright**: 8
+* **Erik Riss**: 7+1
+* **Rohan Tungate**: 4
+* **Luke Killeen**: 0
+* Peter Kildemand 0.
+
+### 🏁 King’S Lynn 53
+* Niels-Kristian Iversen 14
+* **Chris Harris**: 11+1
+* **Richard Lawson**: 9
+* **Jan Kvech**: 7+3
+* **Ben Cook**: 5+2
+* **Ashton Boughen**: 4+1
+* Nicolai Klindt 3+1.
 King’s Lynn win 106-74 on aggregate
 
 **OFFICIAL REFEREE SCORECARD

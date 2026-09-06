@@ -1,13 +1,15 @@
 ---
-title: "IPSWICH SPEEDWAY STATEMENT"
-pubDate: "2026-01-09"
-description: "IPSWICH promoter Chris Louis has issued the following statement regarding the sale of the Foxhall club:..“I appreciate it has been a whirlwind couple of months since we clinched our first"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: IPSWICH promoter Chris Louis has issued the following statement regarding
+  the sale of the Foxhall club:..“I appreciate it has been a whirlwind couple of months
+  since we clinched our first
+heroImage: /images/blog/ipswich-speedway-statement/ipswich_champions25-scaled.jpg
+pubDate: '2026-01-09'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/ipswich-speedway-statement/ipswich_champions25-scaled.jpg"
+- news
+- SGB
+title: Ipswich Speedway Statement
 ---
 
 **IPSWICH promoter Chris Louis has issued the following statement regarding the sale of the Foxhall club:**

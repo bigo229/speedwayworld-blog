@@ -1,13 +1,15 @@
 ---
-title: "SPIRES SIGN KILDEMAND"
-pubDate: "2024-12-06"
-description: "FORMER Grand Prix star Peter Kildemand is returning to the ROWE Motor Oil Premiership with Oxford Spires next season.The 35year-old Dane, who won two GPs in the mid-2010s"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: FORMER Grand Prix star Peter Kildemand is returning to the ROWE Motor
+  Oil Premiership with Oxford Spires next season.The 35year-old Dane, who won two
+  GPs in the mid-2010s
+heroImage: /images/blog/spires-sign-kildemand/kildemand_peter18-scaled.jpg
+pubDate: '2024-12-06'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/spires-sign-kildemand/kildemand_peter18-scaled.jpg"
+- news
+- SGB
+title: Spires Sign Kildemand
 ---
 
 **FORMER Grand Prix star Peter Kildemand is returning to the ROWE Motor Oil Premiership with Oxford Spires next season.**

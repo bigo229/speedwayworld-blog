@@ -1,13 +1,15 @@
 ---
-title: "PICKERING RETURNS FOR TIGERS"
-pubDate: "2026-01-22"
-description: "SHEFFIELD skipper Josh Pickering has agreed a deal to finalise their side for the forthcoming 2026 Premiership campaign. .The fans’ favourite joins Jack Holder, Chris Holder, Anders Rowe, Leon Flint and"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: SHEFFIELD skipper Josh Pickering has agreed a deal to finalise their
+  side for the forthcoming 2026 Premiership campaign. .The fans’ favourite joins Jack
+  Holder, Chris Holder, Anders Rowe, Leon Flint and
+heroImage: /images/blog/pickering-returns-for-tigers/pickering_josh25_TL-scaled.jpg
+pubDate: '2026-01-22'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/pickering-returns-for-tigers/pickering_josh25_TL-scaled.jpg"
+- news
+- SGB
+title: Pickering Returns For Tigers
 ---
 
 **SHEFFIELD skipper Josh Pickering has agreed a deal to finalise their side for the forthcoming 2026 Premiership campaign.**

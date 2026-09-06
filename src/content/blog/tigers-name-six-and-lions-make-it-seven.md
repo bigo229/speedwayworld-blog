@@ -1,13 +1,15 @@
 ---
-title: "TIGERS NAME SIX & LIONS MAKE IT SEVEN"
-pubDate: "2024-11-23"
-description: "Sheffield has unveiled six of their 2025 Rowe Motor Oil Premiership side, with the Tigers tracking Speedway GP star Jack Holder and former world champions Tai Woffinden and Chris Holder.Elsewhere"
-author: "SpeedwayWorld WebTeam"
+author: SpeedwayWorld WebTeam
+category: British Speedway
+description: Sheffield has unveiled six of their 2025 Rowe Motor Oil Premiership side,
+  with the Tigers tracking Speedway GP star Jack Holder and former world champions
+  Tai Woffinden and Chris Holder.Elsewhere
+heroImage: /images/blog/tigers-name-six-and-lions-make-it-seven/jholder-woffinden4943-large-scaled.jpg
+pubDate: '2024-11-23'
 tags:
-  - "news"
-  - "SGB"
-category: "British Speedway"
-heroImage: "/images/blog/tigers-name-six-and-lions-make-it-seven/jholder-woffinden4943-large-scaled.jpg"
+- news
+- SGB
+title: Tigers Name Six & Lions Make It Seven
 ---
 
 **Sheffield has unveiled six of their 2025 Rowe Motor Oil Premiership side, with the Tigers tracking Speedway GP star Jack Holder and former world champions Tai Woffinden and Chris Holder.**
