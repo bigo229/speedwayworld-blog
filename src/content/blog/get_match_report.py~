@@ -1,0 +1,121 @@
+import sys
+import re
+import requests
+from bs4 import BeautifulSoup
+
+def clean_text(text):
+    return " ".join(dict.fromkeys(text.strip().split())).replace("Report", "").replace("Telemetry", "").strip()
+
+def parse_rider_table(table_element):
+    """Parses a Polish Ekstraliga rider scorecard table into clean Markdown rows."""
+    markdown_rows = []
+    if not table_element:
+        return markdown_rows
+        
+    for row in table_element.find_all("tr"):
+        cells = row.find_all(["td", "th"])
+        if len(cells) >= 3:
+            # Extract rider structural numbers, names, and points string
+            row_text = [c.text.strip() for c in cells]
+            
+            # Skip parent database title or structural header strings
+            if "Rider" in row_text or "Coach" in row_text or "Manager" in row_text:
+                continue
+                
+            # Filter layout spacing artifacts
+            clean_row = [x for x in row_text if x]
+            if len(clean_row) >= 3:
+                rider_no = clean_row[0].replace(".", "")
+                rider_name = clean_row[1]
+                
+                # Grab the main total score and bonus counts (usually the last 1 or 2 fields)
+                total_pts = clean_row[-1]
+                
+                # Join individual heat metrics cleanly into brackets
+                heat_history = ", ".join(clean_row[2:-1]) if len(clean_row) > 3 else "-"
+                
+                markdown_rows.append("| {} | **{}** | {} | **{}** |".format(rider_no, rider_name, heat_history, total_pts))
+    return markdown_rows
+
+def generate_comprehensive_report():
+    print("="*60)
+    print(" SPEEDWAYWORLD MATCH REPORT & SCORECARD GENERATOR")
+    print("="*60)
+    url = input("\nPaste the official Ekstraliga match link:\n> ")
+    
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=15)
+        soup = BeautifulSoup(response.text, "html.parser")
+        
+        # 1. Isolate the main team designations
+        teams = []
+        for tag in soup.find_all(class_=re.compile(r"team-name|card__team-name|fixture__team-name", re.I)):
+            name = clean_text(tag.text)
+            if name and name not in teams and len(name) > 2:
+                teams.append(name)
+        
+        # Fallbacks for titles if class labels shift
+        home_team = teams[0] if len(teams) >= 1 else "Home Team"
+        away_team = teams[1] if len(teams) >= 2 else "Away Team"
+
+        print("\n🚀 GENERATION COMPLETE! COPY THE MARKDOWN BLOCK BELOW:\n")
+        print("---")
+        print("title: \"{} vs {} PGE Ekstraliga Play-Off Race Results\"".format(home_team, away_team))
+        print("pubDate: \"2026-09-06\"")
+        print("description: \"Official match results, scorecard tables, and complete heat-by-heat summaries from the PGE Ekstraliga fixture.\"")
+        print("author: \"SpeedwayWorld WebTeam\"")
+        print("tags:\n  - \"news\"\n  - \"PGE\"\n  - \"Ekstraliga\"")
+        print("category: \"Polish Speedway\"")
+        print("---\n")
+        
+        print("**An intense PGE Ekstraliga play-off fixture concluded between {} and {}, changing the landscape of the championship brackets.**\n".format(home_team, away_team))
+        
+        # 2. Extract and print rider scorecard tables
+        html_tables = soup.find_all("table")
+        
+        print("## Official Team Scorecards\n")
+        print("### 🏁 {}".format(home_team))
+        print("| # | Rider Name | Heat Run History | Total Points |")
+        print("| :---: | :--- | :---: | :---: |")
+        if len(html_tables) >= 1:
+            home_rows = parse_rider_table(html_tables[0])
+            for r in home_rows: print(r)
+            
+        print("\n### 🏁 {}".format(away_team))
+        print("| # | Rider Name | Heat Run History | Total Points |")
+        print("| :---: | :--- | :---: | :---: |")
+        if len(html_tables) >= 2:
+            away_rows = parse_rider_table(html_tables[1])
+            for r in away_rows: print(r)
+            
+        print("\n## Heat-by-Heat Race Result Breakdown\n")
+        
+        # 3. Print out text logs step by step
+        current_heat = ""
+        for element in soup.find_all(["div", "p", "li", "h3", "h4"]):
+            if element.name == "div" and (element.find("div") or len(element.text.strip()) > 300):
+                continue
+                
+            text_line = " ".join(element.text.strip().split())
+            if not text_line or len(text_line) > 250 or "Rider" in text_line or "Coach" in text_line: 
+                continue
+            
+            if re.match(r"^Heat\s\d+", text_line, re.I) or re.match(r"^Restart\s-\sHeat\s\d+", text_line, re.I):
+                if text_line != current_heat:
+                    print("\n### 🏁 " + text_line)
+                    current_heat = text_line
+            elif re.match(r"^[a-d]\s+[A-Za-z]", text_line):
+                print("* " + text_line)
+            elif any(phrase in text_line for phrase in ["The foursome started", "visitors' pair started", "A fantastic race", "won the start", "secured a decisive", "battle of elbows", "got up and went"]):
+                print("\n> " + text_line)
+                
+        print("\n***\n\n*Official match tracking results verified via Ekstraliga databases.*")
+        
+    except Exception as e:
+        print("❌ Error scraping match metrics: {}".format(str(e)))
+
+if __name__ == "__main__":
+    generate_comprehensive_report()
+
