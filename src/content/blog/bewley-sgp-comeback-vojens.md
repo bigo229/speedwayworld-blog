@@ -5,7 +5,7 @@ pubDate: 2026-09-07
 updatedDate: 2026-09-07
 heroImage: "/images/blog/dbewley-SWC-2026-09-07-large-scaled.jpg"
 author: "SpeedwayWorld WebTeam"
-tags: ["Dan Bewley", "FIM Speedway Grand Prix", "SGP Vojens", "PGE Ekstraliga", "Speedway News"]
+tags: ["FIM", "SGP", "PGE", "news"]
 category: "Updates"
 keywords: ["Dan Bewley", "Speedway GP Denmark", "Vojens SGP", "PGE Ekstraliga play-offs", "Wroclaw speedway", "speedway news 2026"]
 robots: "index, follow"
