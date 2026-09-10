@@ -34,7 +34,7 @@ The regular league phase has concluded following 14 intense rounds of action. Wr
 | 8 | CZE | 14 | 0 | 0 | 14 | 0 | 0 | -270 |
 
 <br>
-###  Semi-final Play-Off First Leg Results
+### Semi-final Play-Off First Leg Results
 
 The post-season tournament launched on Sunday, September 6, with major away wins shaping the battle for the grand final. 
 
