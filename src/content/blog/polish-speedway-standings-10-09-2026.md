@@ -13,7 +13,7 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 
 **Track the complete 2026 PGE Ekstraliga league standings as the regular season concludes and the high-stakes semi-final play-offs get underway in Poland.**
 
-## Latest 2026 PGE Ekstraliga Regular Season Table
+### Latest 2026 PGE Ekstraliga Regular Season Table
 
 The regular league phase has concluded following 14 intense rounds of action. Wrocław and Toruń lead the final standings heading into the championship playoffs, while Częstochowa faces automatic relegation.
 
