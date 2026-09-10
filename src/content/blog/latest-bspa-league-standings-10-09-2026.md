@@ -3,7 +3,7 @@ author: SpeedwayWorld WebTeam
 category: British Speedway
 description: Current speedway championship standings and league tables. Track updated
   points, team positions, and rider leaderboards across the major leagues.
-heroImage: "/images/blog/league-tables/standings-hero-scaled.jpg"
+heroImage: /images/blog/league-tables/standings-hero-scaled.jpg
 pubDate: '2026-09-10'
 tags:
 - news
@@ -13,8 +13,11 @@ title: Latest Speedway League Standings & Championship Tables (2026)
 
 **Keep track of the official speedway league standings and championship tables as the 2026 racing season reaches its decisive final phases.**
 <br>
+
 ![bspa-scaled](/images/blog/league-tables/bspa-scaled.jpg)
+
 <br>
+
 ### 🏁 ROWE Motor Oil Premiership League Table
 
 Below is the updated team standings breakdown for the SGB Premiership league phase. Teams are ranked by total league points earned from home and away fixtures.
