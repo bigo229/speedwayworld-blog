@@ -14,12 +14,19 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 **An intense PGE Ekstraliga play-off fixture concluded between Motor Lublin and Apator Torun, ending in a dramatic final scoreline of 42-48.**
 
 ![pge-ekstraliga-1-scaled](/images/blog/league-tables/pge-ekstraliga-1-scaled.jpg)
+<br>
 <img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
 <img src="/images/blog/league-tables/ks-torun-128x128.jpg" alt="Apator Torun" width="80" />
 
+<br>
+
 ## Official Team Scorecards
 
-### 🏁 Motor Lublin (42)
+<br>
+<img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
+<br>
+
+### 🏁 Motor Lublin (42)  <img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 9 | **Martin Vaculik** | 0, 1', -, 1 | **2+1** |
@@ -29,6 +36,10 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 | 13 | **Bartosz Zmarzlik** | 2, 3, 3, 3, 1, 2 | **14** |
 | 14 | **Bartosz Bańbor** | 1, 1', 0 | **2+1** |
 | 15 | **Bartosz Jaworski** | 0, 1, 2' | **3+1** |
+<br>
+
+<img src="/images/blog/league-tables/ks-torun-128x128.jpg" alt="Apator Torun" width="80" />
+<br>
 
 ### 🏁 Apator Torun (48)
 | # | Rider Name | Heat Run History | Total Points |
@@ -42,12 +53,12 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 | 7 | **Mikołaj Duchiński** | 3, 0, 0 | **3** |
 
 
-🏁 Motor Lublin (42 Points)
+🏁 **Motor Lublin (42 Points)**
 Top scorers for Lublin included Bartosz Zmarzlik with a dominant 14 points, 
 Mateusz Cierniak with 9 points, and Kacper Woryna contributing 8 points. Additional points 
 came from Fredrik Lindgren (4), Martin Vaculik (2+1),while Bartosz Bańbor (2+1) and Bartosz Jaworski (3+1).
 
-🏁 Apator Torun (48 Points)
+🏁 **Apator Torun (48 Points)**
 Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+1 points) led the scoring , followed by Norick Bloedorn with 9+2 points and Robert Lambert with 6 points
 
 
@@ -300,8 +311,6 @@ Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+
 > The match is now finished. PRES GRUPA DEWELOPERSKA Toruń won 48-42.
 
 > Mikołaj Duchiński was voted Red Bull Junior Ace.
-
-* 
 
 ***
 
