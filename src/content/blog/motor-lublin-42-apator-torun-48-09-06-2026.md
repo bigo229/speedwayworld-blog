@@ -61,15 +61,17 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 | 6 | **Antoni Kawczyński** | 2', 0, 0, 1 | **3+1** |
 | 7 | **Mikołaj Duchiński** | 3, 0, 0 | **3** |
 
+<br>
 
-🏁 **Motor Lublin (42 Points)**
+🏁   **Motor Lublin (42 Points)**
 Top scorers for Lublin included Bartosz Zmarzlik with a dominant 14 points, 
 Mateusz Cierniak with 9 points, and Kacper Woryna contributing 8 points. Additional points 
 came from Fredrik Lindgren (4), Martin Vaculik (2+1),while Bartosz Bańbor (2+1) and Bartosz Jaworski (3+1).
 
-🏁 **Apator Torun (48 Points)**
+🏁   **Apator Torun (48 Points)**
 Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+1 points) led the scoring , followed by Norick Bloedorn with 9+2 points and Robert Lambert with 6 points
 
+<br>
 
 ## Heat-by-Heat Race Result Breakdown
 
