@@ -15,7 +15,7 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 
 ![pge-ekstraliga-1-scaled](/images/blog/league-tables/pge-ekstraliga-1-scaled.jpg)
 <img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
-![Apator Torun](/images/blog/league-tables/ks-torun-128x128.jpg)
+<img src="/images/blog/league-tables/ks-torun-128x128.jpg" alt="Apator Torun" width="80" />
 
 ## Official Team Scorecards
 
