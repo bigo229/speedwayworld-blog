@@ -14,8 +14,13 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 **An intense PGE Ekstraliga play-off fixture concluded between Motor Lublin and Apator Torun, ending in a dramatic final scoreline of 42-48.**
 
 ![pge-ekstraliga-1-scaled](/images/blog/league-tables/pge-ekstraliga-1-scaled.jpg)
+
 <br>
+
 <img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
+
+<br>
+
 <img src="/images/blog/league-tables/ks-torun-128x128.jpg" alt="Apator Torun" width="80" />
 
 <br>
@@ -23,10 +28,12 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 ## Official Team Scorecards
 
 <br>
+
 <img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
+
 <br>
 
-### 🏁 Motor Lublin (42)  <img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
+### 🏁 Motor Lublin (42)  
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 9 | **Martin Vaculik** | 0, 1', -, 1 | **2+1** |
@@ -36,9 +43,11 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 | 13 | **Bartosz Zmarzlik** | 2, 3, 3, 3, 1, 2 | **14** |
 | 14 | **Bartosz Bańbor** | 1, 1', 0 | **2+1** |
 | 15 | **Bartosz Jaworski** | 0, 1, 2' | **3+1** |
+
 <br>
 
 <img src="/images/blog/league-tables/ks-torun-128x128.jpg" alt="Apator Torun" width="80" />
+
 <br>
 
 ### 🏁 Apator Torun (48)
