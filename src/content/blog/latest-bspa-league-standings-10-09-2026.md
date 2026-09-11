@@ -3,7 +3,7 @@ author: SpeedwayWorld WebTeam
 category: British Speedway
 description: Current speedway championship standings and league tables. Track updated
   points, team positions, and rider leaderboards across the major leagues.
-heroImage: /images/blog/league-tables/speedway-standings-hero-scaled.jpg
+heroImage: /images/blog/league-tables/standings-hero-scaled.jpg
 pubDate: '2026-09-10'
 tags:
 - news
@@ -12,11 +12,8 @@ title: Latest Speedway League Standings & Championship Tables (2026)
 ---
 
 **Keep track of the official speedway league standings and championship tables as the 2026 racing season reaches its decisive final phases.**
-<br>
 
 ![bspa-scaled](/images/blog/league-tables/bspa-scaled.jpg)
-
-<br>
 
 ### 🏁 ROWE Motor Oil Premiership League Table
 
@@ -30,8 +27,6 @@ Below is the updated team standings breakdown for the SGB Premiership league pha
 | 4 | Ipswich Witches | 18 | 8 | 0 | 1 | 783 | 835 | 18 | 22 |
 | 5 | King’s Lynn Stars | 18 | 5 | 1 | 3 | 775 | 832 | 13 | 17 |
 | 6 | Northampton Foxes | 18 | 4 | 1 | 4 | 746 | 872 | 10 | 10 |
-
-<br>
 
 ### 🏁 Cab Direct Championship League Table
 
@@ -48,8 +43,6 @@ Below is the updated team standings breakdown for the SGB Championship league. T
 | 7 | Plymouth Gladiators | 16 | 6 | 0 | 2 | 686 | 751 | 14 | 17 |
 | 8 | Oxford Cheetahs | 16 | 5 | 1 | 2 | 665 | 750 | 11 | 11 |
 | 9 | Workington Comets | 15 | 3 | 1 | 3 | 626 | 722 | 9 | 10 |
-
-<br>
 
 ### 🏁 2026 Speedway Grand Prix (SGP) World Championship Standings
 
@@ -68,7 +61,7 @@ The battle for the world title is heating up. Here are the top 8 rider point tot
 
 ***
 
-*Standings are updated live following the conclusion of every official league meeting and FIM Speedway Grand-Prix round.*
+*Standings are updated live following the conclusion of every official league meeting and FIM tournament round.*
 
 *News and Image Credits:*
 * Content courtesy of [BRITISHSPEEDWAY.CO.UK](https://britishspeedway.co.uk/)
