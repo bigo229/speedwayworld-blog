@@ -14,7 +14,7 @@ heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 **An intense PGE Ekstraliga play-off fixture concluded between Motor Lublin and Apator Torun, ending in a dramatic final scoreline of 42-48.**
 
 ![pge-ekstraliga-1-scaled](/images/blog/league-tables/pge-ekstraliga-1-scaled.jpg)
-<img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="128" />
+<img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
 ![Apator Torun](/images/blog/league-tables/ks-torun-128x128.jpg)
 
 ## Official Team Scorecards
