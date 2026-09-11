@@ -73,7 +73,7 @@ Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+
 
 <br>
 
-## Heat-by-Heat Race Result Breakdown
+### Heat-by-Heat Race Result Breakdown
 
 * Motor Lublin 42 (Home Team)
 * Apator Torun 48 (Away Team)
