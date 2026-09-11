@@ -28,6 +28,8 @@ Below is the updated team standings breakdown for the SGB Premiership league pha
 | 5 | King’s Lynn Stars | 18 | 5 | 1 | 3 | 775 | 832 | 13 | 17 |
 | 6 | Northampton Foxes | 18 | 4 | 1 | 4 | 746 | 872 | 10 | 10 |
 
+<br>
+
 ### 🏁 Cab Direct Championship League Table
 
 Below is the updated team standings breakdown for the SGB Championship league. Teams are ranked by total league points earned from home and away fixtures.
@@ -43,6 +45,9 @@ Below is the updated team standings breakdown for the SGB Championship league. T
 | 7 | Plymouth Gladiators | 16 | 6 | 0 | 2 | 686 | 751 | 14 | 17 |
 | 8 | Oxford Cheetahs | 16 | 5 | 1 | 2 | 665 | 750 | 11 | 11 |
 | 9 | Workington Comets | 15 | 3 | 1 | 3 | 626 | 722 | 9 | 10 |
+
+
+<br>
 
 ### 🏁 2026 Speedway Grand Prix (SGP) World Championship Standings
 
