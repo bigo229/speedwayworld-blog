@@ -113,22 +113,51 @@ const archives = groupByMonth(allPostsForSidebar);
 
 				<!-- Updated clean static layout pathing -->
 				<nav class="pagination" aria-label="Pagination">
-					{page.url.prev && (
-						<a href={page.url.prev}>&laquo; Prev</a>
-					)}
-					
-					{Array.from({ length: page.lastPage }, (_, i) => i + 1).map((p) => (
+	<!-- Prev link points to the home page if we are on page 2, otherwise back one page -->
+	{page.url.prev && (
+		<a href={page.currentPage === 2 ? '/' : page.url.prev}>&laquo; Prev</a>
+	)}
+	
+	<!-- Page 1 link (Home) -->
+	{page.currentPage === 1 ? (
+		<span class="current">1</span>
+	) : (
+		<a href="/">1</a>
+	)}
+
+	<!-- Dynamic Page Numbers with Smart Ellipsis -->
+	{Array.from({ length: page.lastPage }, (_, i) => i + 1)
+		.filter((p) => p > 1) // Page 1 is already handled above
+		.map((p, idx, arr) => {
+			// Calculate if this item is close to our active page or is the last page
+			const isNearCurrent = Math.abs(p - page.currentPage) <= 1;
+			const isLastPage = p === page.lastPage;
+			
+			// Show numbers if they are near the current view or the very end
+			const shouldShowNumber = isNearCurrent || p <= 3 || isLastPage;
+			
+			// Determine if we need to put a '...' space marker before the last page
+			const showEllipsisBefore = isLastPage && page.currentPage < page.lastPage - 2;
+
+			return (
+				<>
+					{showEllipsisBefore && <span>...</span>}
+					{shouldShowNumber && (
 						p === page.currentPage ? (
 							<span class="current">{p}</span>
 						) : (
-							<a href={p === 1 ? '/' : `/blog/${p}`}>{p}</a>
+							<a href={`/blog/${p}`}>{p}</a>
 						)
-					))}
-
-					{page.url.next && (
-						<a href={page.url.next}>Next &raquo;</a>
 					)}
-				</nav>
+				</>
+			);
+		})}
+
+	{page.url.next && (
+		<a href={page.url.next}>Next &raquo;</a>
+	)}
+</nav>
+
 			</main>
 			
 			<aside class="sidebar">
