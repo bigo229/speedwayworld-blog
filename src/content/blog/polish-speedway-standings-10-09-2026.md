@@ -8,7 +8,7 @@ tags:
   - "PGE"
   - "Ekstraliga"
 category: "Polish Speedway"
-heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
+heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg
 ---
 
 **Track the complete 2026 PGE Ekstraliga league standings as the regular season concludes and the high-stakes semi-final play-offs get underway in Poland.**
