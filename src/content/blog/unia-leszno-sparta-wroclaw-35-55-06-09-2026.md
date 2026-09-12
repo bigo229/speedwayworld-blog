@@ -3,7 +3,7 @@ author: SpeedwayWorld WebTeam
 category: Polish Speedway
 description: Official match results, scorecard tables, and complete heat-by-heat summaries
   from the clash between Unia Leszno and Sparta Wroclaw.
-heroImage: /images/blog/league-tables/polish-pge-league-table3-scaled.jpg
+heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 pubDate: '2026-09-06'
 tags:
 - news
