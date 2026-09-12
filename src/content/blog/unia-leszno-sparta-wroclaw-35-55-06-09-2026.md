@@ -61,6 +61,8 @@ title: Unia Leszno vs Sparta Wroclaw (35-55) PGE Ekstraliga Play-Off Race Result
 | 6 | **Marcel Kowolik** | 0, 3, 1', 1, 1 | **6+1** |
 | 7 | **Mikkel Andersen** | 2, 1, 0, 3, 1 | **7** |
 
+<br>
+
 ## Heat-by-Heat Race Result Breakdown
 
 * (Home Team) Unia Leszno 35
