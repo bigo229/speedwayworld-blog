@@ -243,32 +243,17 @@ const archives = groupByMonth(allPosts);
 					</article>
 				))}
 				<nav class="pagination" aria-label="Pagination">
-					{safePage > 1 && (
-						<a href={`/?page=${safePage - 1}`}>&laquo; Prev</a>
-					)}
-					{safePage > 2 && (
-						<a href={`/?page=1`}>1</a>
-					)}
-					{safePage > 3 && <span>...</span>}
-					{Array.from({ length: totalPages }, (_, i) => i + 1)
-						.filter((p) => Math.abs(p - safePage) <= 1 || p === 1 || p === totalPages)
-						.map((p, idx, arr) => {
-							const showEllipsisBefore = idx > 0 && arr[idx - 1] !== p - 1;
-							return (
-								<>
-									{showEllipsisBefore && <span>...</span>}
-									{p === safePage ? (
-										<span class="current">{p}</span>
-									) : (
-										<a href={`/?page=${p}`}>{p}</a>
-									)}
-								</>
-							);
-						})}
-					{safePage < totalPages && (
-						<a href={`/?page=${safePage + 1}`}>Next &raquo;</a>
-					)}
-				</nav>
+	<!-- On home page, we are on page 1, so there is no Prev link -->
+	<span class="current">1</span>
+	
+	{Array.from({ length: totalPages }, (_, i) => i + 1).slice(1).map((p) => (
+		<a href={`/blog/${p}`}>{p}</a>
+	))}
+
+	{totalPages > 1 && (
+		<a href="/blog/2">Next &raquo;</a>
+	)}
+</nav>
 			</main>
 			<aside class="sidebar">
 				<div class="sidebar-widget">
