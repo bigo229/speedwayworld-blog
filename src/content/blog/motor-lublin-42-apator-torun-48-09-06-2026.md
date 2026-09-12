@@ -8,7 +8,7 @@ tags:
   - "PGE"
   - "Ekstraliga"
 category: "Polish Speedway"
-heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg
+heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg"
 ---
 
 **An intense PGE Ekstraliga play-off fixture concluded between Motor Lublin and Apator Torun, ending in a dramatic final scoreline of 42-48.**
