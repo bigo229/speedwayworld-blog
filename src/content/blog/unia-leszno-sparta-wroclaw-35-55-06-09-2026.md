@@ -193,13 +193,15 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
-| 1 | Brady Kurtz | Wrocław | D |  (Engine Failure)
+| 1 | Brady Kurtz | Wrocław | D |  
 | 2 | Piotr Pawlicki | Leszno | 2 |
 | 3 | Mikkel Andersen | Wrocław | 3 |
 | 4 | Nazar Parnitskyi | Leszno | 1 |
 
 * **Heat Score:** Leszno 3 – 3 Wrocław
 * **Running Score:** Leszno 21 – 27 Wrocław
+
+> D - Engine Failure
 
 > What bad luck for BETARD SPARTY! In the final meters, Brady Kurtz, who was riding in the lead, suffered a motorcycle failure. At that point, the visitors were comfortably ahead 5-1.
 
@@ -224,9 +226,12 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
 | 1 | Marcel Kowolik | Wrocław | - |
-| 2 | Benjamin Cook | Leszno | W |  (Excluded)
-| 3 | Artem Laguta | Wrocław | U | (In the restart)
+| 2 | Benjamin Cook | Leszno | W | 
+| 3 | Artem Laguta | Wrocław | U | 
 | 4 | Kacper Woryna | Leszno | - |
+
+> W- Excluded
+> U- In the restart
 
 > Fortunately, both competitors made it to the pit lane under their own power.
 
