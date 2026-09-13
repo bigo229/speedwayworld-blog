@@ -73,14 +73,24 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 				padding: 1em;
 				color: rgb(var(--gray-dark));
 			}
-           /* The :global selector forces Astro to style elements coming through the <slot /> */
-           .prose :global(.img-caption) {
+           /* Targets images inside post body paragraphs */
+           .prose :global(p img) {
                 display: block;
-                font-size: 0.8rem !important;  /* Force the font size down */
-                color: #666666 !important;     /* Lighten the caption color */
-                text-align: center;
-                margin-top: 0.5rem;
-                margin-bottom: 1.5rem;
+                margin: 0 auto;
+                max-width: 100%;
+                height: auto;
+            }
+
+           /* Target the italic text block sitting right below an image block */
+            .prose :global(p img + em),
+            .prose :global(p br + em) {
+                 display: block;
+                 font-size: 0.8rem !important;
+                 color: #666666 !important;
+                 text-align: center;
+                 margin-top: 0.5rem;
+                 margin-bottom: 1.5rem;
+                 font-style: normal; /* Removes the default slant so it looks like a clean caption */
              }
 			.prev-next {
 				display: flex;
