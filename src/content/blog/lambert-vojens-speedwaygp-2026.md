@@ -36,9 +36,10 @@ The champion will be crowned at the [**DEWALT FIM Speedway GP of Poland – Toru
 > “There is no pressure on me – like there hasn’t been all season. The pressure is on Bartek to retain it and Brady, after being so close last year, to try and make it. If I just do what I have been doing, I’m sure whatever the result will be, will be a good one.”
 
 <br>
-![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg)
 
-<span class="img-caption">Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski</span>
+![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg)
+*Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski*
+
 <br>
 
 **Lambert has now finished in the top two at the last five SGP events** – winning two and finishing second in three. This consistency was tested in some wet conditions in Vojens.
