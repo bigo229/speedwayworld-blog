@@ -57,7 +57,9 @@ The Great Britain captain hopes that experience will stand him in good stead.
 > “I have some fond memories from that and if I can find my form in the same way, it will be a good night.”
 
 <br>
+
 ![Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski](/images/blog/511_Madsen-Lambert-large-scaled.jpg)Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski
+
 <br>
 
 While Torun is set to witness the climax of **one of Speedway GP’s all-time great title races**, it will also play host to an incredible battle for **the final automatic qualification places for the 2027 World Championship**.
