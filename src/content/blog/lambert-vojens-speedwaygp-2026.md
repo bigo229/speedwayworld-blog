@@ -11,8 +11,6 @@ tags:
 - FIM
 ---
 
--
-
 **Great Britain racer Robert Lambert insists there’s still no pressure on his shoulders in the Speedway GP World Championship race after surging top with victory at the 2026 Deluxe Homeart FIM Speedway GP of Denmark – Vojens on Saturday.**
 
 **Despite starting the day 10 points behind pre-meeting leader Bartosz Zmarzlik**, Lambert now holds a one-point advantage over the six-time Speedway GP world champion after winning an event that was **abandoned after 20 heats due to heavy rain** by the FIM Jury.
@@ -38,7 +36,9 @@ The champion will be crowned at the [**DEWALT FIM Speedway GP of Poland – Toru
 > “There is no pressure on me – like there hasn’t been all season. The pressure is on Bartek to retain it and Brady, after being so close last year, to try and make it. If I just do what I have been doing, I’m sure whatever the result will be, will be a good one.”
 
 <br>
+
 ![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg)Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski
+
 <br>
 
 **Lambert has now finished in the top two at the last five SGP events** – winning two and finishing second in three. This consistency was tested in some wet conditions in Vojens.
