@@ -1,5 +1,5 @@
 ---
-title: "Motor Lublin vs Apator Torun (42-48) PGE Ekstraliga Play-Off Race Results"
+title: Motor Lublin vs Apator Torun (42-48) PGE Ekstraliga Play-Off Race Results
 pubDate: "2026-09-06"
 description: "Official match results, scorecard tables, and complete heat-by-heat summaries from the clash between Motor Lublin and Apator Torun."
 author: "SpeedwayWorld WebTeam"
