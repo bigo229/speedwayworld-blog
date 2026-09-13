@@ -73,14 +73,15 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 				padding: 1em;
 				color: rgb(var(--gray-dark));
 			}
-           .prose p em {
-	            display: block;
-	            font-size: 0.82rem;  /* 👈 Shrinks the text */
-	            color: #666666;      /* Lightens the text */
-	            text-align: center;  /* Centers it under the image */
-	            margin-top: 0.4rem;
-	            font-style: normal;  /* Removes the default italic slant */
-            }
+           /* The :global selector forces Astro to style elements coming through the <slot /> */
+           .prose :global(.img-caption) {
+                display: block;
+                font-size: 0.8rem !important;  /* Force the font size down */
+                color: #666666 !important;     /* Lighten the caption color */
+                text-align: center;
+                margin-top: 0.5rem;
+                margin-bottom: 1.5rem;
+             }
 			.prev-next {
 				display: flex;
 				justify-content: space-between;
