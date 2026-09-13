@@ -8,7 +8,6 @@ pubDate: '2026-09-06'
 tags:
 - news
 - PGE
-- Ekstraliga
 title: Unia Leszno vs Sparta Wroclaw (35-55) PGE Ekstraliga Play-Off Race Results
 ---
 
@@ -61,8 +60,6 @@ title: Unia Leszno vs Sparta Wroclaw (35-55) PGE Ekstraliga Play-Off Race Result
 | 5 | **Artem Laguta** | 3, 3, 3, 3, 3 | **15** |
 | 6 | **Marcel Kowolik** | 0, 3, 1', 1, 1 | **6+1** |
 | 7 | **Mikkel Andersen** | 2, 1, 0, 3, 1 | **7** |
-
-<br>
 
 ## Heat-by-Heat Race Result Breakdown
 
@@ -194,15 +191,13 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
-| 1 | Brady Kurtz | Wrocław | D |  
+| 1 | Brady Kurtz | Wrocław | D |  (Engine Failure)
 | 2 | Piotr Pawlicki | Leszno | 2 |
 | 3 | Mikkel Andersen | Wrocław | 3 |
 | 4 | Nazar Parnitskyi | Leszno | 1 |
 
 * **Heat Score:** Leszno 3 – 3 Wrocław
 * **Running Score:** Leszno 21 – 27 Wrocław
-
-> D - Engine Failure
 
 > What bad luck for BETARD SPARTY! In the final meters, Brady Kurtz, who was riding in the lead, suffered a motorcycle failure. At that point, the visitors were comfortably ahead 5-1.
 
@@ -227,12 +222,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
 | 1 | Marcel Kowolik | Wrocław | - |
-| 2 | Benjamin Cook | Leszno | W | 
-| 3 | Artem Laguta | Wrocław | U | 
+| 2 | Benjamin Cook | Leszno | W |  (Excluded)
+| 3 | Artem Laguta | Wrocław | U | (In the restart)
 | 4 | Kacper Woryna | Leszno | - |
-
-> W- Excluded
-> U- In the restart
 
 > Fortunately, both competitors made it to the pit lane under their own power.
 
