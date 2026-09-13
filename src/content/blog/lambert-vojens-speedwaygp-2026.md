@@ -37,7 +37,8 @@ The champion will be crowned at the [**DEWALT FIM Speedway GP of Poland – Toru
 
 <br>
 
-![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg) *Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski*
+![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg)
+*Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski*
 
 <br>
 
