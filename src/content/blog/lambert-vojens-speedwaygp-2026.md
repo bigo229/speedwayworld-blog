@@ -34,14 +34,12 @@ The champion will be crowned at the [**DEWALT FIM Speedway GP of Poland – Toru
 > “It’s all going down to the last round and it’s super interesting. It will be great for the spectators and for us racing for it too. It’s all open for the gold, silver and bronze medals. I’m looking forward to it.
 
 > “There is no pressure on me – like there hasn’t been all season. The pressure is on Bartek to retain it and Brady, after being so close last year, to try and make it. If I just do what I have been doing, I’m sure whatever the result will be, will be a good one.”
-
 <br>
 
 ![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg)
 *Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski*
 
 <br>
-
 **Lambert has now finished in the top two at the last five SGP events** – winning two and finishing second in three. This consistency was tested in some wet conditions in Vojens.
 
 **Lambert joked:** 
@@ -56,13 +54,11 @@ The Great Britain captain hopes that experience will stand him in good stead.
 **He said:**
 
 > “I have some fond memories from that and if I can find my form in the same way, it will be a good night.”
-
 <br>
 
-![Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski](/images/blog/511_Madsen-Lambert-large-scaled.jpg)Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski
+![Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski](/images/blog/511_Madsen-Lambert-large-scaled.jpg)Madsen (left) celebrates with *Lambert on the podium. PHOTO: Marcin Karczewski*
 
 <br>
-
 While Torun is set to witness the climax of **one of Speedway GP’s all-time great title races**, it will also play host to an incredible battle for **the final automatic qualification places for the 2027 World Championship**.
 
 Denmark’s **Michael Jepsen Jensen** holds fourth place on 102 points, while Madsen is fifth on 90 and **Fricke**, **Kacper Woryna** and **Patryk Dudek** are all tied on 89 for sixth, seventh and eighth place. **Only the top seven riders are guaranteed qualification for the 2027 series, although Woryna's place is already certain after he finished third at the FIM SGP Challenge in Terenzano on July 25.**
