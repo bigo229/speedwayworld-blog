@@ -73,6 +73,14 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 				padding: 1em;
 				color: rgb(var(--gray-dark));
 			}
+           .prose p img + em {
+	        display: block;
+	        font-size: 0.8rem;   /* Makes the caption text smaller */
+	        color: #666;         /* Lightens the caption text color */
+	        text-align: center;  /* Centers the caption beneath the image */
+	        margin-top: 0.5rem;  /* Adds spacing between image and text */
+	        font-style: normal;  /* Removes the default italic slant if preferred */
+            }
 			.prev-next {
 				display: flex;
 				justify-content: space-between;
