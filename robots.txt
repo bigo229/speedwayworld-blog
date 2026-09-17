@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+Sitemap: https://speedway-blog.bigo229.workers.dev/sitemap-index.xml
