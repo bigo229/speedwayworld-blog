@@ -2,12 +2,17 @@
 
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import { defineConfig, fontProviders } from 'astro/config';
+import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://speedwayworld.x10.bz',
-	integrations: [mdx(), sitemap()],
+	site: 'https://speedway-blog.bigo229.workers.dev',
+	integrations: [
+		mdx(), 
+		sitemap({
+			filter: (page) => !page.includes('/admin')
+		})
+	],
 	fonts: [
 		{
 			provider: fontProviders.local(),
