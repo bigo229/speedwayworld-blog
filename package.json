@@ -1,7 +1,7 @@
 {
   "name": "speedwayworld-static",
   "scripts": {
-    "build": "echo 'Static build skipped'",
-    "deploy": "wrangler deploy --assets=."
+    "build": "echo 'Static files ready'",
+    "deploy": "wrangler deploy"
   }
 }
