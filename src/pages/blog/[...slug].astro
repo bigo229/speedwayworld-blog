@@ -5,7 +5,8 @@ import BlogPost from '../../layouts/BlogPost.astro';
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
 	return posts.map((post) => ({
-		params: { slug: post.id },
+		// Try using frontmatter slug first, fallback to file id if missing
+		params: { slug: post.slug || post.id },
 		props: post,
 	}));
 }
@@ -17,6 +18,7 @@ const { Content } = await render(post);
 const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+// Match by whatever identifier your index pages use to map connections
 const currentIndex = allPosts.findIndex((p) => p.id === post.id);
 const prev = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
 const next = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
@@ -25,3 +27,4 @@ const next = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : n
 <BlogPost {...post.data} prev={prev} next={next}>
 	<Content />
 </BlogPost>
+
