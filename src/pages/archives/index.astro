@@ -1,13 +1,15 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 const allPosts = await getCollection('blog');
 
-// Securely group posts by year and month, safely handling raw strings or dates
 const groupedPosts = allPosts.reduce((acc, post) => {
 	const dateObj = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
 	const validDate = isNaN(dateObj.getTime()) ? new Date() : dateObj;
-	
 	const year = validDate.getFullYear();
 	const month = validDate.toLocaleString('en-US', { month: 'long' });
 	const monthNum = (validDate.getMonth() + 1).toString().padStart(2, '0');
@@ -22,29 +24,35 @@ const groupedPosts = allPosts.reduce((acc, post) => {
 const years = Object.keys(groupedPosts).sort((a, b) => Number(b) - Number(a));
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<title>Speedway Master Archives</title>
-</head>
-<body>
-	<main>
-		<h1>Blog Archives</h1>
-		{years.map((year) => (
-			<div>
-				<h2>{year}</h2>
-				{Object.keys(groupedPosts[year]).map((monthName) => {
-					const monthData = groupedPosts[year][monthName];
-					return (
-						<h3>
-							<a href={`/archives/${year}/${monthData.num}/`}>
-								{monthName} ({monthData.posts.length} posts)
+	<head>
+		<BaseHead title={`Blog Archives | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			main { max-width: 800px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
+			.year-section { margin-bottom: 2rem; }
+			.month-link { display: inline-block; margin-right: 1.5rem; text-decoration: none; color: #333; font-weight: 500; }
+			.month-link:hover { color: var(--accent); }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Blog Archives</h1>
+			{years.map((year) => (
+				<div class="year-section">
+					<h2>{year}</h2>
+					{Object.keys(groupedPosts[year]).map((monthName) => {
+						const monthData = groupedPosts[year][monthName];
+						return (
+							<a class="month-link" href={`/archives/${year}/${monthData.num}/`}>
+								{monthName} ({monthData.posts.length})
 							</a>
-						</h3>
-					);
-				})}
-			</div>
-		))}
-	</main>
-</body>
+						);
+					})}
+				</div>
+			))}
+		</main>
+		<Footer />
+	</body>
 </html>
