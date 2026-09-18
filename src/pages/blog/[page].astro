@@ -27,7 +27,15 @@ const { page } = Astro.props;
 								<a href={`/blog/${post.slug || post.id}/`}>
 									<img width={720} height={360} src={post.data.heroImage} alt="" />
 									<h4>{post.data.title}</h4>
-									<p>{post.data.pubDate.toLocaleDateString()}</p>
+									<p>
+   {
+      (() => {
+         const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
+         return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+      })()
+   }
+</p>
+
 								</a>
 							</li>
 						))
