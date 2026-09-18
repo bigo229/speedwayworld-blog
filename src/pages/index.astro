@@ -235,7 +235,13 @@ const archives = groupByMonth(allPosts);
 							<div class="content">
 								<h3>{post.data.title}</h3>
 								<p class="meta">
-									<FormattedDate date={post.data.pubDate} />
+									{
+   (() => {
+      const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
+      return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+   })()
+}
+
 									{post.data.tags && post.data.tags.length > 0 && ` • ${post.data.tags.join(', ')}`}
 								</p>
 							</div>
