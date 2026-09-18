@@ -1,0 +1,81 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
+);
+const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags || []))].sort();
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Site Directory | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
+			.section-box { margin-bottom: 3rem; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+			h2 { border-bottom: 2px solid var(--accent); padding-bottom: 0.5rem; margin-bottom: 1.5rem; color: #222; }
+			ul { list-style: none; padding: 0; }
+			li { margin-bottom: 0.8rem; }
+			a { text-decoration: none; color: #333; font-weight: 500; }
+			a:hover { color: var(--accent); }
+			.tag-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+			.tag-cloud a { padding: 0.4rem 0.8rem; background: #eee; border-radius: 4px; font-size: 0.9rem; }
+			.tag-cloud a:hover { background: var(--accent); color: #fff; }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Website Directory</h1>
+			<p>A comprehensive overview of all pages available on SpeedwayWorld.</p>
+
+			<!-- 1) CORE PAGES -->
+			<div class="section-box">
+				<h2>Main Pages</h2>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/blog/">Blog Index</a></li>
+					<li><a href="/about/">About Us</a></li>
+					<li><a href="/archives/">Blog Archives</a></li>
+					<li><a href="/search/">Search Engine</a></li>
+				</ul>
+			</div>
+
+			<!-- 2) ALL 119 BLOG POSTS -->
+			<div class="section-box">
+				<h2>All Articles ({allPosts.length} posts)</h2>
+				<ul>
+					{allPosts.map((post) => (
+						<li>
+							<a href={`/blog/${post.slug || post.id}/`}>
+								• {post.data.title} 
+								<span style="color:#666; font-size:0.85rem;">
+									({(() => {
+										const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
+										return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short' }) : '';
+									})()})
+								</span>
+							</a>
+						</li>
+					))}
+				</ul>
+			</div>
+
+			<!-- 3) ALL DYNAMIC TAG LABELS -->
+			<div class="section-box">
+				<h2>Tags Index</h2>
+				<div class="tag-cloud">
+					{allTags.map((tag) => (
+						<a href={`/tags/${tag}/`}>{tag}</a>
+					))}
+				</div>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
