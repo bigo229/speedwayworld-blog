@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build --ignore-lock",
+    "build": "npm install @astrojs/mdx @astrojs/sitemap @astrojs/check && astro build --ignore-lock",
     "preview": "astro preview",
     "astro": "astro"
   },
