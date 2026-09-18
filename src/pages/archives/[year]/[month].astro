@@ -1,25 +1,19 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseHead from '@components/BaseHead.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../../consts';
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('blog');
-	
 	const paths = allPosts.map((post) => {
-		// Securely handle any type of date string or object layout mapping
 		const dateObj = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
-		
-		// Fallback gracefully to current date metrics if parsing returns invalid data
 		const validDate = isNaN(dateObj.getTime()) ? new Date() : dateObj;
-		
 		const year = validDate.getFullYear().toString();
 		const month = (validDate.getMonth() + 1).toString().padStart(2, '0');
-		
-		return {
-			params: { year, month },
-		};
+		return { params: { year, month } };
 	});
-
-	// Remove duplicate pathways so Astro doesn't throw path collision errors
 	return Array.from(new Set(paths.map(p => JSON.stringify(p)))).map(s => JSON.parse(s));
 }
 
@@ -29,29 +23,34 @@ const allPosts = await getCollection('blog');
 const filteredPosts = allPosts.filter((post) => {
 	const dateObj = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
 	const validDate = isNaN(dateObj.getTime()) ? new Date() : dateObj;
-	const postYear = validDate.getFullYear().toString();
-	const postMonth = (validDate.getMonth() + 1).toString().padStart(2, '0');
-	return postYear === year && postMonth === month;
+	return validDate.getFullYear().toString() === year && ((validDate.getMonth() + 1).toString().padStart(2, '0')) === month;
 }).sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<title>Speedway Archives - {month}/{year}</title>
-</head>
-<body>
-	<main>
-		<h1>Archives for {month}/{year}</h1>
-		<ul>
-			{filteredPosts.map((post) => (
-				<li>
-					<a href={`/blog/${post.slug || post.id}/`}>
-						{post.data.title}
-					</a>
-				</li>
-			))}
-		</ul>
-	</main>
-</body>
+	<head>
+		<BaseHead title={`Archives for ${month}/${year} | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
+			ul { list-style: none; padding: 0; }
+			li { margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+			a { text-decoration: none; font-size: 1.2rem; color: #222; font-weight: bold; }
+			a:hover { color: var(--accent); }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Archives for {month}/{year}</h1>
+			<ul>
+				{filteredPosts.map((post) => (
+					<li>
+						<a href={`/blog/${post.slug || post.id}/`}>{post.data.title}</a>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
 </html>
