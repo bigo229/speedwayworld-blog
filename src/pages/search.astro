@@ -1,0 +1,134 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Search - ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			.container {
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 2rem 1rem;
+			}
+			.search-box {
+				margin-bottom: 2rem;
+			}
+			.search-box input {
+				width: 100%;
+				padding: 0.8rem;
+				font-size: 1.1rem;
+				border: 2px solid var(--text-lighter);
+				border-radius: 8px;
+			}
+			.search-box input:focus {
+				outline: none;
+				border-color: var(--accent);
+			}
+			.results-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			.results-list li {
+				border-bottom: 1px solid var(--text-lighter);
+				padding: 1rem 0;
+			}
+			.results-list a {
+				text-decoration: none;
+				color: var(--text);
+			}
+			.results-list a:hover {
+				color: var(--accent);
+			}
+			.results-list .title {
+				font-size: 1.1rem;
+				margin: 0 0 0.25rem;
+			}
+			.results-list .meta {
+				font-size: 0.85rem;
+				color: var(--text-light);
+			}
+			.no-results {
+				color: var(--text-light);
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="container">
+				<h1>Search</h1>
+				<div class="search-box">
+					<input
+						type="search"
+						id="search-input"
+						placeholder="Type at least 3 characters..."
+						autofocus
+					/>
+				</div>
+				<ul id="results" class="results-list"></ul>
+				<p id="status" class="no-results"></p>
+			</div>
+		</main>
+		<Footer />
+		<script>
+			const input = document.getElementById('search-input');
+			const results = document.getElementById('results');
+			const status = document.getElementById('status');
+			let index = [];
+
+			fetch('/search-index.json')
+				.then((r) => r.json())
+				.then((data) => {
+					index = data;
+				})
+				.catch(() => {
+					status.textContent = 'Search index unavailable.';
+				});
+
+			input.addEventListener('input', (e) => {
+				const q = e.target.value.trim().toLowerCase();
+				results.innerHTML = '';
+				if (q.length < 3) {
+					status.textContent = '';
+					return;
+				}
+				const matches = index.filter((p) => {
+					const text = [p.title, ...(p.tags || [])].join(' ').toLowerCase();
+					return text.includes(q);
+				});
+				if (matches.length === 0) {
+					status.textContent = 'No results found.';
+				} else {
+					status.textContent = `${matches.length} result${matches.length === 1 ? '' : 's'}`;
+					for (const post of matches.slice(0, 20)) {
+						const li = document.createElement('li');
+						const a = document.createElement('a');
+						a.href = `/blog/${post.slug}/`;
+						const title = document.createElement('h3');
+						title.className = 'title';
+						title.textContent = post.title;
+						const meta = document.createElement('p');
+						meta.className = 'meta';
+						meta.textContent = post.pubDate
+							? new Date(post.pubDate).toLocaleDateString('en-us', {
+									year: 'numeric',
+									month: 'short',
+									day: 'numeric',
+							  })
+							: '';
+						a.appendChild(title);
+						a.appendChild(meta);
+						li.appendChild(a);
+						results.appendChild(li);
+					}
+				}
+			});
+		</script>
+	</body>
+</html>

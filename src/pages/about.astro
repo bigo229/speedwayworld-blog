@@ -1,0 +1,54 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`About - ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			.container {
+				max-width: 720px;
+				margin: 0 auto;
+				padding: 2rem 1rem;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="container">
+				<h1>About SpeedwayWorld</h1>
+				<p>
+					SpeedwayWorld is your premier destination for speedway news, results, and updates from
+					around the globe. We cover the latest from the Speedway Grand Prix (SGP), British
+					 Premiership, Elite League, and all major international competitions including the
+					Speedway of Nations (SON), Speedway World Cup (SWC), and European Championship (SEC).
+				</p>
+				<p>
+					Founded to serve the speedway community, our team delivers breaking news, in-depth
+					analysis, rider profiles, and comprehensive coverage of every round. Whether you follow
+					the SGP series, domestic British leagues, or international speedway, SpeedwayWorld keeps
+					you connected to the sport you love.
+				</p>
+				<h2>What We Cover</h2>
+				<ul>
+					<li><strong>Speedway Grand Prix (SGP)</strong> - World championship news and results</li>
+					<li><strong>British Speedway</strong> - Premiership, Championship, and National League</li>
+					<li><strong>International Speedway</strong> - World Cup, Speedway of Nations, European Championship</li>
+					<li><strong>Rider News</strong> - Transfers, injuries, and career updates</li>
+					<li><strong>Event Previews & Reports</strong> - From qualifiers to grand finals</li>
+				</ul>
+				<h2>Contact</h2>
+				<p>
+					Have a story tip, question, or feedback? Visit our <a href="/contact">contact page</a> to
+					get in touch with the SpeedwayWorld team.
+				</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

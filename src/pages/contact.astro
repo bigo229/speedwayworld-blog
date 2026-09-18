@@ -1,0 +1,186 @@
+---
+// src/pages/contact.astro
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <BaseHead title="Contact Us" description="Get in touch with us." />
+  
+  <style is:global>
+    @import "../styles/global.css";
+
+    /* Base Form Styling */
+    .form-input {
+      width: 100%; 
+      padding: 0.75rem; 
+      border: 1px solid #ccc; 
+      border-radius: 4px; 
+      font-size: 1rem;
+      outline: none;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    /* Subtle Visual Validation Cues (Only triggers after user edits) */
+    .form-input:user-valid {
+      border-color: #28a745;
+      box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.1);
+    }
+
+    .form-input:user-invalid {
+      border-color: #dc3545;
+      box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.1);
+    }
+
+    /* Smooth hover effect for the submit button */
+    .submit-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem; 
+      background-color: #0070f3; 
+      color: white; 
+      border: none; 
+      border-radius: 4px; 
+      font-size: 1rem; 
+      cursor: pointer; 
+      font-weight: 600; 
+      transition: background-color 0.2s ease-in-out;
+    }
+
+    .submit-btn:hover {
+      background-color: #0051b3; 
+    }
+
+    .submit-btn:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+
+    /* CSS Loading Spinner */
+    .spinner {
+      display: none; 
+      width: 18px;
+      height: 18px;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      border-radius: 50%;
+      border-top-color: white;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+</head>
+<body>
+  <Header />
+
+  <main style="padding: 2rem; max-width: 720px; margin: 0 auto; min-height: 60vh;">
+    <h1>Contact Us</h1>
+    <p style="margin-bottom: 2rem; color: rgb(var(--gray));">
+      Have a question or feedback? Drop us a message using the form below.
+    </p>
+    
+    <form id="contact-form" action="https://formspree.io/f/maeybjkv" method="POST" style="display: flex; flex-direction: column; gap: 1.5rem;">
+      <!-- Name Field (Required) -->
+      <div>
+        <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Full Name</label>
+        <input id="name" type="text" name="name" class="form-input" required />
+      </div>
+
+      <!-- Email Field (Required) -->
+      <div>
+        <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Email Address</label>
+        <input id="email" type="email" name="email" class="form-input" required />
+      </div>
+      
+      <!-- Message Field (Required) -->
+      <div>
+        <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Message</label>
+        <textarea id="message" name="message" class="form-input" required style="min-height: 150px; font-family: inherit;"></textarea>
+      </div>
+      
+      <!-- Submit Button Wrapper -->
+      <div>
+        <button type="submit" class="submit-btn" id="submit-btn">
+          <span class="spinner" id="btn-spinner"></span>
+          <span id="btn-text">Submit Message</span>
+        </button>
+      </div>
+    </form>
+
+    <p id="status-message" style="display: none; color: green; font-weight: bold; margin-top: 1.5rem; padding: 1rem; background-color: #e6f4ea; border-radius: 4px;">
+      Thank you! Redirecting you to the confirmation page in 2 seconds...
+    </p>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<script is:inline>
+  function setupForm() {
+    const form = document.getElementById('contact-form');
+    const statusMessage = document.getElementById('status-message');
+    const submitBtn = document.getElementById('submit-btn');
+    const btnSpinner = document.getElementById('btn-spinner');
+    const btnText = document.getElementById('btn-text');
+
+    if (!form) return;
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault(); 
+      
+      if (submitBtn) submitBtn.disabled = true;
+      if (btnSpinner) btnSpinner.style.display = 'inline-block';
+      if (btnText) btnText.textContent = 'Sending...';
+
+      const data = new FormData(form);
+
+      try {
+        const response = await fetch(form.action, {
+          method: form.method,
+          body: data,
+          headers: {
+            'Accept': 'application/json'
+          }
+        });
+
+        if (response.ok) {
+          if (btnSpinner) btnSpinner.style.display = 'none';
+          if (btnText) btnText.textContent = 'Sent!';
+          if (statusMessage) statusMessage.style.display = 'block';
+
+          setTimeout(() => {
+            window.location.href = '/thanks';
+          }, 2000);
+        } else {
+          alert('Oops! There was a problem submitting your form.');
+          resetButton();
+        }
+      } catch (error) {
+        alert('Network error. Please try again.');
+        resetButton();
+      }
+    });
+
+    function resetButton() {
+      if (submitBtn) submitBtn.disabled = false;
+      if (btnSpinner) btnSpinner.style.display = 'none';
+      if (btnText) btnText.textContent = 'Submit Message';
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupForm);
+  } else {
+    setupForm();
+  }
+</script>
