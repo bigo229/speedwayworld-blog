@@ -4,7 +4,6 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import FormattedDate from '../components/FormattedDate.astro';
-import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 
 const POSTS_PER_PAGE = 10;
@@ -15,15 +14,13 @@ const totalPages = Math.max(1, Math.ceil(allPosts.length / POSTS_PER_PAGE));
 const currentPage = Number(Astro.url.searchParams.get('page') || 1);
 const safePage = Math.min(Math.max(1, currentPage), totalPages);
 const posts = allPosts.slice((safePage - 1) * POSTS_PER_PAGE, safePage * POSTS_PER_PAGE);
-const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags))].sort();
+const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags || []))].sort();
 
-function groupByMonth(posts) {
+function groupByMonth(postsList) {
 	const map = new Map();
-	for (const post of posts) {
-		// Securely handle date strings or objects on the fly
+	for (const post of postsList) {
 		const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
 		const validDate = isNaN(d.getTime()) ? new Date() : d;
-		
 		const key = `${validDate.getFullYear()}-${String(validDate.getMonth() + 1).padStart(2, '0')}`;
 		map.set(key, (map.get(key) || 0) + 1);
 	}
@@ -36,20 +33,8 @@ function groupByMonth(posts) {
 			return { key, label, count, year, month };
 		});
 }
-
-	return Array.from(map.entries())
-		.sort((a, b) => b[0].localeCompare(a[0]))
-		.map(([key, count]) => {
-			const [year, month] = key.split('-');
-			const date = new Date(Number(year), Number(month) - 1);
-			const label = date.toLocaleString('default', { month: 'long', year: 'numeric' });
-			return { key, label, count, year, month };
-	});
-} // This is the final closing brace of the function block!
-
 const archives = groupByMonth(allPosts);
 ---
-
 
 <!doctype html>
 <html lang="en">
@@ -114,7 +99,7 @@ const archives = groupByMonth(allPosts);
 				background: #fff;
 				border-radius: 8px;
 				overflow: hidden;
-				box-shadow: 0 2px 8px rgba(var(--black), 0.08);
+				box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 				margin-bottom: 1.5rem;
 			}
 			.post-card a {
@@ -143,7 +128,7 @@ const archives = groupByMonth(allPosts);
 				border-radius: 8px;
 				padding: 1.2rem;
 				margin-bottom: 1.5rem;
-				box-shadow: 0 2px 8px rgba(var(--black), 0.06);
+				box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 			}
 			.sidebar-widget h4 {
 				margin: 0 0 0.75rem;
@@ -243,7 +228,7 @@ const archives = groupByMonth(allPosts);
 			<main class="main-content">
 				{posts.map((post) => (
 					<article class="post-card">
-						<a href={`/blog/${post.id}/`}>
+						<a href={`/blog/${post.slug || post.id}/`}>
 							{post.data.heroImage && (
 								<img src={post.data.heroImage} alt={post.data.title} />
 							)}
@@ -251,38 +236,21 @@ const archives = groupByMonth(allPosts);
 								<h3>{post.data.title}</h3>
 								<p class="meta">
 									<FormattedDate date={post.data.pubDate} />
-									{post.data.tags.length > 0 && ` • ${post.data.tags.join(', ')}`}
+									{post.data.tags && post.data.tags.length > 0 && ` • ${post.data.tags.join(', ')}`}
 								</p>
 							</div>
 						</a>
 					</article>
 				))}
+				
 				<nav class="pagination" aria-label="Pagination">
-	<!-- Always active as Page 1 on the homepage -->
-	<span class="current">1</span>
-
-	<!-- Generates the sliding scale window for the rest of the pages -->
-	{Array.from({ length: totalPages }, (_, i) => i + 1)
-		.filter((p) => p > 1) // Skip page 1 since it's defined above
-		.map((p, idx, arr) => {
-			// Show ellipsis before the final page if there is a gap
-			const showEllipsisBefore = p === totalPages && totalPages > 3;
-			return (
-				<>
-					{showEllipsisBefore && <span>...</span>}
-					{/* Only display pages 2, 3, or the final page to keep it clean */}
-					{(p <= 3 || p === totalPages) && (
-						<a href={`/blog/${p}`}>{p}</a>
+					<span class="current">1</span>
+					{totalPages > 1 && (
+						<a href="/blog/2">Next &raquo;</a>
 					)}
-				</>
-			);
-		})}
-
-	{totalPages > 1 && (
-		<a href="/blog/2">Next &raquo;</a>
-	)}
-</nav>
+				</nav>
 			</main>
+			
 			<aside class="sidebar">
 				<div class="sidebar-widget">
 					<h4>Search</h4>
