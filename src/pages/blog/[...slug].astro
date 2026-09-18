@@ -1,30 +1,23 @@
 ---
-import { type CollectionEntry, getCollection, render } from 'astro:content';
-import BlogPost from '../../layouts/BlogPost.astro';
-
-export async function getStaticPaths() {
-	const posts = await getCollection('blog');
-	return posts.map((post) => ({
-		// Try using frontmatter slug first, fallback to file id if missing
-		params: { slug: post.slug || post.id },
-		props: post,
-	}));
+interface Props {
+	date: Date | string;
 }
-type Props = CollectionEntry<'blog'>;
 
-const post = Astro.props;
-const { Content } = await render(post);
+const { date } = Astro.props;
 
-const allPosts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
-// Match by whatever identifier your index pages use to map connections
-const currentIndex = allPosts.findIndex((p) => p.id === post.id);
-const prev = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
-const next = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
+// Securely parse the incoming date property into a valid object format
+const dateObj = date instanceof Date ? date : new Date(date);
+const isValid = !isNaN(dateObj.getTime());
 ---
 
-<BlogPost {...post.data} prev={prev} next={next}>
-	<Content />
-</BlogPost>
-
+{isValid && (
+	<time datetime={dateObj.toISOString()}>
+		{
+			dateObj.toLocaleDateString('en-us', {
+				year: 'numeric',
+				month: 'short',
+				day: 'numeric',
+			})
+		}
+	</time>
+)}
