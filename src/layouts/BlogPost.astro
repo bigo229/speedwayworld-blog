@@ -3,7 +3,6 @@ import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'] & {
@@ -132,10 +131,12 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 					<div class="post-hero-content">
 						<h1>{title}</h1>
 						<p class="post-meta">
-							<FormattedDate date={pubDate} />
-							{updatedDate && (
-								<span> • Updated <FormattedDate date={updatedDate} /></span>
-							)}
+							{
+   (() => {
+      const d = pubDate instanceof Date ? pubDate : new Date(pubDate);
+      return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+   })()
+}
 						</p>
 						{tags && tags.length > 0 && (
 							<p class="post-tags">
