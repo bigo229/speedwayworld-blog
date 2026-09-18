@@ -5,8 +5,9 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
 
+// Safely pull and sort ALL posts chronologically so September sits at the top
 const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+	(a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
 );
 ---
 
@@ -15,63 +16,14 @@ const posts = (await getCollection('blog')).sort(
 	<head>
 		<BaseHead title={`Blog | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
-			main {
-				max-width: 960px;
-				margin: 0 auto;
-				padding: 3em 1em;
-			}
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				width: calc(50% - 1rem);
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-				width: 100%;
-				height: 240px;
-				object-fit: cover;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1.2;
-			}
-			.date {
-				margin: 0;
-				color: var(--text-light);
-			}
-			ul li a:hover img {
-				box-shadow: var(--box-shadow);
-			}
-			ul li a:hover .title {
-				color: var(--accent);
-			}
-			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
-				}
-				ul li {
-					width: 100%;
-					text-align: center;
-				}
-				ul li img {
-					height: 180px;
-				}
-			}
+			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; }
+			ul { display: flex; flex-wrap: wrap; gap: 2rem; list-style-type: none; margin: 0; padding: 0; }
+			ul li { width: calc(50% - 1rem); }
+			ul li img { margin-bottom: 0.5rem; border-radius: 12px; width: 100%; height: 240px; object-fit: cover; background: #eee; }
+			ul li a { display: block; text-decoration: none; }
+			.title { margin: 0; color: #222; line-height: 1.2; font-size: 1.2rem; font-weight: 700; }
+			.date { margin: 0; color: #666; font-size: 0.9rem; }
+			@media (max-width: 720px) { ul li { width: 100%; } }
 		</style>
 	</head>
 	<body>
@@ -79,24 +31,20 @@ const posts = (await getCollection('blog')).sort(
 		<main>
 			<section>
 				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.slug || post.id}/`}>
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt={post.data.title} />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										{(() => {
-											const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
-											return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
-										})()}
-									</p>
-								</a>
-							</li>
-						))
-					}
+					{posts.map((post) => (
+						<li>
+							<a href={`/blog/${post.slug || post.id}/`}>
+								<img src={post.data.heroImage || '/images/hero-header.jpg'} alt="" />
+								<h4 class="title">{post.data.title}</h4>
+								<p class="date">
+									{(() => {
+										const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
+										return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+									})()}
+								</p>
+							</a>
+						</li>
+					))}
 				</ul>
 			</section>
 		</main>
