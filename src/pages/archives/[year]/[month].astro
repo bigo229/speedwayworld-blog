@@ -23,30 +23,49 @@ const allPosts = await getCollection('blog');
 const filteredPosts = allPosts.filter((post) => {
 	const dateObj = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
 	const validDate = isNaN(dateObj.getTime()) ? new Date() : dateObj;
-	return validDate.getFullYear().toString() === year && ((validDate.getMonth() + 1).toString().padStart(2, '0')) === month;
+	const postYear = validDate.getFullYear().toString();
+	const postMonth = (validDate.getMonth() + 1).toString().padStart(2, '0');
+	return postYear === year && postMonth === month;
 }).sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+
+const displayMonthName = filteredPosts[0] ? new Date(filteredPosts[0].data.pubDate).toLocaleString('en-US', { month: 'long' }) : 'Month';
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`Archives for ${month}/${year} | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead title={`Archives for ${displayMonthName} ${year} | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
 			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
-			ul { list-style: none; padding: 0; }
-			li { margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
-			a { text-decoration: none; font-size: 1.2rem; color: #222; font-weight: bold; }
-			a:hover { color: var(--accent); }
+			.grid { display: flex; flex-wrap: wrap; gap: 2rem; list-style: none; padding: 0; margin: 2rem 0 0; }
+			.grid li { width: calc(50% - 1rem); }
+			.post-card { background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); display: block; text-decoration: none; color: inherit; }
+			.post-card img { width: 100%; height: 240px; object-fit: cover; background: #eee; }
+			.content { padding: 1rem; }
+			.title { margin: 0 0 0.5rem; font-size: 1.2rem; color: #222; font-weight: 700; line-height: 1.3; }
+			.date { margin: 0; font-size: 0.85rem; color: #666; }
+			@media (max-width: 720px) { .grid li { width: 100%; } }
 		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>Archives for {month}/{year}</h1>
-			<ul>
+			<h1>Archives for {displayMonthName} {year}</h1>
+			<ul class="grid">
 				{filteredPosts.map((post) => (
 					<li>
-						<a href={`/blog/${post.slug || post.id}/`}>{post.data.title}</a>
+						<a class="post-card" href={`/blog/${post.slug || post.id}/`}>
+							<img src={post.data.heroImage || '/images/hero-header.jpg'} alt="" />
+							<div class="content">
+								<h4 class="title">{post.data.title}</h4>
+								<p class="date">
+									{(() => {
+										const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
+										return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+									})()}
+								</p>
+							</div>
+						</a>
 					</li>
 				))}
 			</ul>
