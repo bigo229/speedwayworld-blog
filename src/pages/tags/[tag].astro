@@ -1,11 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
-import BlogPost from '../../layouts/BlogPost.astro';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('blog');
-	
-	// Safely map values using a fallback empty array if tags are missing
 	const tags = [...new Set(allPosts.flatMap((post) => post.data.tags || []))];
 
 	return tags.map((tag) => {
@@ -24,23 +25,30 @@ const { tag } = Astro.params;
 const { posts } = Astro.props;
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<title>Speedway Posts Tagged: {tag}</title>
-</head>
-<body>
-	<main>
-		<h1>Posts tagged with "{tag}"</h1>
-		<ul>
-			{posts.map((post) => (
-				<li>
-					<a href={`/blog/${post.slug || post.id}/`}>
-						{post.data.title}
-					</a>
-				</li>
-			))}
-		</ul>
-	</main>
-</body>
+	<head>
+		<BaseHead title={`Posts Tagged "${tag}" | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			main { max-width: 800px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
+			ul { list-style: none; padding: 0; }
+			li { margin-bottom: 1rem; border-bottom: 1px solid #eee; padding-bottom: 1rem; }
+			a { text-decoration: none; font-size: 1.2rem; color: #333; font-weight: 600; }
+			a:hover { color: var(--accent); }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Posts tagged with "{tag}"</h1>
+			<ul>
+				{posts.map((post) => (
+					<li>
+						<a href={`/blog/${post.slug || post.id}/`}>{post.data.title}</a>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
 </html>
