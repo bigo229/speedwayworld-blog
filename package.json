@@ -1,0 +1,6 @@
+{
+  "name": "speedwayworld-static",
+  "scripts": {
+    "build": "echo 'Static build skipped'"
+  }
+}
