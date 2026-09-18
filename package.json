@@ -1,7 +1,12 @@
 {
-  "name": "speedwayworld-static",
+  "name": "speedwayworld-blog",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "build": "echo 'Static files ready'",
-    "deploy": "wrangler deploy"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   }
 }
