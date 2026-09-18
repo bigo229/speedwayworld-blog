@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "npm install @astrojs/mdx @astrojs/sitemap @astrojs/check --legacy-peer-deps && astro build --ignore-lock",
+    "build": "NODE_OPTIONS='--no-warnings' npm install @astrojs/mdx @astrojs/sitemap @astrojs/check --legacy-peer-deps && astro build --ignore-lock --force",
     "preview": "astro preview",
     "astro": "astro"
   },
