@@ -9,7 +9,7 @@ const allPosts = (await getCollection('blog')).sort(
 	(a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
 );
 
-// Force the home timeline to show the 10 most recent posts chronologically
+// Show the 10 most recent posts chronologically on page 1
 const posts = allPosts.slice(0, 10);
 const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags || []))].sort();
 
@@ -22,7 +22,7 @@ function groupByMonth(postsList) {
 		map.set(key, (map.get(key) || 0) + 1);
 	}
 	return Array.from(map.entries())
-		.sort((a, b) => b[0].localeCompare(a[0]))
+		.sort((a, b) => b.localeCompare(a))
 		.map(([key, count]) => {
 			const [year, month] = key.split('-');
 			const date = new Date(Number(year), Number(month) - 1);
@@ -43,14 +43,14 @@ const archives = groupByMonth(allPosts);
 			.hero-content { position: relative; z-index: 1; padding: 2rem; }
 			.hero h1 { font-size: clamp(2rem, 5vw, 3.5rem); margin: 0 0 0.5rem; font-family: var(--font-display); color: #fff; text-shadow: 0 2px 4px rgba(0,0,0,0.5); }
 			.hero p { font-size: 1.2rem; opacity: 0.95; max-width: 600px; margin: 0 auto; color: #fff; text-shadow: 0 1px 3px rgba(0,0,0,0.5); }
-			.main-layout { display: flex; gap: 2rem; max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }
+			.main-layout { display: flex; gap: 2rem; max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; box-sizing: border-box; }
 			.main-content { flex: 1; min-width: 0; }
 			.sidebar { flex: 0 0 280px; max-width: 280px; }
 			.post-card { background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 1.5rem; }
 			.post-card a { text-decoration: none; color: inherit; display: block; }
 			.post-card img { width: 100%; height: 220px; object-fit: cover; background: #eee; }
 			.post-card .content { padding: 1rem; }
-			.post-card h3 { font-size: 1.2rem; margin: 0 0 0.5rem; font-weight: 700; color: #222; }
+			.post-card h3 { font-size: 1.2rem; margin: 0 0 0.5rem; font-weight: 700; color: #222; line-height: 1.3; }
 			.post-card .meta { font-size: 0.85rem; color: #666; }
 			.sidebar-widget { background: #fff; border-radius: 8px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
 			.sidebar-widget h4 { margin: 0 0 0.75rem; font-size: 1rem; }
@@ -62,7 +62,10 @@ const archives = groupByMonth(allPosts);
 			.archive-list li { margin-bottom: 0.5rem; }
 			.archive-list a { color: #333; text-decoration: none; font-size: 0.9rem; display: flex; justify-content: space-between; }
 			.archive-list a:hover { color: var(--accent); }
-			@media (max-width: 840px) { .main-layout { flex-direction: column; } .sidebar { max-width: 100%; } }
+			.pagination { display: flex; justify-content: center; gap: 0.5rem; margin-top: 3rem; padding: 1rem 0; }
+			.pagination a, .pagination span { padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; color: #333; font-weight: 600; background: #eee; }
+			.pagination .current { background: var(--accent); color: #fff; }
+			@media (max-width: 840px) { .main-layout { flex-direction: column; } .sidebar { max-width: 100%; flex: none; } }
 		</style>
 	</head>
 	<body>
@@ -93,7 +96,14 @@ const archives = groupByMonth(allPosts);
 						</a>
 					</article>
 				))}
+				
+				<!-- CLEAN HOME PAGINATION CONTEXT -->
+				<nav class="pagination" aria-label="Pagination">
+					<span class="current">1</span>
+					<a href="/blog/2/">Next &raquo;</a>
+				</nav>
 			</main>
+			
 			<aside class="sidebar">
 				<div class="sidebar-widget">
 					<h4>Search</h4>
@@ -123,7 +133,7 @@ const archives = groupByMonth(allPosts);
 					</ul>
 				</div>
 			</aside>
-		</div>
+		</div> <!-- CRUCIAL CONTAINER CLOSURE FOR SIDEBAR GRIDS -->
 		<Footer />
 	</body>
 </html>
