@@ -5,7 +5,6 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
 
-// Safely pull and sort ALL posts chronologically so September sits at the top
 const posts = (await getCollection('blog')).sort(
 	(a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
 );
@@ -23,7 +22,10 @@ const posts = (await getCollection('blog')).sort(
 			ul li a { display: block; text-decoration: none; }
 			.title { margin: 0; color: #222; line-height: 1.2; font-size: 1.2rem; font-weight: 700; }
 			.date { margin: 0; color: #666; font-size: 0.9rem; }
-			@media (max-width: 720px) { ul li { width: 100%; } }
+			.pagination { display: flex; justify-content: center; gap: 0.5rem; margin-top: 3rem; }
+			.pagination a, .pagination span { padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; color: #333; font-weight: 600; background: #eee; }
+			.pagination .current { background: var(--accent); color: #fff; }
+			@media (max-width: 720px) { ul { gap: 1rem; } ul li { width: 100%; } }
 		</style>
 	</head>
 	<body>
@@ -31,7 +33,7 @@ const posts = (await getCollection('blog')).sort(
 		<main>
 			<section>
 				<ul>
-					{posts.map((post) => (
+					{posts.slice(0, 12).map((post) => (
 						<li>
 							<a href={`/blog/${post.slug || post.id}/`}>
 								<img src={post.data.heroImage || '/images/hero-header.jpg'} alt="" />
@@ -47,6 +49,14 @@ const posts = (await getCollection('blog')).sort(
 					))}
 				</ul>
 			</section>
+			
+			<!-- CLEAN DYNAMIC BLOG PAGINATION CONTEXT -->
+			<nav class="pagination" aria-label="Pagination">
+				<a href="/">&larr; Home</a>
+				<span class="current">1</span>
+				<a href="/blog/2/">2</a>
+				<a href="/blog/2/">Next &rarr;</a>
+			</nav>
 		</main>
 		<Footer />
 	</body>
