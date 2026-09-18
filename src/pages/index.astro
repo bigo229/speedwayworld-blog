@@ -22,7 +22,7 @@ function groupByMonth(postsList) {
 		map.set(key, (map.get(key) || 0) + 1);
 	}
 	return Array.from(map.entries())
-		.sort((a, b) => b.localeCompare(a))
+	.sort((a, b) => b[0].localeCompare(a[0]))
 		.map(([key, count]) => {
 			const [year, month] = key.split('-');
 			const date = new Date(Number(year), Number(month) - 1);
