@@ -7,8 +7,8 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 const allPosts = await getCollection('blog');
 const searchIndex = allPosts.map(post => ({
-	title: post.data.title,
-	slug: post.slug || post.id
+	title: post.data.title || '',
+	slug: post.slug || post.id || ''
 }));
 ---
 
@@ -17,12 +17,13 @@ const searchIndex = allPosts.map(post => ({
 	<head>
 		<BaseHead title={`Search Results | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
-			main { max-width: 800px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
+			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
 			.search-box { margin-bottom: 2rem; }
 			input { width: 100%; padding: 0.8rem; border: 1px solid #ccc; border-radius: 6px; font-size: 1rem; }
-			.result-item { margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
-			.result-item a { text-decoration: none; color: #222; font-weight: bold; font-size: 1.2rem; }
-			.result-item a:hover { color: var(--accent); }
+			.grid { display: flex; flex-wrap: wrap; gap: 2rem; list-style: none; padding: 0; margin: 2rem 0 0; }
+			.grid li { width: 100%; }
+			.post-card { background: #fff; border-radius: 8px; padding: 1.5rem; border: 1px solid #eee; box-shadow: 0 2px 5px rgba(0,0,0,0.05); display: block; text-decoration: none; }
+			.post-card h4 { margin: 0; font-size: 1.2rem; color: var(--accent); }
 		</style>
 	</head>
 	<body>
@@ -30,38 +31,48 @@ const searchIndex = allPosts.map(post => ({
 		<main>
 			<h1>Search Results</h1>
 			<div class="search-box">
-				<input type="text" id="search-input" placeholder="Type keywords here to filter speedway stories..." />
+				<input type="text" id="search-input" placeholder="Type here to refine your search..." />
 			</div>
-			<div id="results-container"></div>
+			<ul class="grid" id="results-container"></ul>
 		</main>
 		<Footer />
 
 		<script define:vars={{ searchIndex }}>
-			function runSearch() {
-				const params = new URLSearchParams(window.location.search);
-				const query = (params.get('q') || '').trim().toLowerCase();
-				const input = document.getElementById('search-input');
-				const container = document.getElementById('results-container');
+			function performSearch() {
+				const urlParams = new URLSearchParams(window.location.search);
+				// Unescape the URL query string and convert '+' markers back to spaces cleanly
+				const queryRaw = urlParams.get('q') || '';
+				const queryStr = decodeURIComponent(queryRaw.replace(/\+/g, ' ')).trim().toLowerCase();
 				
-				if (query) {
-					input.value = query;
-					const filtered = searchIndex.filter(post => 
-						post.title.toLowerCase().includes(query)
-					);
-					if (filtered.length > 0) {
-						container.innerHTML = filtered.map(post => `
-							<div class="result-item">
-								<a href="/blog/${post.slug}/">${post.title}</a>
-							</div>
+				const inputEl = document.getElementById('search-input');
+				const containerEl = document.getElementById('results-container');
+				
+				if (queryStr) {
+					inputEl.value = queryStr;
+					// Split input phrases into an array of isolated keyword items
+					const keywords = queryStr.split(/\s+/);
+					
+					const matches = searchIndex.filter(post => {
+						const titleLower = post.title.toLowerCase();
+						return keywords.every(word => titleLower.includes(word));
+					});
+
+					if (matches.length > 0) {
+						containerEl.innerHTML = matches.map(post => `
+							<li>
+								<a class="post-card" href="/blog/${post.slug}/">
+									<h4>${post.title}</h4>
+								</a>
+							</li>
 						`).join('');
 						return;
 					}
 				}
-				container.innerHTML = '<p style="color:#666;">No matching speedway stories found. Try typing another keyword above!</p>';
+				containerEl.innerHTML = '<p style="color:#666; padding: 1rem;">No matching articles found. Try another keyword string above!</p>';
 			}
-			
-			window.addEventListener('DOMContentLoaded', runSearch);
-			document.getElementById('search-input').addEventListener('keyup', (e) => {
+
+			window.addEventListener('DOMContentLoaded', performSearch);
+			document.getElementById('search-input').addEventListener('keypress', (e) => {
 				if (e.key === 'Enter') {
 					window.location.search = `?q=${encodeURIComponent(e.target.value)}`;
 				}
