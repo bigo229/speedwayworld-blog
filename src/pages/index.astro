@@ -20,10 +20,23 @@ const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags))].sort();
 function groupByMonth(posts) {
 	const map = new Map();
 	for (const post of posts) {
-		const d = post.data.pubDate;
-		const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+		// Securely handle date strings or objects on the fly
+		const d = post.data.pubDate instanceof Date ? post.data.pubDate : new Date(post.data.pubDate);
+		const validDate = isNaN(d.getTime()) ? new Date() : d;
+		
+		const key = `${validDate.getFullYear()}-${String(validDate.getMonth() + 1).padStart(2, '0')}`;
 		map.set(key, (map.get(key) || 0) + 1);
 	}
+	return Array.from(map.entries())
+		.sort((a, b) => b[0].localeCompare(a[0]))
+		.map(([key, count]) => {
+			const [year, month] = key.split('-');
+			const date = new Date(Number(year), Number(month) - 1);
+			const label = date.toLocaleString('default', { month: 'long', year: 'numeric' });
+			return { key, label, count, year, month };
+		});
+}
+
 	return Array.from(map.entries())
 		.sort((a, b) => b[0].localeCompare(a[0]))
 		.map(([key, count]) => {
