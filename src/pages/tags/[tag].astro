@@ -30,14 +30,16 @@ const { posts } = Astro.props;
 	<head>
 		<BaseHead title={`Posts Tagged "${tag}" | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
-			main { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }
+			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
 			.grid { display: flex; flex-wrap: wrap; gap: 2rem; list-style: none; padding: 0; margin: 2rem 0 0; }
 			.grid li { width: calc(50% - 1rem); }
 			.post-card { background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); display: block; text-decoration: none; color: inherit; }
-			.post-card img { width: 100%; height: 240px; object-fit: cover; }
+			.post-card img { width: 100%; height: 240px; object-fit: cover; background: #eee; }
 			.content { padding: 1rem; }
-			.title { margin: 0 0 0.5rem; font-size: 1.2rem; color: #222; }
+			.title { margin: 0 0 0.5rem; font-size: 1.2rem; color: #222; font-weight: 700; line-height: 1.3; }
 			.date { margin: 0; font-size: 0.85rem; color: #666; }
+			.pagination { display: flex; justify-content: center; margin-top: 3rem; }
+			.pagination a { padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; color: #333; font-weight: 600; background: #eee; }
 			@media (max-width: 720px) { .grid li { width: 100%; } }
 		</style>
 	</head>
@@ -49,7 +51,7 @@ const { posts } = Astro.props;
 				{posts.map((post) => (
 					<li>
 						<a class="post-card" href={`/blog/${post.slug || post.id}/`}>
-							{post.data.heroImage && <img src={post.data.heroImage} alt="" />}
+							<img src={post.data.heroImage || '/images/hero-header.jpg'} alt="" />
 							<div class="content">
 								<h4 class="title">{post.data.title}</h4>
 								<p class="date">
@@ -63,6 +65,9 @@ const { posts } = Astro.props;
 					</li>
 				))}
 			</ul>
+			<nav class="pagination">
+				<a href="/">&larr; Back to Home</a>
+			</nav>
 		</main>
 		<Footer />
 	</body>
