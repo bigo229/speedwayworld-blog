@@ -44,10 +44,12 @@ function groupByMonth(posts) {
 			const date = new Date(Number(year), Number(month) - 1);
 			const label = date.toLocaleString('default', { month: 'long', year: 'numeric' });
 			return { key, label, count, year, month };
-		});
-}
+	});
+} // This is the final closing brace of the function block!
+
 const archives = groupByMonth(allPosts);
 ---
+
 
 <!doctype html>
 <html lang="en">
