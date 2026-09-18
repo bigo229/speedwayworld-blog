@@ -8,8 +8,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 const allPosts = await getCollection('blog');
 const searchIndex = allPosts.map(post => ({
 	title: post.data.title,
-	slug: post.slug || post.id,
-	date: post.data.pubDate
+	slug: post.slug || post.id
 }));
 ---
 
@@ -22,7 +21,8 @@ const searchIndex = allPosts.map(post => ({
 			.search-box { margin-bottom: 2rem; }
 			input { width: 100%; padding: 0.8rem; border: 1px solid #ccc; border-radius: 6px; font-size: 1rem; }
 			.result-item { margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
-			.result-item a { text-decoration: none; color: var(--accent); font-weight: bold; font-size: 1.2rem; }
+			.result-item a { text-decoration: none; color: #222; font-weight: bold; font-size: 1.2rem; }
+			.result-item a:hover { color: var(--accent); }
 		</style>
 	</head>
 	<body>
@@ -37,33 +37,35 @@ const searchIndex = allPosts.map(post => ({
 		<Footer />
 
 		<script define:vars={{ searchIndex }}>
-			const params = new URLSearchParams(window.location.search);
-			const query = params.get('q') || '';
-			const input = document.getElementById('search-input');
-			input.value = query;
-
-			function runSearch(keyword) {
+			function runSearch() {
+				const params = new URLSearchParams(window.location.search);
+				const query = (params.get('q') || '').trim().toLowerCase();
+				const input = document.getElementById('search-input');
 				const container = document.getElementById('results-container');
-				if (!keyword.trim()) {
-					container.innerHTML = '<p>Please enter keywords above.</p>';
-					return;
+				
+				if (query) {
+					input.value = query;
+					const filtered = searchIndex.filter(post => 
+						post.title.toLowerCase().includes(query)
+					);
+					if (filtered.length > 0) {
+						container.innerHTML = filtered.map(post => `
+							<div class="result-item">
+								<a href="/blog/${post.slug}/">${post.title}</a>
+							</div>
+						`).join('');
+						return;
+					}
 				}
-				const filtered = searchIndex.filter(post => 
-					post.title.toLowerCase().includes(keyword.toLowerCase())
-				);
-				if (filtered.length === 0) {
-					container.innerHTML = '<p>No speedway matches found.</p>';
-					return;
-				}
-				container.innerHTML = filtered.map(post => `
-					<div class="result-item">
-						<a href="/blog/${post.slug}/">${post.title}</a>
-					</div>
-				`).join('');
+				container.innerHTML = '<p style="color:#666;">No matching speedway stories found. Try typing another keyword above!</p>';
 			}
-
-			runSearch(query);
-			input.addEventListener('input', (e) => runSearch(e.target.value));
+			
+			window.addEventListener('DOMContentLoaded', runSearch);
+			document.getElementById('search-input').addEventListener('keyup', (e) => {
+				if (e.key === 'Enter') {
+					window.location.search = `?q=${encodeURIComponent(e.target.value)}`;
+				}
+			});
 		</script>
 	</body>
 </html>
