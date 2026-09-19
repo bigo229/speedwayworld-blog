@@ -44,8 +44,8 @@ Visit `/admin` to manage blog posts.
 
 Before first use:
 1. Create a GitHub OAuth App at https://github.com/settings/developers
-   - Homepage URL: `https://speedwayworld.x10.bz`
-   - Authorization callback URL: `[https://speedwayworld-blog.bigo229.workers.dev/](https://speedwayworld-blog.bigo229.workers.dev/)/admin/`
+   - Homepage URL: `https://speedwayworld-blog.bigo229.workers.dev`
+   - Authorization callback URL: `https://speedwayworld-blog.bigo229.workers.dev/admin/`
 2. Update `public/admin/config.yml` with your repo owner/name and OAuth client ID
 3. Set `ADMIN_PASSWORD` in Cloudflare Pages environment variables (optional, for API proxy)
 
