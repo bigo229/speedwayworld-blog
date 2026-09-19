@@ -77,7 +77,7 @@ Runner-up Madsen was delighted to keep himself firmly in the race for qualificat
 > “Hopefully I can come back next year and be better prepared when the season starts. I want to get back up the top and fight for a medal. I think I still have it in me. I really want to do my best to stay in the GP next season and come back stronger.”
 
 <br>
-![Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski](/images/blog/madsen-2026-09-12-large-scaled.jpg)Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski
+![Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski](images/blog/madsen-2026-09-12-large-scaled.jpg)Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski
 <br>
 
 **Madsen can’t wait for a night of high drama in Torun. He said:**
@@ -94,7 +94,7 @@ Runner-up Madsen was delighted to keep himself firmly in the race for qualificat
 
 > “I am just happy to be up there in the points, battling for that top-seven position. Overall, it was just a good day, and I am happy with it. Hats off to everyone involved – all the track staff – for making sure we got this on, given the amount of rain we had over the course of the day. I think the track held up pretty well considering.”
 
-![Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski](/images/blog/404_Woryna-Fricke-Madsen-Lebedevs-large-scaled.jpg)Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski
+![Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski](images/blog/404_Woryna-Fricke-Madsen-Lebedevs-large-scaled.jpg)Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski
 
 **Fricke can’t wait for some tense title and qualification tussles in Torun. He added:** 
 
