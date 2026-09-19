@@ -9,7 +9,6 @@ pubDate: 2026-09-10
 tags:
 - news
 - SGB
-title: Latest Speedway League Standings & Championship Tables (2026)
 ---
 
 **Keep track of the official speedway league standings and championship tables as the 2026 racing season reaches its decisive final phases.**
