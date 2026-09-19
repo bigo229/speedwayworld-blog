@@ -1,14 +1,14 @@
 ---
-title: "Motor Lublin vs Apator Torun (42-48) PGE Ekstraliga Play-Off Race Results"
-pubDate: "2026-09-06"
-description: "Official match results, scorecard tables, and complete heat-by-heat summaries from the clash between Motor Lublin and Apator Torun."
-author: "SpeedwayWorld WebTeam"
+title: Motor Lublin vs Apator Torun (42-48) PGE Ekstraliga Play-Off Race Results
+pubDate: '2026-09-06'
+description: Official match results, scorecard tables, and complete heat-by-heat summaries from the clash between Motor Lublin and Apator Torun.
+author: SpeedwayWorld WebTeam
+heroImage: /images/blog/league-tables/polish-pge-league-table3-scaled.jpg
 tags:
-  - "news"
-  - "PGE"
-  - "Ekstraliga"
-category: "Polish Speedway"
-heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg
+  - news
+  - PGE
+  - Ekstraliga
+category: Polish Speedway
 ---
 
 **An intense PGE Ekstraliga play-off fixture concluded between Motor Lublin and Apator Torun, ending in a dramatic final scoreline of 42-48.**
