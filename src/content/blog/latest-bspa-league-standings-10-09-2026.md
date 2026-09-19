@@ -5,7 +5,7 @@ category: British Speedway
 description: Current speedway championship standings and league tables. Track updated
   points, team positions, and rider leaderboards across the major leagues.
 heroImage: /images/blog/league-tables/speedway-standings-hero-scaled.jpg
-pubDate: '2026-09-10'
+pubDate: 2026-09-10
 tags:
 - news
 - SGB
