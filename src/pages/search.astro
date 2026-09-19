@@ -20,7 +20,8 @@ const searchIndex = allPosts.map(post => ({
 <html lang="en">
 	<head>
 		<BaseHead title={`Search Results | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
-		<style>
+        <meta name="robots" content="noindex, nofollow" />		
+        <style>
 			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
 			.search-box { margin-bottom: 2rem; }
 			input { width: 100%; padding: 0.8rem; border: 1px solid #ccc; border-radius: 6px; font-size: 1rem; }
