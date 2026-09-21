@@ -15,7 +15,6 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 
 <html lang="en">
 	<head>
-		<!-- Restored your original meta configuration properties -->
 		<BaseHead 
 			title={title} 
 			description={description} 
@@ -80,9 +79,8 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 				margin: auto;
 				padding: 1em;
 				color: rgb(var(--gray-dark));
-				text-align: left; /* Restores clean text justification */
+				text-align: left;
 			}
-			/* Restored your original native markdown image formatting */
 			.prose :global(img) {
 				max-width: 100%;
 				height: auto;
@@ -90,13 +88,11 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 				display: block;
 				margin: 1.5rem auto;
 			}
-			/* Added safety override to make sure text strings format naturally */
 			.prose :global(p) {
 				text-align: left;
 				line-height: 1.7;
 				margin-bottom: 1em;
 			}
-			/* Added safety override for list objects if present */
 			.prose :global(ul), .prose :global(ol) {
 				text-align: left;
 			}
@@ -177,7 +173,6 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 					</div>
 				)}
 				
-				<!-- The clean content slot that maps your text columns down perfectly centered -->
 				<div class="prose">
 					<slot />
 				</div>
