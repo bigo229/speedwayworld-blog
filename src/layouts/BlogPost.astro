@@ -19,8 +19,8 @@ const { title, description, pubDate, updatedDate, heroImage, tags = [] } = Astro
 			description={description} 
 			image={heroImage}
 			type="article"
-			publishedTime={pubDate ? pubDate.toISOString() : undefined}
-			modifiedTime={updatedDate ? updatedDate.toISOString() : undefined}
+			publishedTime={pubDate ? new Date(pubDate).toISOString() : undefined}
+			modifiedTime={updatedDate ? new Date(updatedDate).toISOString() : undefined}
 			tags={tags}
 		/>
 		<style>
