@@ -4,7 +4,7 @@ author: SpeedwayWorld WebTeam
 category: Speedway Grand Prix Series
 description: Speedway Grand Prix results from Vojens with Lambert the winner.
 heroImage: /images/blog/Madsen-Lambert-Fricke-2026-09-12_WST_9957-large-scaled.jpg
-pubDate: '2026-09-12'
+pubDate: 2026-09-12
 tags:
 - news
 - SGP
