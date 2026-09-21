@@ -421,15 +421,17 @@ footer .social-links a:hover {
 	color: var(--accent);
 	font-weight: 600;
 }
-/* Bulletproof target: Matches any regular text paragraph that directly follows an image paragraph */
-.main-content p:has(img) + p,
+/* Deep selection targeting: Force-shrinks paragraphs used as image captions inside markdown */
+main img + p,
+article img + p,
 .main-content img + p,
-article p img + p {
-  font-size: 0.75rem !important;      /* Forces a noticeably smaller font size (roughly 12px) */
-  color: var(--text-light) !important;/* Uses your theme's native muted gray */
-  margin-top: 0.2rem !important;      /* Snaps the caption up close under the graphic */
-  margin-bottom: 1.8rem !important;   /* Puts a clean separation before the next block of post content */
-  text-align: center !important;       /* Centers the text */
+.main-content p img + p,
+p:has(img) + p {
+  font-size: 0.7rem !important;       /* Noticeably smaller text layout */
+  color: var(--text-light) !important;/* Native lighter gray tone */
+  margin-top: 0.3rem !important;      /* Snaps text under the image border */
+  margin-bottom: 1.8rem !important;   /* Clean spacing before the next article paragraph */
+  text-align: center !important;      /* Centers caption horizontal alignment */
   display: block !important;
 }
 
