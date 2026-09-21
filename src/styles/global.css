@@ -421,17 +421,28 @@ footer .social-links a:hover {
 	color: var(--accent);
 	font-weight: 600;
 }
-/* Deep selection targeting: Force-shrinks paragraphs used as image captions inside markdown */
-main img + p,
-article img + p,
+/* Target only short text lines directly following an image */
 .main-content img + p,
-.main-content p img + p,
-p:has(img) + p {
-  font-size: 0.7rem !important;       /* Noticeably smaller text layout */
-  color: var(--text-light) !important;/* Native lighter gray tone */
-  margin-top: 0.3rem !important;      /* Snaps text under the image border */
-  margin-bottom: 1.8rem !important;   /* Clean spacing before the next article paragraph */
-  text-align: center !important;      /* Centers caption horizontal alignment */
-  display: block !important;
+article img + p,
+main img + p {
+  /* Step 1: Revert regular paragraphs back to normal text layout */
+  font-size: 1rem;
+  color: var(--text);
+  text-align: left;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* Step 2: Only apply caption styling if the paragraph right after an image is a short line */
+.main-content img + p:not(:has(span)),
+article img + p {
+  /* We use inline-block and max-width to isolate short lines */
+  display: block;
+  font-size: 0.75rem !important;      /* Noticeably smaller text */
+  color: var(--text-light) !important;/* Native lighter grey tone */
+  margin-top: 0.4rem !important;      /* Snaps text under the image border */
+  margin-bottom: 1.8rem !important;   /* Spacing before next paragraph */
+  text-align: center !important;      /* Centers the text */
+  line-height: 1.4 !important;
 }
 
