@@ -65,9 +65,9 @@ tags:
 | 7 | **Kacper Mania** | 1, T, - | **1** |
 | 8 | **Emil Konieczny** | 0 | **0** |
 
-<br/ >
+<br>
 
-### Heat-by-Heat Race Result Breakdown
+#### Heat-by-Heat Race Result Breakdown
 
 * SPARTA WROCLAW (45)
 * (100:80)
