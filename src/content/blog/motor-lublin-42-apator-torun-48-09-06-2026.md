@@ -324,14 +324,11 @@ Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+
 
 > Mikołaj Duchiński was voted Red Bull Junior Ace.
 
-* 
-
 ***
 
 *Official match tracking results verified via Ekstraliga databases.*
 
 ***
-
 
 *News and Image Credits:*
 * Content courtesy of [EKSTRALIGA.PL/EN/SE/](https://ekstraliga.pl/en/se/news)
