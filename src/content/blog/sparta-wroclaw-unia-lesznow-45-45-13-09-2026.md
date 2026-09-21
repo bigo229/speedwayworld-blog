@@ -106,6 +106,8 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > It is worth mentioning that during the presentation it was announced that Maciej Janowski would remain in the colors of BETARD SPARTY Wrocław for the 2027 season.
 
+<br>
+
 #### 🏁 Heat 2
 
 | Pos | Rider | Team | Points |
@@ -120,6 +122,8 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > Marcel Kowolik won the start, but he mishandled the first bend, sliding wide, where he couldn't find the speed and dropped to last place. Parnitskyi was far ahead, and a tense battle for points raged between Andersen, Mania, and Kowolik, with Kowolik finishing last.
 
+<br>
+
 ### 🏁 Heat 3
 
 | Pos | Rider | Team | Points |
@@ -133,6 +137,8 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 * **Running Score:** Wrocław 8 – 10 Leszno
 
 > Bewley won the race, but Janusz Kołodziej could have driven with his eyes closed in Wrocław – the Pole picked up speed and passed Bewley. Laguta skillfully blocked Pawlicki. Bewley kept searching for speed to catch Kołodziej, but Kołodziej rode intelligently and didn't let himself be caught.
+
+<br>
 
 ### 🏁 Heat 4
 
