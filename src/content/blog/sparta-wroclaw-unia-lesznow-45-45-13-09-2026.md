@@ -348,7 +348,6 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 * **Final Match Score:** Wrocław 45 – 45 Leszno
 
 > The Wrocław team saved the best for last – a dynamo start by the Kurtz-Bewley pair. The Englishman still had to power his bike wide to get around his rivals, but he did it perfectly. A draw in the second leg of the PGE Ekstraliga semifinal.
-* 
 
 ***
 
