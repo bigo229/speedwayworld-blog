@@ -1,5 +1,5 @@
 ---
-title: PGE Ekstraliga Table 2026: Official Polish Speedway Standings
+title: PGE Ekstraliga Table 2026 Official Polish Speedway Standings
 pubDate: 2026-09-10
 description: Latest 2026 PGE Ekstraliga speedway league table and play-off results. Track team points, bonus points, and match differences for the Polish Ekstraliga.
 author: SpeedwayWorld WebTeam
