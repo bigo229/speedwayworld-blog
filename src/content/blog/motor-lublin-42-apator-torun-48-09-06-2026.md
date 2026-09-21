@@ -25,7 +25,7 @@ category: Polish Speedway
 
 <br>
 
-## Official Team Scorecards
+### Official Team Scorecards
 
 <br>
 
@@ -34,7 +34,7 @@ category: Polish Speedway
 <br>
 
 
-### 🏁 Motor Lublin (42)
+#### 🏁 Motor Lublin (42)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 9 | **Martin Vaculik** | 0, 1', -, 1 | **2+1** |
@@ -51,7 +51,7 @@ category: Polish Speedway
 
 <br>
 
-### 🏁 Apator Torun (48)
+#### 🏁 Apator Torun (48)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 1 | **Patryk Dudek** | 3, 0, 1', 0 | **4+1** |
@@ -64,17 +64,17 @@ category: Polish Speedway
 
 <br>
 
-🏁 Motor Lublin (42 Points)
+#### 🏁 Motor Lublin (42 Points)
 Top scorers for Lublin included Bartosz Zmarzlik with a dominant 14 points, 
 Mateusz Cierniak with 9 points, and Kacper Woryna contributing 8 points. Additional points 
 came from Fredrik Lindgren (4), Martin Vaculik (2+1),while Bartosz Bańbor (2+1) and Bartosz Jaworski (3+1).
 
-🏁 Apator Torun (48 Points)
+#### 🏁 Apator Torun (48 Points)
 Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+1 points) led the scoring , followed by Norick Bloedorn with 9+2 points and Robert Lambert with 6 points
 
 <br>
 
-## Heat-by-Heat Race Result Breakdown
+### Heat-by-Heat Race Result Breakdown
 
 * Motor Lublin 42 (Home Team)
 * Apator Torun 48 (Away Team)
