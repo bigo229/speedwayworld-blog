@@ -1,40 +1,25 @@
 ---
-title: Motor Lublin vs Apator Torun (42-48) PGE Ekstraliga Play-Off Race Results
-pubDate: '2026-09-06'
-description: Official match results, scorecard tables, and complete heat-by-heat summaries from the clash between Motor Lublin and Apator Torun.
-author: SpeedwayWorld WebTeam
-heroImage: /images/blog/league-tables/polish-pge-league-table3-scaled.jpg
+title: "Motor Lublin vs Apator Torun (42-48) PGE Ekstraliga Play-Off Race Results"
+pubDate: "2026-09-06"
+description: "Official match results, scorecard tables, and complete heat-by-heat summaries from the clash between Motor Lublin and Apator Torun."
+author: "SpeedwayWorld WebTeam"
 tags:
-  - news
-  - PGE
-  - Ekstraliga
-category: Polish Speedway
+  - "news"
+  - "PGE"
+  - "Ekstraliga"
+category: "Polish Speedway"
+heroImage: "/images/blog/league-tables/polish-pge-league-table3-scaled.jpg
 ---
 
 **An intense PGE Ekstraliga play-off fixture concluded between Motor Lublin and Apator Torun, ending in a dramatic final scoreline of 42-48.**
 
 ![pge-ekstraliga-1-scaled](/images/blog/league-tables/pge-ekstraliga-1-scaled.jpg)
+![Motor Lublin](/images/blog/league-tables/motor-150x150.jpg =128x128)
+![Apator Torun](/images/blog/league-tables/ks-torun-128x128.jpg)
 
-<br>
+## Official Team Scorecards
 
-<img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
-
-<br>
-
-<img src="/images/blog/league-tables/ks-torun-128x128.jpg" alt="Apator Torun" width="80" />
-
-<br>
-
-### Official Team Scorecards
-
-<br>
-
-<img src="/images/blog/league-tables/motor-150x150.jpg" alt="Motor Lublin" width="80" />
-
-<br>
-
-
-#### 🏁 Motor Lublin (42)
+### 🏁 Motor Lublin (42)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 9 | **Martin Vaculik** | 0, 1', -, 1 | **2+1** |
@@ -45,13 +30,7 @@ category: Polish Speedway
 | 14 | **Bartosz Bańbor** | 1, 1', 0 | **2+1** |
 | 15 | **Bartosz Jaworski** | 0, 1, 2' | **3+1** |
 
-<br>
-
-<img src="/images/blog/league-tables/ks-torun-128x128.jpg" alt="Apator Torun" width="80" />
-
-<br>
-
-#### 🏁 Apator Torun (48)
+### 🏁 Apator Torun (48)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 1 | **Patryk Dudek** | 3, 0, 1', 0 | **4+1** |
@@ -62,19 +41,17 @@ category: Polish Speedway
 | 6 | **Antoni Kawczyński** | 2', 0, 0, 1 | **3+1** |
 | 7 | **Mikołaj Duchiński** | 3, 0, 0 | **3** |
 
-<br>
 
-#### 🏁 Motor Lublin (42 Points)
+🏁 Motor Lublin (42 Points)
 Top scorers for Lublin included Bartosz Zmarzlik with a dominant 14 points, 
 Mateusz Cierniak with 9 points, and Kacper Woryna contributing 8 points. Additional points 
 came from Fredrik Lindgren (4), Martin Vaculik (2+1),while Bartosz Bańbor (2+1) and Bartosz Jaworski (3+1).
 
-#### 🏁 Apator Torun (48 Points)
+🏁 Apator Torun (48 Points)
 Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+1 points) led the scoring , followed by Norick Bloedorn with 9+2 points and Robert Lambert with 6 points
 
-<br>
 
-### Heat-by-Heat Race Result Breakdown
+## Heat-by-Heat Race Result Breakdown
 
 * Motor Lublin 42 (Home Team)
 * Apator Torun 48 (Away Team)
@@ -324,11 +301,14 @@ Top scorers for Torun, Mikkel Michelsen with 12 points and Emil Sajfutdinow (11+
 
 > Mikołaj Duchiński was voted Red Bull Junior Ace.
 
+* 
+
 ***
 
 *Official match tracking results verified via Ekstraliga databases.*
 
 ***
+
 
 *News and Image Credits:*
 * Content courtesy of [EKSTRALIGA.PL/EN/SE/](https://ekstraliga.pl/en/se/news)
