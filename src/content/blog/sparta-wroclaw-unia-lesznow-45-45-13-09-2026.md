@@ -28,7 +28,7 @@ tags:
 
 <br>
 
-### Official Team Scorecards
+#### Official Team Scorecards
 
 <br>
 
@@ -65,6 +65,8 @@ tags:
 | 7 | **Kacper Mania** | 1, T, - | **1** |
 | 8 | **Emil Konieczny** | 0 | **0** |
 
+<br/ >
+
 ### Heat-by-Heat Race Result Breakdown
 
 * SPARTA WROCLAW (45)
@@ -88,7 +90,7 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 <br>
 
-### 🏁 Heat 1
+#### 🏁 Heat 1
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -104,7 +106,7 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > It is worth mentioning that during the presentation it was announced that Maciej Janowski would remain in the colors of BETARD SPARTY Wrocław for the 2027 season.
 
-### 🏁 Heat 2
+#### 🏁 Heat 2
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
