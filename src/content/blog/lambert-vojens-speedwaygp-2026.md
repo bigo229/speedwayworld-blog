@@ -1,4 +1,5 @@
 ---
+title: Lambert wins Vojens Speedway GrandPrix 2026
 author: SpeedwayWorld WebTeam
 category: Speedway Grand Prix Series
 description: Speedway Grand Prix results from Vojens with Lambert the winner.
@@ -8,7 +9,6 @@ tags:
 - news
 - SGP
 - FIM
-title: Lambert wins Vojens Speedway GrandPrix 2026
 ---
 
 **Great Britain racer Robert Lambert insists there’s still no pressure on his shoulders in the Speedway GP World Championship race after surging top with victory at the 2026 Deluxe Homeart FIM Speedway GP of Denmark – Vojens on Saturday.**
@@ -21,7 +21,8 @@ Lambert, who also picked up three points for finishing second in the afternoon s
 
 Last year’s runner-up **Brady Kurtz is third overall** on 139 and will also hope to improve on 2025 silver after falling just a point short of gold. **All three riders are guaranteed at least a bronze medal** with one round remaining.
 
-![Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski](/images/blog/lambert-kurtz-2026-09-12-large-scaled.jpg)<small class="blog-caption">Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski</small>
+![Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski](/images/blog/lambert-kurtz-2026-09-12-large-scaled.jpg)
+<small class="blog-caption">Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski</small>
 
 The champion will be crowned at the [**DEWALT FIM Speedway GP of Poland – Torun on September 26**](https://fimspeedway.com/rounds/2026-dewalt-fim-speedway-gp-of-poland-torun), and after taking the Golden Race Jacket in Vojens, Lambert would love to end the night wearing it and lift the sport's biggest prize in the city he calls home.
 
@@ -35,7 +36,8 @@ The champion will be crowned at the [**DEWALT FIM Speedway GP of Poland – Toru
 
 > “There is no pressure on me – like there hasn’t been all season. The pressure is on Bartek to retain it and Brady, after being so close last year, to try and make it. If I just do what I have been doing, I’m sure whatever the result will be, will be a good one.”
 
-![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg)<small class="blog-caption">Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski</small>
+![Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski](/images/blog/Zmarzlik-Chomski-large-scaled.jpg)
+<small class="blog-caption">Zmarzlik chats to Polish boss Stanislaw Chomski. PHOTO: Marcin Karczewski</small>
 
 
 **Lambert has now finished in the top two at the last five SGP events** – winning two and finishing second in three. This consistency was tested in some wet conditions in Vojens.
@@ -53,7 +55,8 @@ The Great Britain captain hopes that experience will stand him in good stead.
 
 > “I have some fond memories from that and if I can find my form in the same way, it will be a good night.”
 
-![Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski](/images/blog/511_Madsen-Lambert-large-scaled.jpg)<small class="blog-caption">Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski</small>
+![Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski](/images/blog/511_Madsen-Lambert-large-scaled.jpg)
+<small class="blog-caption">Madsen (left) celebrates with Lambert on the podium. PHOTO: Marcin Karczewski</small>
 
 While Torun is set to witness the climax of **one of Speedway GP’s all-time great title races**, it will also play host to an incredible battle for **the final automatic qualification places for the 2027 World Championship**.
 
@@ -71,7 +74,8 @@ Runner-up Madsen was delighted to keep himself firmly in the race for qualificat
 
 > “Hopefully I can come back next year and be better prepared when the season starts. I want to get back up the top and fight for a medal. I think I still have it in me. I really want to do my best to stay in the GP next season and come back stronger.”
 
-![Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski](/images/blog/madsen-2026-09-12-large-scaled.jpg)<small class="blog-caption">Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski</small>
+![Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski](/images/blog/madsen-2026-09-12-large-scaled.jpg)
+<small class="blog-caption">Madsen stepped up his 2027 qualification bid in Vojens. PHOTO: Wojciech Tarchalski</small>
 
 **Madsen can’t wait for a night of high drama in Torun. He said:**
 
@@ -87,7 +91,8 @@ Runner-up Madsen was delighted to keep himself firmly in the race for qualificat
 
 > “I am just happy to be up there in the points, battling for that top-seven position. Overall, it was just a good day, and I am happy with it. Hats off to everyone involved – all the track staff – for making sure we got this on, given the amount of rain we had over the course of the day. I think the track held up pretty well considering.”
 
-![Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski](/images/blog/404_Woryna-Fricke-Madsen-Lebedevs-large-scaled.jpg)<small class="blog-caption">Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski</small>
+![Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski](/images/blog/404_Woryna-Fricke-Madsen-Lebedevs-large-scaled.jpg)
+<small class="blog-caption">Fricke (yellow helmet) edges ahead in Vojens. PHOTO: Marcin Karczewski</small>
 
 **Fricke can’t wait for some tense title and qualification tussles in Torun. He added:** 
 
