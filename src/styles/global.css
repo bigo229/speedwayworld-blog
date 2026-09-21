@@ -421,28 +421,13 @@ footer .social-links a:hover {
 	color: var(--accent);
 	font-weight: 600;
 }
-/* Target only short text lines directly following an image */
-.main-content img + p,
-article img + p,
-main img + p {
-  /* Step 1: Revert regular paragraphs back to normal text layout */
-  font-size: 1rem;
-  color: var(--text);
-  text-align: left;
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-/* Step 2: Only apply caption styling if the paragraph right after an image is a short line */
-.main-content img + p:not(:has(span)),
-article img + p {
-  /* We use inline-block and max-width to isolate short lines */
+/* Explicit target rule for your custom markdown image captions */
+.blog-caption {
   display: block;
-  font-size: 0.75rem !important;      /* Noticeably smaller text */
-  color: var(--text-light) !important;/* Native lighter grey tone */
-  margin-top: 0.4rem !important;      /* Snaps text under the image border */
-  margin-bottom: 1.8rem !important;   /* Spacing before next paragraph */
-  text-align: center !important;      /* Centers the text */
+  font-size: 0.75rem !important;       /* Keeps the caption text smaller */
+  color: #6b7280 !important;           /* Changes the text colour to a distinct grey */
+  text-align: center !important;       /* Centers the text under the image */
+  margin-top: 0.4rem !important;       /* Pulls it up close to the image border */
+  margin-bottom: 1.8rem !important;    /* Creates a healthy gap before the next paragraph */
   line-height: 1.4 !important;
 }
-
