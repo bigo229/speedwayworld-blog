@@ -28,7 +28,7 @@ tags:
 
 <br>
 
-## Official Team Scorecards
+### Official Team Scorecards
 
 <br>
 
@@ -36,7 +36,7 @@ tags:
 
 <br>
  
-### 🏁 SPARTA WROCLAW   (45)
+#### 🏁 SPARTA WROCLAW   (45)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 9 | **Brady Kurtz** | 3, 3, 3, 1', 3 | **13+1** |
@@ -53,7 +53,7 @@ tags:
 
 <br>
 
-### 🏁 UNIA LESZNO       (45)
+#### 🏁 UNIA LESZNO       (45)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 1 | **Grzegorz Zengota** | 2, 2, 0, 0, - | **4** |
@@ -65,7 +65,7 @@ tags:
 | 7 | **Kacper Mania** | 1, T, - | **1** |
 | 8 | **Emil Konieczny** | 0 | **0** |
 
-## Heat-by-Heat Race Result Breakdown
+### Heat-by-Heat Race Result Breakdown
 
 * SPARTA WROCLAW (45)
 * (100:80)
