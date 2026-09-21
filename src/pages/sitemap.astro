@@ -15,8 +15,7 @@ const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags || []))].sort();
 <html lang="en">
 	<head>
 		<BaseHead title={`Site Directory | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
-        <meta name="robots" content="noindex, nofollow" />
-		<style>
+        <style>
 			main { max-width: 960px; margin: 0 auto; padding: 3em 1em; min-height: 60vh; }
 			.section-box { margin-bottom: 3rem; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
 			h2 { border-bottom: 2px solid var(--accent); padding-bottom: 0.5rem; margin-bottom: 1.5rem; color: #222; }
