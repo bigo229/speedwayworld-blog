@@ -1,19 +1,21 @@
 ---
+import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
 
-// 1. Strictly type your parameters using Astro's native Collection schema
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & {
+	prev?: CollectionEntry<'blog'> | null;
+	next?: CollectionEntry<'blog'> | null;
+};
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [] } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } = Astro.props;
 ---
 
 <html lang="en">
 	<head>
-		<!-- 2. Pass your dynamic metadata down into the component props -->
+		<!-- Restored your original meta configuration properties -->
 		<BaseHead 
 			title={title} 
 			description={description} 
@@ -24,56 +26,168 @@ const { title, description, pubDate, updatedDate, heroImage, tags = [] } = Astro
 			tags={tags}
 		/>
 		<style>
-			/* Your existing component layout styling stays right here */
+			.post-hero {
+				position: relative;
+				width: 100%;
+				min-height: 320px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				text-align: center;
+				color: #fff;
+				margin-bottom: 2rem;
+			}
+			.post-hero-bg {
+				position: absolute;
+				inset: 0;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				z-index: 0;
+			}
+			.post-hero-content {
+				position: relative;
+				z-index: 1;
+				padding: 2rem;
+				max-width: 800px;
+			}
+			.post-hero h1 {
+				font-size: clamp(1.8rem, 4vw, 3rem);
+				margin: 0 0 0.5rem;
+				font-family: var(--font-display);
+				color: #fff;
+				text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+			}
+			.post-hero .post-meta {
+				font-size: 1rem;
+				opacity: 0.95;
+				text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+			}
+			.post-hero .post-tags {
+				font-size: 0.85rem;
+				opacity: 0.9;
+				text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+				margin-top: 0.5rem;
+			}
+			.post-hero .post-tags a {
+				color: #fff;
+				text-decoration: underline;
+				margin: 0 0.2rem;
+			}
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			/* Restored image safety handling so markdown images scale correctly */
+			.prose :global(img) {
+				max-width: 100%;
+				height: auto;
+				border-radius: 8px;
+				display: block;
+				margin: 1.5rem auto;
+			}
+			.prev-next {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				gap: 1rem;
+				margin-top: 3rem;
+				padding-top: 1.5rem;
+				border-top: 1px solid var(--text-lighter);
+			}
+			.prev-next a {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5rem;
+				padding: 0.75rem 1.25rem;
+				background: var(--text-lighter);
+				border-radius: 6px;
+				color: var(--text);
+				text-decoration: none;
+				font-size: 0.95rem;
+				font-weight: 500;
+			}
+			.prev-next a:hover {
+				background: var(--accent);
+				color: #fff;
+			}
+			.prev-next .all-posts {
+				margin: 0 auto;
+				text-align: center;
+				font-weight: 600;
+				color: var(--accent);
+			}
+			@media (max-width: 720px) {
+				.prev-next {
+					flex-direction: column;
+				}
+			}
+			.notices.blue {
+				background: #e6f3ff;
+				border-left: 4px solid var(--accent);
+				padding: 1rem;
+				margin: 1rem 0;
+				border-radius: 4px;
+			}
+			.notices.blue p {
+				margin: 0;
+			}
 		</style>
 	</head>
 
-		<body>
+	<body>
 		<Header />
-		
-		<!-- 1. Added your template's layout containers to constrain layout width -->
-		<div class="container">
-			<div class="main-layout">
-				<main class="main-content">
-					<article>
-						<!-- Render the Hero Image safely contained -->
-						{heroImage && (
-							<img 
-								width={720} 
-								height={360} 
-								src={heroImage} 
-								alt="" 
-								style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 1rem; object-fit: cover; display: block;" 
-							/>
-						)}
-						
-						<!-- Render the Title -->
-						<h1 class="title" style="font-size: clamp(1.8rem, 4vw, 2.5rem); margin: 0 0 0.5rem 0; line-height: 1.2;">
-							{title}
-						</h1>
-						
-						<!-- Render the Date safely by converting strings to true Date objects first -->
-						<div class="date-wrapper" style="color: var(--text-light); font-size: 0.9rem; margin-bottom: 1.5rem;">
-							{pubDate && <FormattedDate date={new Date(pubDate)} />}
-							{updatedDate && (
-								<div class="last-updated-on">
-									Last updated on <FormattedDate date={new Date(updatedDate)} />
-								</div>
+		<main>
+			<article>
+				{heroImage && (
+					<div class="post-hero">
+						<img src={heroImage} alt={title} class="post-hero-bg" />
+						<div class="post-hero-content">
+							<h1>{title}</h1>
+							<p class="post-meta">
+								{
+									(() => {
+										const d = pubDate instanceof Date ? pubDate : new Date(pubDate);
+										return !isNaN(d.getTime()) ? d.toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+									})()
+								}
+							</p>
+							{tags && tags.length > 0 && (
+								<p class="post-tags">
+									{tags.map((tag) => (
+										<a href={`/tags/${tag}`}>{tag}</a>
+									))}
+								</p>
 							)}
 						</div>
-						
-						<hr style="border: none; border-top: 1px solid var(--text-lighter); margin-bottom: 2rem;" />
+					</div>
+				)}
+				
+				<!-- The clean content slot that maps your text columns down perfectly centered -->
+				<div class="prose">
+					<slot />
+				</div>
 
-						<!-- Content slot injection window -->
-						<slot /> 
-
-					</article>
-				</main>
-			</div>
-		</div>
-
+				<div class="prose">
+					<nav class="prev-next" aria-label="Post navigation">
+						{prev ? (
+							<a href={`/blog/${prev.id || prev.slug}/`}>&larr; Previous Post</a>
+						) : (
+							<span></span>
+						)}
+						<a href="/blog" class="all-posts">All posts</a>
+						{next ? (
+							<a href={`/blog/${next.id || next.slug}/`}>Next Post &rarr;</a>
+						) : (
+							<span></span>
+						)}
+					</nav>
+				</div>
+			</article>
+		</main>
 		<Footer />
 	</body>
-
-
 </html>
