@@ -421,3 +421,11 @@ footer .social-links a:hover {
 	color: var(--accent);
 	font-weight: 600;
 }
+/* Target paragraphs that come immediately after an image inside your blog posts */
+.main-content img + p {
+  font-size: 0.8rem;               /* Scales nicely with your responsively sized layout */
+  color: var(--text-light);        /* Uses your theme's native lighter gray color */
+  margin-top: 0.4rem;              /* Pulls the text closer up to the image */
+  margin-bottom: 1.5rem;           /* Puts a healthy gap before the next paragraph starts */
+  text-align: center;              /* Centers the caption directly beneath the image */
+}
