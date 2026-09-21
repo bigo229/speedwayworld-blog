@@ -74,13 +74,15 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 				margin: 0 0.2rem;
 			}
 			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
-				text-align: left;
-			}
+    /* Increased layout box width from 720px to 960px for a wider, spacious feel */
+                 width: 960px; 
+                 max-width: calc(100% - 2em);
+                 margin: auto;
+                 padding: 1em;
+                 color: rgb(var(--gray-dark));
+                 text-align: left;
+             }
+
 			.prose :global(img) {
 				max-width: 100%;
 				height: auto;
