@@ -75,29 +75,31 @@ const { title, description, pubDate, updatedDate, heroImage, tags, prev, next } 
 				margin: 0 0.2rem;
 			}
 			.prose {
-                width: 720px;
-                max-width: calc(100% - 2em);
-                margin: auto;
-                padding: 1em;
-                color: rgb(var(--gray-dark));
-          /* Force body copy text back to standard readable left alignment */
-                text-align: left; 
-             }
-
-        /* Ensure markdown paragraphs within the body don't center inherit */
-            .prose p {
-                text-align: left;
-             }
-
-        /* Retain centered alignment rules strictly for embedded media assets */
-             .prose :global(img) {
-                max-width: 100%;
-                height: auto;
-                border-radius: 8px;
-                display: block;
-                margin: 1.5rem auto;
-               }
-
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+				text-align: left; /* Restores clean text justification */
+			}
+			/* Restored your original native markdown image formatting */
+			.prose :global(img) {
+				max-width: 100%;
+				height: auto;
+				border-radius: 8px;
+				display: block;
+				margin: 1.5rem auto;
+			}
+			/* Added safety override to make sure text strings format naturally */
+			.prose :global(p) {
+				text-align: left;
+				line-height: 1.7;
+				margin-bottom: 1em;
+			}
+			/* Added safety override for list objects if present */
+			.prose :global(ul), .prose :global(ol) {
+				text-align: left;
+			}
 			.prev-next {
 				display: flex;
 				justify-content: space-between;
