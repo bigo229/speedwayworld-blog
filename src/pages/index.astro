@@ -2,7 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { SITE_TITLE } from '../consts';
 import { getCollection } from 'astro:content';
 
 const allPosts = (await getCollection('blog')).sort(
@@ -12,6 +12,10 @@ const allPosts = (await getCollection('blog')).sort(
 // Show the 10 most recent posts chronologically on page 1
 const posts = allPosts.slice(0, 10);
 const allTags = [...new Set(allPosts.flatMap((p) => p.data.tags || []))].sort();
+
+// Define custom, optimized SEO variables for your landing page snippet
+const homeTitle = `SpeedwayWorld | Home of Latest Speedway News & Race Results`;
+const homeSeoDescription = "Your number one source for the latest speedway world news, PGE Ekstraliga play-off race results, SGP standings, match reports, and tables.";
 
 function groupByMonth(postsList) {
 	const map = new Map();
@@ -36,8 +40,8 @@ const archives = groupByMonth(allPosts);
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-        <meta name="robots" content="noindex, nofollow" />
+		<!-- Swapped global constants with your tailored landing page SEO variables -->
+		<BaseHead title={homeTitle} description={homeSeoDescription} />
 		<style>
 			.hero { position: relative; padding: 5rem 1rem 4rem; text-align: center; color: #fff; min-height: 320px; display: flex; align-items: center; justify-content: center; margin-top: 0; }
 			.hero-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0; }
