@@ -21,7 +21,7 @@ Lambert, who also picked up three points for finishing second in the afternoon s
 
 Last year’s runner-up **Brady Kurtz is third overall** on 139 and will also hope to improve on 2025 silver after falling just a point short of gold. **All three riders are guaranteed at least a bronze medal** with one round remaining.
 
-![Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski](/images/blog/lambert-kurtz-2026-09-12-large-scaled.jpg)Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski
+![Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski](/images/blog/lambert-kurtz-2026-09-12-large-scaled.jpg)<small class="blog-caption">Title rivals Robert Lambert and Brady Kurtz share a joke in Vojens. PHOTO: Wojciech Tarchalski</small>
 
 The champion will be crowned at the [**DEWALT FIM Speedway GP of Poland – Torun on September 26**](https://fimspeedway.com/rounds/2026-dewalt-fim-speedway-gp-of-poland-torun), and after taking the Golden Race Jacket in Vojens, Lambert would love to end the night wearing it and lift the sport's biggest prize in the city he calls home.
 
