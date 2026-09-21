@@ -124,7 +124,7 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 <br>
 
-### 🏁 Heat 3
+#### 🏁 Heat 3
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 <br>
 
-### 🏁 Heat 4
+#### 🏁 Heat 4
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -154,7 +154,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > The visitors won the opening round decisively and cruised to a convincing double victory. For now, it's a surprise in Wrocław, with the visitors from Leszno leading by six points. Wrocław can use tactical reserves.
 
-### 🏁 Heat 5
+<br>
+
+#### 🏁 Heat 5
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -170,7 +172,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > The home team had the starting position, but the first corner was approached by the visitors. Bewley, however, was already very quick on the outside and had driven around the entire field. Janowski, meanwhile, had fallen completely behind.
 
-### 🏁 Heat 6
+<br>
+
+#### 🏁 Heat 6
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -186,7 +190,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > Laguta won the start, but Zengot was gaining momentum on the outside, and Laguta had to forcefully block him. After that, the field fell apart. Another draw.
 
-### 🏁 Heat 7
+<br>
+
+#### 🏁 Heat 7
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -211,7 +217,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > Laguta won the start, but his bike almost stalled, leaving him far behind the rest of the field. Kurtz, however, managed to outshine Pawlicki, and Sparta won the team race for the first time in this match.
 
-### 🏁 Heat 8
+<br>
+
+#### 🏁 Heat 8
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -225,7 +233,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > He won the start from pole position for Lagut and raced to the finish line for three points, although he couldn't afford to make any mistakes, as Cook and Rew. Andersen were already waiting behind him.
 
-### 🏁 Heat 9
+<br>
+
+#### 🏁 Heat 9
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -239,7 +249,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > Heat 9, and Kowolik finally got the speed he'd been hoping for! Kurtz won the start, and Kowolik pushed himself so hard on the wide open field that he quickly caught up. Kołodziej's attacks didn't impress the Sparta junior. The Wrocław team evened the score!
 
-### 🏁 Heat 10
+<br>
+
+#### 🏁 Heat 10
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -255,7 +267,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > BETARD SPARTA Wrocław takes the lead in this match for the first time and this result of this run means that the Wrocław team is in the final of the PGE Ekstraliga!
 
-### 🏁 Heat 11
+<br>
+
+#### 🏁 Heat 11
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -269,7 +283,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > The visitors had the start, but the Wrocław team dealt with Zengota and launched a fierce attack on the leader, Rew. However, he fended off attacks from both sides, as both Kurtz and Bewley attacked the visiting rider fiercely. However, they couldn't snatch victory from him.
 
-### 🏁 Heat 12
+<br>
+
+#### 🏁 Heat 12
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -283,7 +299,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > The visitors had the start, but the Wrocław team dealt with Zengota and launched a fierce attack on the leader, Rew. However, he fended off attacks from both sides, as both Kurtz and Bewley attacked the visiting rider fiercely. However, they couldn't snatch victory from him.
 
-### 🏁 Heat 13
+<br>
+
+#### 🏁 Heat 13
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -299,7 +317,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > The visitors decisively won the opening period and took a two-goal lead, which they never relinquished. Laguta searched for various avenues, but to no avail.
 
-### 🏁 Heat 14
+<br>
+
+#### 🏁 Heat 14
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -313,7 +333,9 @@ each, followed by Grzegorz Zengota with 6 points and Keynan Rew with 5 points
 
 > Once again, the visitors won the race, escaping from the line to the Wrocław team. Janowski struggled but couldn't find the speed. FOGO UNIA Leszno is one step closer to victory in Wrocław!
 
-### 🏁 Heat 15
+<br>
+
+#### 🏁 Heat 15
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
