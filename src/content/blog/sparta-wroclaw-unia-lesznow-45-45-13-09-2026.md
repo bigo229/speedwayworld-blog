@@ -32,7 +32,7 @@ tags:
 
 <br>
 
-<img src="/images/blog/league-tables/unia-128x128.jpg" alt="Unia Leszno" width="80" />
+<img src="/images/blog/league-tables/betard-sparta-wroclaw-128x128.jpg" alt="Sparta Wroclaw" width="80" />
 
 <br>
  
