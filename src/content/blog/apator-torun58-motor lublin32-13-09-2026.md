@@ -28,7 +28,7 @@ category: "Polish Speedway"
 <br>
 
 
-## Official Team Scorecards
+#### Official Team Scorecards
 
 <br>
 
@@ -36,7 +36,7 @@ category: "Polish Speedway"
 
 <br>
 
-### 🏁 Apator Torun      (58)
+#### 🏁 Apator Torun      (58)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 9 | **Patryk Dudek** | 3, 2', 3, 2', 2 | **12+2** |
@@ -53,7 +53,7 @@ category: "Polish Speedway"
 
 <br>
 
-### 🏁 Motor Lublin      (32)
+#### 🏁 Motor Lublin      (32)
 | # | Rider Name | Heat Run History | Total Points |
 | :---: | :--- | :---: | :---: |
 | 1 | **Kacper Woryna** | 0, 2, 2, 1, 0, 2'| **7+1** |
@@ -64,15 +64,21 @@ category: "Polish Speedway"
 | 6 | **Bartosz Bańbor** | 1, 1, 0 | **2** |
 | 7 | **Bartosz Jaworski** | 0, 0, 0 | **0** |
 
+<br>
+
 #### 🏁 Apator Torun (58 Points)
 Top scorers for Torun, Patryk Dudek with 12+2 points and Mikkel Michelsen (11 points) led the scoring , followed by Emil Sajfutdinow with 10 points and also Robert Lambert on 9+1 & Antoni Kawczyński with 6+2 and both Mikołaj Duchiński & Norick Bloedorn with 5+1 points
+
+<br>
 
 #### 🏁 Motor Lublin (32 Points)
 Top scorers for Lublin included Bartosz Zmarzlik with a dominant 13 points, 
 Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Additional points came from Bartosz Bańbor (2) and Mateusz Cierniak (2).
 
+<br>
 
-### Heat-by-Heat Race Result Breakdown
+
+#### Heat-by-Heat Race Result Breakdown
 
 * Apator Torun 58 (Home Team)
 * Motor Lublin 32 (Away Team)
@@ -81,8 +87,9 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 * 13.09.2026 19:30
 * Motoarena im. Mariana Rosego - Toruń
 
+<br>
 
-### 🏁 Heat 1
+#### 🏁 Heat 1
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -96,7 +103,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Patryk Dudek made a brilliant start, quickly outpacing the rest of the field. A pair of visiting drivers followed, and just when it seemed the race would be tied, a spirited Norick Bloedorn passed Kacper Woryna on the home stretch.
 
-### 🏁 Heat 2
+#### 🏁 Heat 2
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -110,7 +117,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Mikołaj Duchiński was the clear winner from the start, leading the field from start to finish. Behind him, a phenomenal battle for second place unfolded, with Antoni Kawczyński emerging victorious after capitalizing on a mistake by Bartosz Bańbor.
 
-### 🏁 Heat 3
+#### 🏁 Heat 3
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -124,7 +131,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > A very close battle on the track! Mikkel Michelsen and Bartosz Zmarzlik engaged in a duel of elbows, with the Danish rider ultimately prevailing. Zmarzlik had to defend his position until the end due to Sayfutdinov's offensive skating.
 
-### 🏁 Heat 4
+#### 🏁 Heat 4
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -135,7 +142,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > W - Fell / Excluded   U - In the restart
 
-### 🏁 Restart - Heat 4
+#### 🏁 Restart - Heat 4
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -149,7 +156,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > A very confident start and a pair of runs from the hosts. A race without a long history, they led and controlled from start to finish.
 
-### 🏁 Heat 5
+#### 🏁 Heat 5
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -163,7 +170,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Track positions changed rapidly. Martin Vaculik had the best start, but he couldn't maintain his lead against the confident Mikkel Michelsen. Bartosz Zmarzlik was last for half of the first lap, eventually settling for second place.
 
-### 🏁 Heat 6
+#### 🏁 Heat 6
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -177,7 +184,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Sayfutdinov got off to the best start, and after a moment, Antoni Kawczyński, who was propelled by the fence, tried to join him. Kacper Woryna successfully defended the junior's attack, securing two valuable points for the visitors.
 
-### 🏁 Heat 7
+#### 🏁 Heat 7
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -195,7 +202,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 >16,929 spectators turned out today at the stadium.
 
-### 🏁 Heat 8
+#### 🏁 Heat 8
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -209,7 +216,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Emil Sayfutdinow made a brilliant start and led the race from start to finish. However, the Toruń team leader had to remain vigilant until the very end due to repeated attacks from Kacper Woryna.
 
-### 🏁 Heat 9
+#### 🏁 Heat 9
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -225,7 +232,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Patryk Dudek definitely had the best start, and was joined by Robert Lambert as he exited the first corner, confidently passing Kacper Woryna. Another team victory for the pair from Toruń.
 
-### 🏁 Heat 10
+#### 🏁 Heat 10
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -241,7 +248,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > PRES GRUPA DEVELOPERSKA Toruń has secured its place in this year's PGE Ekstraliga final.
 
-### 🏁 Heat 11
+#### 🏁 Heat 11
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -255,7 +262,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Martin Vaculik made a strong start, but his lead lasted only a partial lap. The Toruń pair demonstrated incredible speed and efficiency.
 
-### 🏁 Heat 12
+#### 🏁 Heat 12
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -269,7 +276,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Once again, the home team was much faster than the visitors. The race didn't have much of a storyline; everything happened from the start.
 
-### 🏁 Heat 13
+#### 🏁 Heat 13
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -283,7 +290,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Robert Lambert made a great start, and Emil Sajfutdinow put in a tremendous effort on the outside, taking the lead with a swift move. Bartosz Zmarzlik also achieved high speed, allowing him to ultimately overtake Lambert and take second place.
 
-### 🏁 Heat 14
+#### 🏁 Heat 14
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
@@ -299,7 +306,7 @@ Martin Vaculik with 8+2 points, and Kacper Woryna contributing 7+1 points. Addit
 
 > Martin Vaculik led the field from start to finish. Behind him, a close battle for third place unfolded. Kawczyński and Cierniak passed each other numerous times throughout the race, but ultimately, the visiting representative prevailed.
 
-### 🏁 Heat 15
+#### 🏁 Heat 15
 
 | Pos | Rider | Team | Points |
 | :--- | :--- | :--- | :--- |
